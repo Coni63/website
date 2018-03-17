@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.1");
+define("_VERSION","1.4.2");
+
+define("_NEWS21_TITLE","Ajout d'un Script et d'un site dans Divers (v1.4.2)");
+define("_NEWS21_DESC", "Ajout d'un lien vers Variance Explained et d'un notebook sur la classification d'un sous dataset de QuickDraw");
+define("_NEWS21_DATE", "17/03/2018");
 
 define("_NEWS20_TITLE","Modif UI, ajout notebook et liens (v1.4.1)");
 define("_NEWS20_DESC", "Quelques points de l'interface ont été améliorés, un nouveau script ajouté (amélioration du double pendule avec RNN) ainsi que différents nouveaux liens (DataCamp, sites, etc...)");

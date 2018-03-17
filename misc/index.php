@@ -106,6 +106,8 @@
                     <t><a href="https://ai.google/education#?modal_active=none" target="_blank">Learn with Google AI</a></t>
                     <br>
                     <t><a href="https://booking.ai/" target="_blank">Booking.datasciences</a></t>
+                    <br>
+                    <t><a href="http://varianceexplained.org/" target="_blank">Variance Explained</a></t>
                 </p>
             </div>
 		</div>

@@ -96,4 +96,7 @@ define("_PUZZLE19_DESC", "Après avoir mis en place un simulateur du double pend
 define("_PUZZLE20_TITLE", "ML - Keras - Simulation d'un double pendule avec un RNN (partie 2)");
 define("_PUZZLE20_DESC", "Précédemment, nous avons vu comment modelister un double pendule à l'aide d'un RNN. Pour ce faire, nous avions utilisé un model fixe (longueur des bras et leur masse). Dans ce model, nous allons essayer de faire le meme apprentissage mais avec des paramètres variables et de plus grandes amplitudes angulaires");
 
+define("_PUZZLE21_TITLE", "ML - Keras - Classification Dataset QuickDraw avec 20 classes similaires");
+define("_PUZZLE21_DESC", "Dans ce notebook, Différents CNN vont etre testé sur un dataset plus complexe que MNIST d'images faite à la main (20 classes, animaux uniquement, 28x28 en N&B). Les CNN classiques vont etre testés ainsi que les Capsule Networks avant de regarder les mauvaises classifications. On verra que ce sont souvent des erreurs lié au dessinateur...");
+
 ?>

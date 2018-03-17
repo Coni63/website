@@ -94,5 +94,7 @@ define("_PUZZLE19_DESC", "After creating a simulator of the double pendulum, a d
 define("_PUZZLE20_TITLE", "ML - Keras - Simulation of double pendulum using RNNs (part 2)");
 define("_PUZZLE20_DESC", "Previously, we tried to simulate a double pendulum using RNN. To do so, we used fixed model parameters (length and mass). In this workbook we will try to extend this model to simulate a model with also variable parameters and wider initial parameters");
 
+define("_PUZZLE21_TITLE", "ML - Keras - Classification Dataset QuickDraw with 20 similar classes");
+define("_PUZZLE21_DESC", "In this notebook, differents CNNs will be tested on a dataset of images more complex than MNIST still made by hand (20 classes, animals only, 28x28 in B&W). Classic CNNs will be tested as well as the CapsNet before looking more in detail at the bad classifications. We will see that these are often errors related to the designer...");
 
 ?>
