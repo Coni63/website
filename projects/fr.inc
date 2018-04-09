@@ -7,6 +7,8 @@ define("HEAD","Envie de voir un résumé des différents projets du Master ? C'e
 define("_DL_PPT", "TÉLÉCHARGER LE POWERPOINT");
 define("_DL_FICHE", "TÉLÉCHARGER RÉSUMÉ");
 define("_DL_REPORT", "TÉLÉCHARGER LE RAPPORT");
+define("_LINK", "LIEN");
+define("_URL", "URL DU SITE");
 
 define("_PROJECT_2","Projet 2");
 define("_PROJECT_3","Projet 3");
@@ -16,6 +18,9 @@ define("_PROJECT_6","Projet 6");
 define("_PROJECT_7","Projet 7");
 define("_PROJECT_8","Projet 8");
 define("_PROJECT_9","Projet 9");
+define("_PROJECT_10","Projet 10");
+define("_PROJECT_11","Projet 11");
+define("_PROJECT_12","Projet 12");
 
 define("_P2_TITLE", "Analyse de données nutritionnelles");
 define("_P2_DESC", "Ce premier projet du Parcours de Data Scientist aborde la partie Exploration/Nettoyage du travail de Data Analyst/Data Scientist. </br></br>Dans celui-ci, des données sur des produits alimentaires ainsi que leurs valeurs nutritionnelles étaient fournies mais avec beaucoup de données manquantes ou erronées. L'objectif de ce projet était donc de nettoyer les données incorrectes. En parallèle du nettoyage, une exploration uni variée et multivariée a été faite afin de déterminer les paramètres important à des plats sains (afin d'aider une société à la mise en place de recette saines).");
@@ -48,5 +53,17 @@ define("_P8_DATE", "Janvier 2018");
 define("_P9_TITLE", "Compétition Kaggle - Segmentation d'images");
 define("_P9_DESC", "Pour finir la formation, il nous est demandé de participer à une compétition Kaggle ouverte de notre choix. Je me suis tourné sur la compétition de segmentation d'images ou l’objectif est de prédire un masque par noyau de cellules.</br></br>Après une phase de pré-processing, un modèle basé uniquement sur du travail sur les image a été testé. Par la suite, le modèle U-net (mis en place en 2015 pour ce même type de tâche lors d'une précédente compétition avec des résultats bluffant) a été légèrement adapté à mon problème. Le résultats n'étant pas très bon, un second modèle utilisant de multiples images avec un pré-processing différent a été mis en place, permettant une bien meilleure segmentation. Pour finir, une phase de post-processing a été mise en place afin de séparer les cellules et préparer le fichier de soumission.");
 define("_P9_DATE", "Février 2018");
+
+define("_P10_TITLE", "Segmentation du comportement des clients (V2)");
+define("_P10_DESC", "Lors du P6, j'ai découvert plusieurs algorithmes pour traiter les données textuelles (LDA, LSA et NMF). Durant mon P5, j'avais remarqué que le clustering des articles n'était pas très bon et pouvait être amélioré (améliorant ainsi la classification totale). De ca fait, j'ai recommencé ce projet après la formation avec ces nouvelles connaissances. Le résultat du clustering des articles est bien meilleur. Le nouveau notebook a été partagé sur Kaggle");
+define("_P10_DATE", "Mars 2018");
+
+define("_P11_TITLE", "Implementation en Python du DOSNES");
+define("_P11_DESC", "Lors du projet de recommandeur de films en 3D, je voulais représenter les données sur une sphere. Le seul algorithme que j'ai trouvé permettant ceci était le DOubly Stochastic Neighbor Embedding on a Sphere (DOSNES) publié par Yao Lu en 2016 sur ArXiv. Cependant, il n'y avait pas d'implementations disponible en Python. De ce fait, je l'ai recrée à partir de leur publication et de leur implementation MatLab en utilisant le même naming que Sklearn. Les véréfication et la gestion d'erreur n'est pas encore implémentée mais l'algorithme est fonctionnel.");
+define("_P11_DATE", "Mars 2018");
+
+define("_P12_TITLE", "Recommandeur de films dans un espace 3D");
+define("_P12_DESC", "Ce projet utilise le Machine Learning pour représenter les films dans un espace à dimensions en fonction de leurs similarités. A partir des données de IMDb, un sous ensemble de film a été conservé. Ces données ont été completées avec les données de l'API OMDb. Apres une phase de nettoyage/préparation, le t-SNE et le DOSNES ont été utilisés afin de représenter ce dataset dans un espace à 3 dimensions ou plaqués sur une sphere. Le rendu a été fait en JavaScipt en utilisant le WebGL avec Three.js.");
+define("_P12_DATE", "Avril 2018");
 
 ?>

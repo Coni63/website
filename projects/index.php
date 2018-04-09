@@ -57,6 +57,9 @@
 							<li class="menu-item"><a class="smoothScroll" href="#p7" title="<?= _PROJECT_7 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P7</strong></span></a></li>
 							<li class="menu-item"><a class="smoothScroll" href="#p8" title="<?= _PROJECT_8 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P8</strong></span></a></li>
 							<li class="menu-item"><a class="smoothScroll" href="#p9" title="<?= _PROJECT_9 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P9</strong></span></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#p9" title="<?= _PROJECT_10 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P10</strong></span></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#p9" title="<?= _PROJECT_11 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P11</strong></span></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#p9" title="<?= _PROJECT_12 ?>"><span class="fa-stack fa-lg"><strong class="fa-stack-1x">P12</strong></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -286,6 +289,74 @@
 	</div>
 	
 	<hr>
+	
+    <section id="p10" name="p10"></section>
+	<div class="container desc animated wow fadeInDown">
+		<div class="row">
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5><?= mb_strtoupper(_PROJECT_10) ?></h5>
+					<h5><?= mb_strtoupper(_P10_DATE) ?></h5>
+				</div>
+                <div class="col-lg-6 pro"> 
+                    <p><t><?= _P10_TITLE ?></t></p>
+                    <p><more>
+                        <?= _P10_DESC ?>
+                    </more></p>
+                </div>
+                <div class="col-lg-3 pro">
+				    <p>
+                        <a href="https://www.kaggle.com/coni57/customer-segmentation" target="_blank"><i class="fa fa-link fa-lg"></i></a> <sm><?= _LINK ?></sm><br>
+                    </p>
+                </div>
+        </div>
+	</div>
+
+	<hr>
+	
+    <section id="p11" name="p11"></section>
+	<div class="container desc animated wow fadeInDown">
+		<div class="row">
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5><?= mb_strtoupper(_PROJECT_11) ?></h5>
+					<h5><?= mb_strtoupper(_P11_DATE) ?></h5>
+				</div>
+                <div class="col-lg-6 pro"> 
+                    <p><t><?= _P11_TITLE ?></t></p>
+                    <p><more>
+                        <?= _P11_DESC ?>
+                    </more></p>
+                </div>
+                <div class="col-lg-3 pro">
+				    <p>
+                        <a href="https://github.com/Coni63/DOSNES" target="_blank"><i class="fa fa-link fa-lg"></i></a> <sm><?= _LINK ?></sm><br>
+                    </p>
+                </div>
+        </div>
+	</div>
+	
+	<hr>
+	
+    <section id="p12" name="p12"></section>
+	<div class="container desc animated wow fadeInDown">
+		<div class="row">
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5><?= mb_strtoupper(_PROJECT_12) ?></h5>
+					<h5><?= mb_strtoupper(_P12_DATE) ?></h5>
+				</div>
+                <div class="col-lg-6 pro"> 
+                    <p><t><?= _P12_TITLE ?></t></p>
+                    <p><more>
+                        <?= _P12_DESC ?>
+                    </more></p>
+                </div>
+                <div class="col-lg-3 pro">
+				    <p>
+                        <a href="https://github.com/Coni63/coni63.github.io" target="_blank"><i class="fa fa-link fa-lg"></i></a> <sm><?= _LINK ?></sm><br>
+                        <a href="https://coni63.github.io/" target="_blank"><i class="fa fa-link fa-lg"></i></a> <sm><?= _URL ?></sm><br>
+                    </p>
+                </div>
+        </div>
+	</div>
 
 	
 	

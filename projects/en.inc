@@ -7,7 +7,8 @@ define("HEAD","Wants to see some content of training's project ? It's here ! <br
 define("_DL_PPT", "DONWLOAD POWERPOINT");
 define("_DL_FICHE", "DOWNLOAD SUMMARY");
 define("_DL_REPORT", "DOWNLOAD REPORT");
-
+define("_LINK", "LINK");
+define("_URL", "WEBSITE URL");
 
 define("_PROJECT_2", "Project 2");
 define("_PROJECT_3", "Project 3");
@@ -17,6 +18,9 @@ define("_PROJECT_6", "Project 6");
 define("_PROJECT_7", "Project 7");
 define("_PROJECT_8", "Project 8");
 define("_PROJECT_9", "Project 9");
+define("_PROJECT_10","Project 10");
+define("_PROJECT_11","Project 11");
+define("_PROJECT_12","Project 12");
 
 define("_P2_TITLE", "Nutritional data analysis");
 define("_P2_DESC", "This first project of the Data Scientist Course covers the Exploration / Cleaning part of the Data Analyst / Data Scientist job.</br></br>We have datas from food products with their nutritional values. On this dataset there were a lot of missing or incorrect data. The purpose of this project was therefore to clean up/filter the incorrect data. In parallel with the cleaning, a univariate and multivariate exploration was done to determine the most important parameters to healthy dishes (in order to help a company to set up healthy recipes).");
@@ -51,5 +55,17 @@ define("_P8_DATE", "January 2018");
 define("_P9_TITLE", "Kaggle Competition - Image segmentation");
 define("_P9_DESC", "To finish the program, we have to participate to an open Kaggle Competition. I decided to work on a competition where we are asked to perform an image segmentation of Cells Nucleis.</br></br>After the pre-processing step, a first model based on image processing has been tried as baseline. After that, the model U-Net (reference model for this task - won ISBT in 2015) has been adapted to this specific task. The result was not as good as expected with issues with stability of training. As a result, I've tried a U-Net extednded which takes multiple inputs with différents pre-processing steps to help the model to segment the image. The result was clearly better. To finish, as step of Post-Processeing has been implemented to extract every nucleis and prepare the submission file. ");
 define("_P9_DATE", "February 2018");
+
+define("_P10_TITLE", "Segmentation of customer's behavior (V2)");
+define("_P10_DESC", "During the P6, I discovered some algorithms to work on text data (LDA, LSA and NMF). In the Project 5, I knew that a huge drawback of my current model was the clustering done on articles. As a result, I've done the project new after the classes with this new knowledge and the result is clearly better. The Notebook has been shared on Kaggle.");
+define("_P10_DATE", "March 2018");
+
+define("_P11_TITLE", "Python implementation fo the DOSNES");
+define("_P11_DESC", "In the project Movie Explorer, I wanted to represent datas on a Sphere. The only algorithm I found which is doing that was the DOubly Stochastic Neighbor Embedding on a Sphere (DOSNES) published by Yao Lu in Sep. 2016 on ArXiv. As there were no Python implementation existing, I re-created it from the paper and their MatLab implementation using sklearn method naming. The algorithm doesn't perform all checks yet but it is working.");
+define("_P11_DATE", "March 2018");
+
+define("_P12_TITLE", "Movie Recommander in 3D");
+define("_P12_DESC", "This project use Machine Learning Algorithms to be represent, in a 3D space, movies based on similarities. From a Dataset provided by IMDb, a subset of movie has been extracted. Datas have been completed/improved by using OMDb API. After a phase a cleanup/preparation, the tSNE, and DOSNES algorithm have been used to represent movies in a smaller dimension. The rendering has been done in JavaScript using WebGL with three.js.");
+define("_P12_DATE", "April 2018");
 
 ?>
