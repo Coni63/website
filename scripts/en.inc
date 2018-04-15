@@ -97,4 +97,7 @@ define("_PUZZLE20_DESC", "Previously, we tried to simulate a double pendulum usi
 define("_PUZZLE21_TITLE", "ML - Keras - Classification Dataset QuickDraw with 20 similar classes");
 define("_PUZZLE21_DESC", "In this notebook, differents CNNs will be tested on a dataset of images more complex than MNIST still made by hand (20 classes, animals only, 28x28 in B&W). Classic CNNs will be tested as well as the CapsNet before looking more in detail at the bad classifications. We will see that these are often errors related to the designer...");
 
+define("_PUZZLE22_TITLE", "ML - Numpy - Test of Neuro-Evolution instead of Reinforcement Learning");
+define("_PUZZLE22_DESC", "In this notebook, I tried to train a Neural Network to solve the CartPole problem of gym library using Genetic Algorithm isntead of Reinforcement Learning with Back Propagation. After Analysis of the behavior, a linear Model has been trained to perform nearly as well as NN");
+
 ?>

@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.3");
+define("_VERSION","1.4.4");
+
+define("_NEWS23_TITLE","Add a Script (v1.4.4)");
+define("_NEWS23_DESC", "Add a script about Neuro-Evolution in Reinforcement Learning");
+define("_NEWS23_DATE", "2018-04-15");
 
 define("_NEWS22_TITLE","Adding 3 projects (v1.4.3)");
 define("_NEWS22_DESC", "Add 3 project (Customer Segmentation V2, DOSNES and movie Explorer)");

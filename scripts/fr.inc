@@ -99,4 +99,7 @@ define("_PUZZLE20_DESC", "Précédemment, nous avons vu comment modelister un do
 define("_PUZZLE21_TITLE", "ML - Keras - Classification Dataset QuickDraw avec 20 classes similaires");
 define("_PUZZLE21_DESC", "Dans ce notebook, Différents CNN vont etre testé sur un dataset plus complexe que MNIST d'images faite à la main (20 classes, animaux uniquement, 28x28 en N&B). Les CNN classiques vont etre testés ainsi que les Capsule Networks avant de regarder les mauvaises classifications. On verra que ce sont souvent des erreurs lié au dessinateur...");
 
+define("_PUZZLE22_TITLE", "ML - Numpy - Test de Neuro-Evolution au lieu de l'apprentissage par renforcement");
+define("_PUZZLE22_DESC", "Dans ce notebbok, l'entrainement d'un Reseau de Neurones a été remplacé par un algorithm d'évolution génétique au lieu de la back-propagation. Après analyse du modèle, un modèle linéaire a été entrainé et réussit presque aussi bien que le Réseaux de Neurones plus complexe.");
+
 ?>

@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.3");
+define("_VERSION","1.4.4");
+
+define("_NEWS23_TITLE","Ajout d'un script (v1.4.4)");
+define("_NEWS23_DESC", "Ajout d'un script sur la Neuro-Evolution en Apprentissage par Renforcement");
+define("_NEWS23_DATE", "15/04/2018");
 
 define("_NEWS22_TITLE","Ajout de 3 projets (v1.4.3)");
 define("_NEWS22_DESC", "Ajout des 3 projets (Segmentation des clients V2, DOSNES et movie Explorer)");
