@@ -479,7 +479,11 @@
             </div>
             
             <div class="col-lg-6">
-                <p><img class="img-responsive" src="../static/img/ghost_in_the_cell_ld.jpg" alt=""></p>
+                <p>
+                    <a href="https://www.codingame.com/profile/de015f1a510d60cdcd0551896a34c709188072" target="_blank">
+                        <img class="img-responsive" src="../static/img/ghost_in_the_cell_ld.jpg" alt="">
+                    </a>
+                </p>
             </div>
             <div class="col-lg-3">
                 <p>Codingame</p>
@@ -503,28 +507,37 @@
             </div>
 
             <div class="col-lg-6 col-lg-offset-3">
-                <p><img class="img-responsive" src="../static/img/dorerc.png" alt=""></p>
+                <p>
+                    <a href="https://coni63.github.io/" target="_blank">
+                        <img class="img-responsive" src="../static/img/movie_explorer.png" alt="">
+                    </a>
+                </p>
             </div>
             <div class="col-lg-3">
-                <p>DO_RE_RC_BDD</p>
+                <p>Movie Explorer</p>
                 <p>
                    <more>
                         <?= _REF2_DESC ?> &nbsp;
-                        <strike><a href="http://dorercbdd.esy.es/" target="_blank"><?= _REF2_URL ?> &nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a></strike>
+                        <a href="https://coni63.github.io/" target="_blank"><?= _REF2_URL ?> &nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a><br/>
+                        <a href="https://github.com/Coni63/Movie_Explorer" target="_blank"><?= _REF2_URL_2 ?> &nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                         <br/><br/>
                         <sm>
-                            <i class="fa fa-tag"></i>PHP
+                            <i class="fa fa-tag"></i>WebGL (three.js)
                             <i class="fa fa-tag"></i>HTML
                             <i class="fa fa-tag"></i>CSS
                             <i class="fa fa-tag"></i>JavaScript
-                            <i class="fa fa-tag"></i>SQL
+                            <i class="fa fa-tag"></i>Python 
                         </sm>
                     </more>
                 </p>
             </div>
 
             <div class="col-lg-6 col-lg-offset-3">
-                <p><img class="img-responsive" src="../static/img/checklist2.png" alt=""></p>
+                <p>
+                    <a href="http://huskyeco.esy.es/" target="_blank">
+                        <img class="img-responsive" src="../static/img/checklist2.png" alt="">                    
+                    </a>
+                </p>
             </div>
             <div class="col-lg-3">
                 <p>Husky ECO</p>

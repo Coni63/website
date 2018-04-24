@@ -100,9 +100,10 @@ define("_EXP6_INFO", "2<sup>nd</sup> year Projects");
 define("_REF1_DESC", "I learnt as big part of Python on <a href=\"https://www.codingame.com/home\">Codingame</a>. This website propse different puzzle to solve by coding your own IA. There is sometimes some multiplayer tournaments. I participate actively on 4 of them :");
 define("_REF1_URL", "See my profile");
 
-define("_REF2_DESC", "This was my first PHP website I developped. Thee objective was to do some scrapping on some urls from an online game. Some content was stored in a database to be able to get information faster about some other players<br/><br/> Unfortunately, this website is not up-to-date anymore since PHP 5.4 and a change in the API of the game making the scrapping impossible anymore");
+define("_REF2_DESC", "Based on my current learning of Machine Learning, I decided to create a small website mixing WegGL technology with Machine Learning. The idea was to propose a new way to do a movie recommander. Instead of having movies listed, I wanted to represent them in a 3D space. The closer they are, the more similar they are. There is currently 5 version but the simpliest one remains the V4.");
 
 define("_REF2_URL", "Link to website");
+define("_REF2_URL_2", "Link to the repository");
 
 define("_REF3_DESC", "This second website was a proposal made to simplify an administrative task we have to do in our daily work. The idea was to fill a form, this is afterward stored on the website and easy to search into afterward. Some content are removed for confidentiality reasons");
 define("_REF3_URL", "Link to website");

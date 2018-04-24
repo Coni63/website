@@ -101,9 +101,10 @@ define("_REF1_DESC", "J'ai appris en majorité le langage Python sur <a href=\"h
                         Parmi les tournois proposés, j'ai particulièrement pris part à 4 d'entre eux :");
 define("_REF1_URL", "Voir mon profil");
 
-define("_REF2_DESC", "Ce site était mon premier site en PHP (avec une interface très light). Il avait pour objectif d'appeler des urls particulières sur un jeu en ligne, webscrapper une partie du contenu (fait à intervalle régulier avec Cron) et stocker le contenu dans une base de données. Celle-ci permettait ainsi d'avoir accès aux informations nécessaires par joueurs. Les urls ont été changé par la suite empêchant ce site de fonctionner.<br/><br/> Désormais ce site n'est plus fonctionnel depuis PHP 5.4");
+define("_REF2_DESC", "Suite à ma formation en Data Science, j'ai decidé de créer un petit site mixant la technologie WebGL et le machine Learning. L'idée était de proposer un recommandeur de films différent. Au lieu d'avoir une liste de film similaires, Je voulais les représenter dans un espace 3D. Le plus proches 2 films sont, le plus similaires ils sont.");
 
 define("_REF2_URL", "Voir le site");
+define("_REF2_URL_2", "Voir le repository");
 
 define("_REF3_DESC", "Ce site a été une proposition faite pour simplifier certaines tâches administratives. Ce site sauvegarde le formulaire avec le numéro de projet et un numéro de changement en clé. Ceci permettait donc ensuite d'accéder plus facilement au changement fait. Certaines parties ont été enlevées sur cette version pour des raisons de confidentialité. ");
 define("_REF3_URL", "Voir le site");
