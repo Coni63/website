@@ -23,6 +23,8 @@ define("_SECTION_DOWN", "Bottom");
 define("_SHOW_PUZZLE", "See the puzzle");
 define("_SHOW_SOLUTION", "See the solution");
 define("_DL_SOLUTION", "Download Notebook");
+define("_SHOW_REPO", "See Repository");
+define("_SHOW_VID", "Watch video");
 
 define("_SECTION_EASY", "Easy Puzzles");
 define("_SECTION_MEDIUM", "Medium Puzzles");
@@ -99,5 +101,11 @@ define("_PUZZLE21_DESC", "In this notebook, differents CNNs will be tested on a 
 
 define("_PUZZLE22_TITLE", "ML - Numpy - Test of Neuro-Evolution instead of Reinforcement Learning");
 define("_PUZZLE22_DESC", "In this notebook, I tried to train a Neural Network to solve the CartPole problem of gym library using Genetic Algorithm isntead of Reinforcement Learning with Back Propagation. After Analysis of the behavior, a linear Model has been trained to perform nearly as well as NN");
+
+define("_PUZZLE23_TITLE", "DA - R - Exploration of Codingame Leaderboard");
+define("_PUZZLE23_DESC", "Being learning R, I used a webscrapped version of the leaderboard of Codingame website in order to apply multiple learning done during classes (working on a dataset, ploting with ggplot and reporting with R markdown). In this Notebook, we will explore the leaderborad and the balance of player. In addition, we will try to find trick to climb fast in the ranking.");
+
+define("_PUZZLE24_TITLE", "ML - Tensorflow - DeepDream video");
+define("_PUZZLE24_DESC", "Based on a playlist from Sentdex, his code has been reused and slightly modified in order to generate a DeepDream video using \"inception\"'s model. There is no Notebbok for this project but a README is availabel on Github quite complete.");
 
 ?>

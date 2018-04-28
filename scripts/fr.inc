@@ -23,6 +23,8 @@ define("_SECTION_DOWN", "Bas de page");
 define("_SHOW_PUZZLE", "Voir le puzzle");
 define("_SHOW_SOLUTION", "Voir la solution");
 define("_DL_SOLUTION", "Télécharger le Notebook");
+define("_SHOW_REPO", "Voir le Repository");
+define("_SHOW_VID", "Regarder la vidéo");
 
 define("_TOP_SENTENCE", "Les scripts présents sur cette page sont aussi disponible sur mon <a href=\"https://github.com/Coni63\" target=\"_blank\">Github</a> mais non présentés ou sur notebook");
 
@@ -100,6 +102,11 @@ define("_PUZZLE21_TITLE", "ML - Keras - Classification Dataset QuickDraw avec 20
 define("_PUZZLE21_DESC", "Dans ce notebook, Différents CNN vont etre testé sur un dataset plus complexe que MNIST d'images faite à la main (20 classes, animaux uniquement, 28x28 en N&B). Les CNN classiques vont etre testés ainsi que les Capsule Networks avant de regarder les mauvaises classifications. On verra que ce sont souvent des erreurs lié au dessinateur...");
 
 define("_PUZZLE22_TITLE", "ML - Numpy - Test de Neuro-Evolution au lieu de l'apprentissage par renforcement");
-define("_PUZZLE22_DESC", "Dans ce notebbok, l'entrainement d'un Reseau de Neurones a été remplacé par un algorithm d'évolution génétique au lieu de la back-propagation. Après analyse du modèle, un modèle linéaire a été entrainé et réussit presque aussi bien que le Réseaux de Neurones plus complexe.");
+define("_PUZZLE22_DESC", "Dans ce notebook, l'entrainement d'un Reseau de Neurones a été remplacé par un algorithm d'évolution génétique au lieu de la back-propagation. Après analyse du modèle, un modèle linéaire a été entrainé et réussit presque aussi bien que le Réseaux de Neurones plus complexe.");
 
+define("_PUZZLE23_TITLE", "DA - R - Exploration du classement sur Codingame");
+define("_PUZZLE23_DESC", "Apprenant actuellement R, l'exploration du classement extrait du site Codingame permet de mettre en pratique divers points de la formation (modification dataset, utilisation de ggplot, et R markdown). Dans ce Notebook, nous allons donc explorer le classement et la répartition des joueurs dans celui-ci ainsi que des façons de monter rapidement dans le classement.");
+
+define("_PUZZLE24_TITLE", "ML - Tensorflow - DeepDream vidéo");
+define("_PUZZLE24_DESC", "Basé sur une playlist de Sentdex, son code a été réutilisé et légèrement modifié afin de créer une Video d'un DeepDream en utilisant le modèle \"inception\". Il n'y a pas de Notebook pour ce projet mais un readme assez complet est présent sur Github.");
 ?>
