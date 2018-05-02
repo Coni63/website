@@ -109,4 +109,7 @@ define("_PUZZLE23_DESC", "Apprenant actuellement R, l'exploration du classement 
 
 define("_PUZZLE24_TITLE", "ML - Tensorflow - DeepDream vidéo");
 define("_PUZZLE24_DESC", "Basé sur une playlist de Sentdex, son code a été réutilisé et légèrement modifié afin de créer une Video d'un DeepDream en utilisant le modèle \"inception\". Il n'y a pas de Notebook pour ce projet mais un readme assez complet est présent sur Github.");
+
+define("_PUZZLE25_TITLE", "ML - Keras - Classification audio");
+define("_PUZZLE25_DESC", "De facon similaire à MNIST, ce Notebook va explorer le contenu de fichiers audio de manière non supervisée puis effectuer une classification (avec des Reseaux de Neurones classiques et les CNNs). Un deuxième notebook suivra avec l'évaluation avec les RNNs");
 ?>

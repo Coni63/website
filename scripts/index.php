@@ -308,6 +308,16 @@
                     <li class="link_tips"><imp><a class="white" href="https://www.youtube.com/watch?v=KW3CJ7i6LP4"  target="_blank"><?= _SHOW_VID ?></a></imp></li>
                 </ul>
             </div>
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE25_TITLE ?></t></p>
+                <p><more><?= _PUZZLE25_DESC ?></more></p>
+            </div>
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Audio_mnist.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Audio_mnist.ipynb" download="Audio_mnist.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
 		</div>
         </div>
     <section id="down" name="down"></section>
