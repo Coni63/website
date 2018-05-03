@@ -109,6 +109,6 @@ define("_PUZZLE24_TITLE", "ML - Tensorflow - DeepDream video");
 define("_PUZZLE24_DESC", "Based on a playlist from Sentdex, his code has been reused and slightly modified in order to generate a DeepDream video using \"inception\"'s model. There is no Notebbok for this project but a README is availabel on Github quite complete.");
 
 define("_PUZZLE25_TITLE", "ML - Keras - Audio Classification");
-define("_PUZZLE25_DESC", "As we can do with MNIST, this Notebbok explore audio file in an unsupervised way then try to perform a classification on it (with simple ANN and CNN). A second netbook will follow with the evaluation on RNN's.");
+define("_PUZZLE25_DESC", "As we can do with MNIST, this Notebbok explore audio file in an unsupervised way then try to perform a classification on it (with simple ANNs, CNNs and RNNs) ");
 
 ?>
