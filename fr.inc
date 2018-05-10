@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.6");
+define("_VERSION","1.4.7");
+
+define("_NEWS26_TITLE","Ajout d'un script (v1.4.7)");
+define("_NEWS26_DESC", "Ajout d'un second script concernant la classification audio sur le dataset FMA");
+define("_NEWS26_DATE", "10/05/2018");
 
 define("_NEWS25_TITLE","Ajout d'un script (v1.4.6)");
 define("_NEWS25_DESC", "Ajout d'un script concernant la classification audio");

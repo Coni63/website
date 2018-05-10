@@ -111,4 +111,7 @@ define("_PUZZLE24_DESC", "Based on a playlist from Sentdex, his code has been re
 define("_PUZZLE25_TITLE", "ML - Keras - Audio Classification");
 define("_PUZZLE25_DESC", "As we can do with MNIST, this Notebbok explore audio file in an unsupervised way then try to perform a classification on it (with simple ANNs, CNNs and RNNs) ");
 
+define("_PUZZLE26_TITLE", "ML - Keras - Audio Classification FMA");
+define("_PUZZLE26_DESC", "This week, we will explore another more complete audio dataset which is FMA dataset. As I did previously, I'll try to create a classifier of music type. We will discover that the success on the previous model was only due to overfitting and this doesn't work as good as expected in addition of having other drawbacks.");
+
 ?>

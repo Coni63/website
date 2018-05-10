@@ -318,6 +318,16 @@
                     <li class="link_tips"><imp><a class="white" href="solution/Audio_mnist.ipynb" download="Audio_mnist.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
                 </ul>
             </div>
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE26_TITLE ?></t></p>
+                <p><more><?= _PUZZLE26_DESC ?></more></p>
+            </div>
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Classification_FMA.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Classification_FMA.ipynb" download="Classification_FMA.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
 		</div>
         </div>
     <section id="down" name="down"></section>

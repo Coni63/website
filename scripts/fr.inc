@@ -112,4 +112,7 @@ define("_PUZZLE24_DESC", "Basé sur une playlist de Sentdex, son code a été r�
 
 define("_PUZZLE25_TITLE", "ML - Keras - Classification audio");
 define("_PUZZLE25_DESC", "De facon similaire à MNIST, ce Notebook va explorer le contenu de fichiers audio de manière non supervisée puis effectuer une classification (avec des Reseaux de Neurones classiques, les CNNs et les RNNs).";
+
+define("_PUZZLE26_TITLE", "ML - Keras - Audio Classification FMA");
+define("_PUZZLE26_DESC", "Cette semaine nous allons explorer un autre dataset de musique qu'est le FMA dataset. Comme fait précédemment, nous allons essayer de mettre en place un classifieur du style de musique. Durant celui-ci, nous allons voir que le modele qui avait bien fonctionné la semaine dernière était due à de l'overfitting et qu'il ne fonctionne pas si bien qu'espéré en plus d'avoir d'autres inconvénients.");
 ?>
