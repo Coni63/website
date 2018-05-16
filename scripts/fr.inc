@@ -115,4 +115,8 @@ define("_PUZZLE25_DESC", "De facon similaire à MNIST, ce Notebook va explorer l
 
 define("_PUZZLE26_TITLE", "ML - Keras - Audio Classification FMA");
 define("_PUZZLE26_DESC", "Cette semaine nous allons explorer un autre dataset de musique qu'est le FMA dataset. Comme fait précédemment, nous allons essayer de mettre en place un classifieur du style de musique. Durant celui-ci, nous allons voir que le modele qui avait bien fonctionné la semaine dernière était due à de l'overfitting et qu'il ne fonctionne pas si bien qu'espéré en plus d'avoir d'autres inconvénients.");
+
+define("_PUZZLE27_TITLE", "ML - Keras - Segmentation Audio FMA");
+define("_PUZZLE27_DESC", "Après avoir testé la classification audio basé sur la reconnaissance de pattern sur la FFT du signal, une nouvelle approche par segmentation et clustering a été testé. Cette methode permet d'exploiter les données comme des données textuelles et a l'avantage d'être compatible avec toute longueur de morceaux");
+
 ?>
