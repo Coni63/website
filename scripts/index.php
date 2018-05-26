@@ -338,6 +338,18 @@
                     <li class="link_tips"><imp><a class="white" href="solution/Audio_Segmentation.ipynb" download="Audio_Segmentation.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
                 </ul>
             </div>
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE28_TITLE ?></t></p>
+                <p><more><?= _PUZZLE28_DESC ?></more></p>
+            </div>
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Meta-Data.html" target="_blank"><?= _SHOW_SOLUTION ?> part 1</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Meta-Data.ipynb" download="Meta-Data.ipynb"><?= _DL_SOLUTION ?> part 1</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Meta-Data-2.html" target="_blank"><?= _SHOW_SOLUTION ?> part 2</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Meta-Data-2.ipynb" download="Meta-Data-2.ipynb"><?= _DL_SOLUTION ?> part 2</a></imp></li>
+                </ul>
+            </div>
 		</div>
         </div>
     <section id="down" name="down"></section>

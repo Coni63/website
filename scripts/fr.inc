@@ -119,4 +119,7 @@ define("_PUZZLE26_DESC", "Cette semaine nous allons explorer un autre dataset de
 define("_PUZZLE27_TITLE", "ML - Keras - Segmentation Audio FMA");
 define("_PUZZLE27_DESC", "Après avoir testé la classification audio basé sur la reconnaissance de pattern sur la FFT du signal, une nouvelle approche par segmentation et clustering a été testé. Cette methode permet d'exploiter les données comme des données textuelles et a l'avantage d'être compatible avec toute longueur de morceaux");
 
+define("_PUZZLE28_TITLE", "ML - Keras - Classification Audio FMA avec meta data");
+define("_PUZZLE28_DESC", "Après avoir testé la classification audio basé sur la reconnaissance de pattern sur la FFT du signal ainsi que la segmentation audio, j'ai voulu tester la classification en utilisant les meta data extraites des morceaux. La part 1 fait la classification sur le small dataset equilibré et avec une seule classe et le second est une tentative sur les full dataset mais sans bon résultats.");
+
 ?>

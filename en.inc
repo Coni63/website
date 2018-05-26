@@ -18,10 +18,14 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.8");
+define("_VERSION","1.4.9");
+
+define("_NEWS28_TITLE","Add 2 scripts (v1.4.9)");
+define("_NEWS28_DESC", "Add 2 scripts regarding classification on FMA dataset using meta data.");
+define("_NEWS28_DATE", "2018-05-26");
 
 define("_NEWS27_TITLE","Add a script (v1.4.8)");
-define("_NEWS27_DESC", "Add a second scriptregarding audio segmentation on FMA dataset");
+define("_NEWS27_DESC", "Add a second script regarding audio segmentation on FMA dataset");
 define("_NEWS27_DATE", "2018-05-16");
 
 define("_NEWS26_TITLE","Add a script (v1.4.7)");
