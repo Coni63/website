@@ -45,6 +45,8 @@ define("_BOOK5_DESC", "Très impressionnat livre à propos des IAs. Dans ce mill
 
 define("_BOOK6_DESC", "Comparé au livre présenté ci-dessus, celui-ci se concentre uniquement sur l'apprentissage par renforcement. Vous apprendrez les différents types de modèles de ce \"nouveau\" secteur. Je n'ai pas encore commencé la lecture mais je mettrai plus d'infos dès que j'aurai commencé :)");
 
+define("_BOOK7_DESC", "Plus je fais de projets, plus je me rends compte que j'ai besoin d'une compréhension plus profonde du pourquoi et comment un réseau de neurones fonctionne. Ceci pour être en mesure de mettre en place une structure plus complexe qu'un simple NN, RNN ou CNN. Ce livre ne prend en compte que la partie Neural Network et est très complet. Mis à part qu'il n'est pas 100% à jour (ecrit en 2016), c'est une très bonne source de connaissances sur les NN. Il n'y a pas non plus de codes mais seulement du pseudo-code pour comprendre certaines fonctions.");
+
 define("_YT1_DESC", "Envie de coder dans la bonne humeur ? Sur cette chaine, vous vous attaquerez à des problèmes et à leur résolution en Javascript avec P5.js ou en Java avec Processing. Chaque problème est résolu avec une explication claire et un algorithme incluant une visualisation de l'algorithme afin de faciliter la compréhension.");
 
 define("_YT2_DESC", "Envie de coder un site sous Python, d'en savoir plus sur le ML et la finance, envie de faire un jeu sur pygame? Cette chaine est faite pour vous! Vous trouverez différentes playlists sur chaque sujets avec un projet mené de A-Z. Seul bémol, parfois les librairies ont évolué entre temps et la syntaxe n'est pas toujours a jour.");

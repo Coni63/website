@@ -120,4 +120,7 @@ define("_PUZZLE27_DESC", "After testing the audio classification based on patter
 define("_PUZZLE28_TITLE", "ML - Keras - Audio Classification FMA using meta data");
 define("_PUZZLE28_DESC", "After testing the audio classification based on pattern recognition on the FFT signal and the audio clustering, I wanted to try classification using meta data extracted from audio. The part 1 is a try a the small balanced dataset with only 1 genre per song and the second one is a try on the full unbalanced multilabel dataset but without good results.");
 
+define("_PUZZLE29_TITLE", "ML - Kaggle Comp. - Free Sound Audio Tagging");
+define("_PUZZLE29_DESC", "To finish with the audio processing, I decided to work on another dataset from a Kaggle Competition to classify audio too. Compare to FMA dataset, this one is slightly unbalanced in term of class but also very different in term of duration. To do the classification, we will extract the same features as FMA and add the duration before to classify it. The result is not perfect but reach still 74% of accuracy.");
+
 ?>

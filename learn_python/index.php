@@ -219,6 +219,26 @@
                 </p>
             </div>
             
+            <div class="col-lg-6 col-lg-offset-3">
+                <p><img class="img-responsive" src="../static/img/deep_learning.jpg" alt="" width="420"></p>
+            </div>
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_us.png"/>&nbsp;<t>Deep Learning&nbsp;<a href="https://www.amazon.fr/Deep-Learning-Ian-Goodfellow-ebook/dp/B01MRVFGX4" target="_blank"><i class="fa fa-amazon" aria-hidden="true"></i></a><br/></t><br/>
+						<i>I. Goodfellow, Y. Bengio & A. Courville</i><br/>
+				</p>
+                <p>
+                    <more>
+                        <?= _BOOK7_DESC ?>
+                        <br/>
+                        <sm>
+                            <i class="fa fa-tag"></i><?= _ALGO ?>
+                            <i class="fa fa-tag"></i><?= _AI ?>
+                            <i class="fa fa-tag"></i>Neural Networks
+                        </sm>
+                    </more>
+                </p>
+            </div>
+            
 		</div>
 		<br>
 		<hr>

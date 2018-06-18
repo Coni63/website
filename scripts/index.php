@@ -351,6 +351,16 @@
                 </ul>
             </div>
 		</div>
+        <div class="col-lg-8 col-lg-offset-2"> 
+            <p><t><?= _PUZZLE29_TITLE ?></t></p>
+            <p><more><?= _PUZZLE29_DESC ?></more></p>
+        </div>
+        <div class="col-lg-2 pro">
+            <ul>
+                <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.ipynb" download="Feature_extraction.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+            </ul>
+        </div>
         </div>
     <section id="down" name="down"></section>
     

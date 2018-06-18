@@ -47,6 +47,8 @@ define("_BOOK5_DESC", "Impressive book regarding AI from A to Z. Withing the tho
 
 define("_BOOK6_DESC", "Compare to the book above, this one focus only on Reinforcement Learning. You will learn several way to built you AI by using this \"new\" field of science. I didn't started it yet, I'll keep you posted !");
 
+define("_BOOK7_DESC", "The more I do projects, the more I realize that I need a deeper understanding of How and Why Neural Network works to be able to set more complicated structure than simple NN, RNN or CNN. This book only take into consideration the Neural Network Science. Except the fact that it is not 100% up-to-date (written in 2016), it's a really good source of knowledge about NN. There is also no codes but only pseudo-code to understand some functions.");
+
 define("_YT1_DESC", "Want to code in a good spirit ? On this channel, you gonna see some coding challenges and how to solve it with either Javascript with the library P5.js or Java usign Processing. Every problems are solved with clear explainations and an algorithm including a graphical representation to ease the understanding.");
 
 define("_YT2_DESC", "You want to code a website in Python, knows more about ML and finances, write a game on pygame? This channel is definitely made for you ! You gonna find several playlists for every subject with a project made on them. One drawback, some videos are \"old\" and may be not 100% up-to-date (e.g. Django)");
