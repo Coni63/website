@@ -111,7 +111,7 @@ define("_PUZZLE24_TITLE", "ML - Tensorflow - DeepDream vidéo");
 define("_PUZZLE24_DESC", "Basé sur une playlist de Sentdex, son code a été réutilisé et légèrement modifié afin de créer une Video d'un DeepDream en utilisant le modèle \"inception\". Il n'y a pas de Notebook pour ce projet mais un readme assez complet est présent sur Github.");
 
 define("_PUZZLE25_TITLE", "ML - Keras - Classification audio");
-define("_PUZZLE25_DESC", "De facon similaire à MNIST, ce Notebook va explorer le contenu de fichiers audio de manière non supervisée puis effectuer une classification (avec des Reseaux de Neurones classiques, les CNNs et les RNNs).";
+define("_PUZZLE25_DESC", "De facon similaire à MNIST, ce Notebook va explorer le contenu de fichiers audio de manière non supervisée puis effectuer une classification (avec des Reseaux de Neurones classiques, les CNNs et les RNNs).");
 
 define("_PUZZLE26_TITLE", "ML - Keras - Audio Classification FMA");
 define("_PUZZLE26_DESC", "Cette semaine nous allons explorer un autre dataset de musique qu'est le FMA dataset. Comme fait précédemment, nous allons essayer de mettre en place un classifieur du style de musique. Durant celui-ci, nous allons voir que le modele qui avait bien fonctionné la semaine dernière était due à de l'overfitting et qu'il ne fonctionne pas si bien qu'espéré en plus d'avoir d'autres inconvénients.");
@@ -124,5 +124,11 @@ define("_PUZZLE28_DESC", "Après avoir testé la classification audio basé sur 
 
 define("_PUZZLE29_TITLE", "ML - Comp. Kaggle - Free Sound Audio Tagging");
 define("_PUZZLE29_DESC", "Pour finir avec le traitement audio, j'ai décidé de travailler sur un autre dataset issue d'un concours Kaggle où l'objectif est encore de classer des extraits audio. Comparer au dataset FMA, celui-ci est légèrement déséquilibré en terme de classe mais aussi en terme de durée. Pour faire la classification, nous allons extraire les mêmes caractéristiques que ce qui a été fait sur le dataset FMA et ajouter la durée avant la phase de modélisation. Le résultat n'est pas parfait mais atteint tout de même 74% de précision.");
+
+define("_PUZZLE30_TITLE", "ML - Numpy + Scipy - Regression sur des données circulaires");
+define("_PUZZLE30_DESC", "Au travail, j'ai fait face à une question sur la façon de trouver le meilleur cercle qui correspond à un ensemble de points mesurés en coordonnées (X, Y). Cela m'a donné l'idée d'approfondir cette question et de trouver des algorithmes (notament en utilisant Scipy) que j'ai ensuite testé et implémenté avec une syntaxe identique à sklearn");
+
+define("_PUZZLE31_TITLE", "ML - NoSLQ + sklearn + nltk - Analyse de Sentiments sur des Tweets");
+define("_PUZZLE31_DESC", "Un nouveau projet que je commence utilise l'analyse des sentiments sur les tweets. Un premier notebook est à propose de la requête de tweets et de stockage dans une base de données NoSQL. Le second tente de mettre en place un modèle simple pour prédire le sentiment d'un tweet.");
 
 ?>

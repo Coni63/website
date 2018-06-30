@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.10");
+define("_VERSION","1.4.11");
+
+define("_NEWS30_TITLE","Add (2+1) scripts (v1.4.11)");
+define("_NEWS30_DESC", "Add a script concerning the regression on circular datas and 2 scripts on the sentiments analysis");
+define("_NEWS30_DATE", "2018-06-30");
 
 define("_NEWS29_TITLE","Add a script and a book (v1.4.10)");
 define("_NEWS29_DESC", "Add a script on the audio classification from a Kaggle competition and a book in the section \"Learn Python\"");

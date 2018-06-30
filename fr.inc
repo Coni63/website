@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.10");
+define("_VERSION","1.4.11");
+
+define("_NEWS30_TITLE","Ajout de (2+1) scripts (v1.4.11)");
+define("_NEWS30_DESC", "Ajout d'un script concernant la regression sur un cercle et 2 scripts sur l'analyse de sentiments");
+define("_NEWS30_DATE", "30/06/2018");
 
 define("_NEWS29_TITLE","Ajout d'un script et d'un livre (v1.4.10)");
 define("_NEWS29_DESC", "Ajout d'un script sur la classification audio issue d'une compétition Kaggle et d'un livre dans la section \"Apprendre Python\"");

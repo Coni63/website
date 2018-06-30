@@ -123,4 +123,10 @@ define("_PUZZLE28_DESC", "After testing the audio classification based on patter
 define("_PUZZLE29_TITLE", "ML - Kaggle Comp. - Free Sound Audio Tagging");
 define("_PUZZLE29_DESC", "To finish with the audio processing, I decided to work on another dataset from a Kaggle Competition to classify audio too. Compare to FMA dataset, this one is slightly unbalanced in term of class but also very different in term of duration. To do the classification, we will extract the same features as FMA and add the duration before to classify it. The result is not perfect but reach still 74% of accuracy.");
 
+define("_PUZZLE30_TITLE", "ML - Numpy + Scipy - Regression on circular datas");
+define("_PUZZLE30_DESC", "At work I faced a question on how to find the best circle fitting a set of point measured in (X, Y) coordinate. This gaves me the idea to take a deeper look at this question and find algorithms (mainly using Scipy), test them and implement them in a syntax close to sklearn library");
+
+define("_PUZZLE31_TITLE", "ML - NoSLQ + sklearn + nltk - Sentiments Analysis on Tweets");
+define("_PUZZLE31_DESC", "A new project I'm starting uses sentiments analysis on tweets. For now, I've uploaded a Notebook regarding the query of tweets and storage in a NoSQL database and a second one where I tried to set a simple model to predict sentiment of a tweet.");
+
 ?>

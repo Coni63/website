@@ -342,6 +342,7 @@
                 <p><t><?= _PUZZLE28_TITLE ?></t></p>
                 <p><more><?= _PUZZLE28_DESC ?></more></p>
             </div>
+            
             <div class="col-lg-2 pro">
                 <ul>
                     <li class="link_tips"><imp><a class="white" href="solution/Meta-Data.html" target="_blank"><?= _SHOW_SOLUTION ?> part 1</a></imp></li>
@@ -350,17 +351,46 @@
                     <li class="link_tips"><imp><a class="white" href="solution/Meta-Data-2.ipynb" download="Meta-Data-2.ipynb"><?= _DL_SOLUTION ?> part 2</a></imp></li>
                 </ul>
             </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE29_TITLE ?></t></p>
+                <p><more><?= _PUZZLE29_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.ipynb" download="Feature_extraction.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE30_TITLE ?></t></p>
+                <p><more><?= _PUZZLE30_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Fit_Circle.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Fit_Circle.ipynb" download="Fit_Circle.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/fit_circle" target="_blank">Github Repo</a></imp></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE31_TITLE ?></t></p>
+                <p><more><?= _PUZZLE31_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Sentiment_Analysis_API.html" target="_blank"><?= _SHOW_SOLUTION ?> - API</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Sentiment_Analysis_API.ipynb" download="Sentiment_Analysis_API.ipynb"><?= _DL_SOLUTION ?> - API</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Sentiment_Analysis_Model.html" target="_blank"><?= _SHOW_SOLUTION ?> - Model</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Sentiment_Analysis_Model.ipynb" download="Sentiment_Analysis_Model.ipynb"><?= _DL_SOLUTION ?> - Model</a></imp></li>
+                </ul>
+            </div>
 		</div>
-        <div class="col-lg-8 col-lg-offset-2"> 
-            <p><t><?= _PUZZLE29_TITLE ?></t></p>
-            <p><more><?= _PUZZLE29_DESC ?></more></p>
-        </div>
-        <div class="col-lg-2 pro">
-            <ul>
-                <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
-                <li class="link_tips"><imp><a class="white" href="solution/Feature_extraction.ipynb" download="Feature_extraction.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
-            </ul>
-        </div>
         </div>
     <section id="down" name="down"></section>
     
