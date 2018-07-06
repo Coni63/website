@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.11");
+define("_VERSION","1.4.12");
+
+define("_NEWS31_TITLE","Ajout d'un script (v1.4.12)");
+define("_NEWS31_DESC", "Ajout d'un script sur l'analyse des sentiments sur des tweet durant le match France vs Argentine");
+define("_NEWS31_DATE", "05/07/2018");
 
 define("_NEWS30_TITLE","Ajout de (2+1) scripts (v1.4.11)");
 define("_NEWS30_DESC", "Ajout d'un script concernant la regression sur un cercle et 2 scripts sur l'analyse de sentiments");

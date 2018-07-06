@@ -129,4 +129,7 @@ define("_PUZZLE30_DESC", "At work I faced a question on how to find the best cir
 define("_PUZZLE31_TITLE", "ML - NoSLQ + sklearn + nltk - Sentiments Analysis on Tweets");
 define("_PUZZLE31_DESC", "A new project I'm starting uses sentiments analysis on tweets. For now, I've uploaded a Notebook regarding the query of tweets and storage in a NoSQL database and a second one where I tried to set a simple model to predict sentiment of a tweet.");
 
+define("_PUZZLE32_TITLE", "Data Analysis - Sentiments Analysis on Tweets");
+define("_PUZZLE32_DESC", "On the previous script, we set-up an API to query tweets and do the sentiment analysis. This script ran during the match France vs Argentina and this notebook is a Data Analysis of the sentiment during the match");
+
 ?>

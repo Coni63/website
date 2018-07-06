@@ -131,4 +131,7 @@ define("_PUZZLE30_DESC", "Au travail, j'ai fait face à une question sur la faç
 define("_PUZZLE31_TITLE", "ML - NoSLQ + sklearn + nltk - Analyse de Sentiments sur des Tweets");
 define("_PUZZLE31_DESC", "Un nouveau projet que je commence utilise l'analyse des sentiments sur les tweets. Un premier notebook est à propose de la requête de tweets et de stockage dans une base de données NoSQL. Le second tente de mettre en place un modèle simple pour prédire le sentiment d'un tweet.");
 
+define("_PUZZLE32_TITLE", "Data Analysis - Sentiments Analysis on Tweets");
+define("_PUZZLE32_DESC", "Avec le script précédent, nous avons vu comment utiliser l'API Twitter pour récupérer les tweets et effectuer une analyse des sentiments. Ce précédent script a été executé pendant le match France vs Argentine. Ce notebook est donc une analyse du sentiment pendant le match");
+
 ?>

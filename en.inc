@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.11");
+define("_VERSION","1.4.12");
+
+define("_NEWS31_TITLE","Add script (v1.4.12)");
+define("_NEWS31_DESC", "Adding a script of sentiment analysis on tweets during the France vs Argentina match");
+define("_NEWS31_DATE", "05/07/2018");
 
 define("_NEWS30_TITLE","Add (2+1) scripts (v1.4.11)");
 define("_NEWS30_DESC", "Add a script concerning the regression on circular datas and 2 scripts on the sentiments analysis");
