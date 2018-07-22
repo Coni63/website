@@ -18,7 +18,15 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.12");
+define("_VERSION","1.4.14");
+
+define("_NEWS33_TITLE","Ajout d'un script (v1.4.14)");
+define("_NEWS33_DESC", "Ajout d'un script sur l'utilisation des langages de programmation lors des compétitions sur Codingame");
+define("_NEWS33_DATE", "22/07/2018");
+
+define("_NEWS32_TITLE","Ajout d'un script (v1.4.13)");
+define("_NEWS32_DESC", "Ajout d'un script sur un solveur du jeu du taquin");
+define("_NEWS32_DATE", "16/07/2018");
 
 define("_NEWS31_TITLE","Ajout d'un script (v1.4.12)");
 define("_NEWS31_DESC", "Ajout d'un script sur l'analyse des sentiments sur des tweet durant le match France vs Argentine");

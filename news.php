@@ -42,6 +42,26 @@
                 <h5>NEWS</h5>
             </div>
             <div class="col-lg-6">
+                <p><t><?= _NEWS33_TITLE ?></t><br/>
+                    <?= _NEWS33_DESC ?>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><sm><?= _NEWS33_DATE ?></sm></p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
+                <p><t><?= _NEWS32_TITLE ?></t><br/>
+                    <?= _NEWS32_DESC ?>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><sm><?= _NEWS32_DATE ?></sm></p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
                 <p><t><?= _NEWS31_TITLE ?></t><br/>
                     <?= _NEWS31_DESC ?>
                 </p>

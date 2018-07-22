@@ -403,6 +403,30 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE33_TITLE ?></t></p>
+                <p><more><?= _PUZZLE33_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Taquin.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Taquin.ipynb" download="Taquin.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE34_TITLE ?></t></p>
+                <p><more><?= _PUZZLE34_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/CG-Competition.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/CG-Competition.ipynb" download="CG-Competition.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

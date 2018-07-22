@@ -134,4 +134,10 @@ define("_PUZZLE31_DESC", "Un nouveau projet que je commence utilise l'analyse de
 define("_PUZZLE32_TITLE", "Data Analysis - Sentiments Analysis on Tweets");
 define("_PUZZLE32_DESC", "Avec le script précédent, nous avons vu comment utiliser l'API Twitter pour récupérer les tweets et effectuer une analyse des sentiments. Ce précédent script a été executé pendant le match France vs Argentine. Ce notebook est donc une analyse du sentiment pendant le match");
 
+define("_PUZZLE33_TITLE", "AI - Resolveur de Taquin");
+define("_PUZZLE33_DESC", "Un sujet légèrement différent aujourd'hui. Nous allons essayer de créer un solveur simple de Taquin en utilisant des algorithmes d'exploration de grpahes. Un BFS, un DFS puis le A * seront testés afin de trouver une solution au 3x3 Taquin (pas encore le 4x4 car il est beaucoup plus complexe)");
+
+define("_PUZZLE34_TITLE", "DA - Python - Exploration du classement des compétitions sur Codingame");
+define("_PUZZLE34_DESC", "Après une discussion sur les langages de programmation, je voulais voir le langage de programmation le plus utilisé dans l'IA en général. Après avoir extrait les données du classement des compétitions sur CodinGame, nous explorerons les résultats et essayerons de comprendre la raison de ce choix.");
+
 ?>

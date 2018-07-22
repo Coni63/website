@@ -132,4 +132,10 @@ define("_PUZZLE31_DESC", "A new project I'm starting uses sentiments analysis on
 define("_PUZZLE32_TITLE", "Data Analysis - Sentiments Analysis on Tweets");
 define("_PUZZLE32_DESC", "On the previous script, we set-up an API to query tweets and do the sentiment analysis. This script ran during the match France vs Argentina and this notebook is a Data Analysis of the sentiment during the match");
 
+define("_PUZZLE33_TITLE", "AI - Solver of Taquin");
+define("_PUZZLE33_DESC", "Slightly different subject today. We will try to create a simple solver of Taquin using graphs algorithms. A BFS, DFS and A* will be created in order to find a solution to 3x3 Taquin (not 4x4 yet as it is highly more complex)");
+
+define("_PUZZLE34_TITLE", "DA - Python - Exploration of Codingame Competition's LearderBoard");
+define("_PUZZLE34_DESC", "After a discussion regarding programming languages, I wanted to take a look at most used programming language for IA in general. After extracting datas from Competition's LearderBoard, we will explore results and try to understand the choice.");
+
 ?>
