@@ -138,4 +138,7 @@ define("_PUZZLE33_DESC", "Slightly different subject today. We will try to creat
 define("_PUZZLE34_TITLE", "DA - Python - Exploration of Codingame Competition's LearderBoard");
 define("_PUZZLE34_DESC", "After a discussion regarding programming languages, I wanted to take a look at most used programming language for IA in general. After extracting datas from Competition's LearderBoard, we will explore results and try to understand the choice.");
 
+define("_PUZZLE35_TITLE", "IA - Java - Genetic algorithm and PID");
+define("_PUZZLE35_DESC", "This week I made a project where I wanted to create in Java (using processing) as small genetic algorithme able to \"drive\" a solid between doors like with flappy bird. To have a fast learning, I provide a trajectory to follow and the genome is the parameters of the PID and the speed along x-axis. ");
+
 ?>

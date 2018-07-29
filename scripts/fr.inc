@@ -140,4 +140,7 @@ define("_PUZZLE33_DESC", "Un sujet légèrement différent aujourd'hui. Nous all
 define("_PUZZLE34_TITLE", "DA - Python - Exploration du classement des compétitions sur Codingame");
 define("_PUZZLE34_DESC", "Après une discussion sur les langages de programmation, je voulais voir le langage de programmation le plus utilisé dans l'IA en général. Après avoir extrait les données du classement des compétitions sur CodinGame, nous explorerons les résultats et essayerons de comprendre la raison de ce choix.");
 
+define("_PUZZLE35_TITLE", "IA - Java - Algorithme génétique et asservissement PID");
+define("_PUZZLE35_DESC", "Cette semaine j'ai fait un projet où je voulais créer en Java (en utilisant processing) un petit algorithme génétique capable de \"conduire\" un solide entre des portes comme dans flappy bird. Pour avoir un apprentissage rapide, la trajectoire est calculée en amont et le génome impacte les paramètres du PID et la vitesse sur l'axe X.");
+
 ?>

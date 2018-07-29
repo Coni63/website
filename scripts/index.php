@@ -427,6 +427,18 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE35_TITLE ?></t></p>
+                <p><more><?= _PUZZLE35_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Java_Scripts/tree/master/GeneticAlgo" target="_blank"><?= _SHOW_REPO ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="https://www.youtube.com/watch?v=__pIMpb8p0E" target="_blank"><?= _SHOW_VID ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>
