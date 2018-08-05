@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.15");
+define("_VERSION","1.4.16");
+
+define("_NEWS35_TITLE","Add a script (v1.4.16)");
+define("_NEWS35_DESC", "Add a script to reproduce the results of a paper published on ArXiv about the classification of ECG");
+define("_NEWS35_DATE", "2018-08-05");
 
 define("_NEWS34_TITLE","Add a Java project in script (v1.4.15)");
 define("_NEWS34_DESC", "Add a result of a script done in Java regarding genetic algorithm & PID control loop response set-up");

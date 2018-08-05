@@ -143,4 +143,7 @@ define("_PUZZLE34_DESC", "Après une discussion sur les langages de programmatio
 define("_PUZZLE35_TITLE", "IA - Java - Algorithme génétique et asservissement PID");
 define("_PUZZLE35_DESC", "Cette semaine j'ai fait un projet où je voulais créer en Java (en utilisant processing) un petit algorithme génétique capable de \"conduire\" un solide entre des portes comme dans flappy bird. Pour avoir un apprentissage rapide, la trajectoire est calculée en amont et le génome impacte les paramètres du PID et la vitesse sur l'axe X.");
 
+define("_PUZZLE36_TITLE", "ML - Keras - Classification de pulsations cardiaques");
+define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif était de refaire le modèle publié dans le papier <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. Nous verrons également que même si le résultat est très bon, ils y a un très fort sur-apprentissage et le modèle ne peut pas être réutilisé sur d'autres ECGs.");
+
 ?>

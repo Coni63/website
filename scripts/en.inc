@@ -141,4 +141,7 @@ define("_PUZZLE34_DESC", "After a discussion regarding programming languages, I 
 define("_PUZZLE35_TITLE", "IA - Java - Genetic algorithm and PID");
 define("_PUZZLE35_DESC", "This week I made a project where I wanted to create in Java (using processing) as small genetic algorithme able to \"drive\" a solid between doors like with flappy bird. To have a fast learning, I provide a trajectory to follow and the genome is the parameters of the PID and the speed along x-axis. ");
 
+define("_PUZZLE36_TITLE", "ML - Keras - Classification of Heartbeats");
+define("_PUZZLE36_DESC", "In this Notebook, the goal was to redo the model published in the paper <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. We will also see that even if result are vary high, they suffer a lot of overfitting and are not reusable on other ECGs.");
+
 ?>
