@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.16");
+define("_VERSION","1.4.17");
+
+define("_NEWS36_TITLE","Ajout d'un second script Java (v1.4.17)");
+define("_NEWS36_DESC", "Ajout d'un nouveau script en Java concernant la recherche d'un code basé sur le nombre de digits justes");
+define("_NEWS36_DATE", "12/08/2018");
 
 define("_NEWS35_TITLE","Ajout d'un script (v1.4.16)");
 define("_NEWS35_DESC", "Ajout d'un script pour reproduire les resultats d'un papier publié sur ArXiv à propos de la classification d'electrocardiogrammes");

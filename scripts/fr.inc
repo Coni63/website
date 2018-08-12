@@ -25,6 +25,7 @@ define("_SHOW_SOLUTION", "Voir la solution");
 define("_DL_SOLUTION", "Télécharger le Notebook");
 define("_SHOW_REPO", "Voir le Repository");
 define("_SHOW_VID", "Regarder la vidéo");
+define("_DL_JAR", "Télécharger le .jar");
 
 define("_TOP_SENTENCE", "Les scripts présents sur cette page sont aussi disponible sur mon <a href=\"https://github.com/Coni63\" target=\"_blank\">Github</a> mais non présentés ou sur notebook");
 
@@ -145,5 +146,8 @@ define("_PUZZLE35_DESC", "Cette semaine j'ai fait un projet où je voulais crée
 
 define("_PUZZLE36_TITLE", "ML - Keras - Classification de pulsations cardiaques");
 define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif était de refaire le modèle publié dans le papier <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. Nous verrons également que même si le résultat est très bon, ils y a un très fort sur-apprentissage et le modèle ne peut pas être réutilisé sur d'autres ECGs.");
+
+define("_PUZZLE37_TITLE", "AG - Java - Testeur de code");
+define("_PUZZLE37_DESC", "Ce petit projet est un comparateur de 4 algorithmes permettant de trouver un code basé uniquement sur le nombre de chiffres corrects. Le premier essaye les chiffres un par un pour chaque position afin de trouver le bon. Le second est un algorithme génétique avec la \"fitness\" basée sur le nombre de chiffres corrects. Le troisière est un algorithme glouton et le dernier est un générateur aléatoire.");
 
 ?>

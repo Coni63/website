@@ -25,6 +25,7 @@ define("_SHOW_SOLUTION", "See the solution");
 define("_DL_SOLUTION", "Download Notebook");
 define("_SHOW_REPO", "See Repository");
 define("_SHOW_VID", "Watch video");
+define("_DL_JAR", "Downlaod jar file");
 
 define("_SECTION_EASY", "Easy Puzzles");
 define("_SECTION_MEDIUM", "Medium Puzzles");
@@ -141,7 +142,10 @@ define("_PUZZLE34_DESC", "After a discussion regarding programming languages, I 
 define("_PUZZLE35_TITLE", "IA - Java - Genetic algorithm and PID");
 define("_PUZZLE35_DESC", "This week I made a project where I wanted to create in Java (using processing) as small genetic algorithme able to \"drive\" a solid between doors like with flappy bird. To have a fast learning, I provide a trajectory to follow and the genome is the parameters of the PID and the speed along x-axis. ");
 
-define("_PUZZLE36_TITLE", "ML - Keras - Classification of Heartbeats");
-define("_PUZZLE36_DESC", "In this Notebook, the goal was to redo the model published in the paper <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. We will also see that even if result are vary high, they suffer a lot of overfitting and are not reusable on other ECGs.");
+define("_PUZZLE36_TITLE", "ML - Keras - Classification de pulsations cardiaques");
+define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif était de refaire le modèle publié dans le papier <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. Nous verrons également que même si le résultat est très bon, ils y a un très fort sur-apprentissage et le modèle ne peut pas être réutilisé sur d'autres ECGs.");
+
+define("_PUZZLE37_TITLE", "GA - Java - Code tester");
+define("_PUZZLE37_DESC", "This small project is a comparator of 4 algorithms to find a code based only on the number of correct digits. The first one is trying digits one by one for each position to find the correct one. The second one is a genetic algorithm with the fitness based on number of correct digits. The third one is a greedy algorithm and the last one is a random generator.");
 
 ?>
