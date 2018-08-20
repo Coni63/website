@@ -148,4 +148,10 @@ define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif Ã©tait de refaire le modÃ
 define("_PUZZLE37_TITLE", "GA - Java - Code tester");
 define("_PUZZLE37_DESC", "This small project is a comparator of 4 algorithms to find a code based only on the number of correct digits. The first one is trying digits one by one for each position to find the correct one. The second one is a genetic algorithm with the fitness based on number of correct digits. The third one is a greedy algorithm and the last one is a random generator.");
 
+define("_PUZZLE38_TITLE", "Algorithm - Java - Fractal");
+define("_PUZZLE38_DESC", "To continue with \"Processing\" in Java. I wanted to learn how to use a bit more the mouse. To do so, I create a fractal renderer. With a left-click, you can change the Complex Number used in the series. With right-click, you can span the image and with mouse wheel, you can zoom in/out.");
+
+define("_PUZZLE39_TITLE", "Android + Java - Bluetooth communication");
+define("_PUZZLE39_DESC", "For this second project, I wanted to learn a bit of Android. The idea was to be able to create a simple app which takes the values of sensors of the phone and send it to a script running in Java on my computer. At the beginning, I wanted to be able to create a small game contolled by sensors but there is too much noise. But at least I succeed to understand how an Android app is working and how to use the bluetooth (which was my main goal).");
+
 ?>

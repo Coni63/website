@@ -150,4 +150,10 @@ define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif était de refaire le mod�
 define("_PUZZLE37_TITLE", "AG - Java - Testeur de code");
 define("_PUZZLE37_DESC", "Ce petit projet est un comparateur de 4 algorithmes permettant de trouver un code basé uniquement sur le nombre de chiffres corrects. Le premier essaye les chiffres un par un pour chaque position afin de trouver le bon. Le second est un algorithme génétique avec la \"fitness\" basée sur le nombre de chiffres corrects. Le troisière est un algorithme glouton et le dernier est un générateur aléatoire.");
 
+define("_PUZZLE38_TITLE", "Algorithme - Java - Fractal");
+define("_PUZZLE38_DESC", "Pour continuer avec la librairy \"Processing\" en Java. Je voulais apprendre à utiliser un peu l'utilisation de la souris. Pour ce faire, j'ai créer un moteur de rendu de fractals. Avec un clic gauche, vous pouvez modifier le nombre complexe utilisé dans la suite. Avec un clic droit, vous pouvez déplacer l'image et avec la molette de la souris, vous pouvez zoomer / dézoomer.");
+
+define("_PUZZLE39_TITLE", " Android + Java - Communication par Bluetooth");
+define("_PUZZLE39_DESC", "Pour ce second projet, je voulais apprendre un peu Android. L'idée était de pouvoir créer une application simple qui récupère les valeurs des capteurs du téléphone et l'envoyer à un script exécuté en Java sur mon ordinateur. Au début, je voulais pouvoir créer un petit jeu piloté par ses capteurs mais il y a trop de bruits. Cependant, j'ai réussi à comprendre comment fonctionne une application Android et comment utiliser le bluetooth (ce qui était l'objectif initial).");
+
 ?>

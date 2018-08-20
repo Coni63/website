@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.17");
+define("_VERSION","1.4.18");
+
+define("_NEWS37_TITLE","Ajout de 2 petits scripts (v1.4.18)");
+define("_NEWS37_DESC", "Ajout d'un projet en Java sur les fractales et un second à propos de la communication entre android et Java avec le bluetooth.");
+define("_NEWS37_DATE", "20/08/2018");
 
 define("_NEWS36_TITLE","Ajout d'un second script Java (v1.4.17)");
 define("_NEWS36_DESC", "Ajout d'un nouveau script en Java concernant la recherche d'un code basé sur le nombre de digits justes");

@@ -464,6 +464,30 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE38_TITLE ?></t></p>
+                <p><more><?= _PUZZLE38_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Java_Scripts/tree/master/fractal" target="_blank"><?= _SHOW_REPO ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/fractal.jar" download="solution/fractal.jar"><?= _DL_JAR ?></a></imp></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE39_TITLE ?></t></p>
+                <p><more><?= _PUZZLE39_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Java_Scripts/tree/master/Android/MyApplication" target="_blank"><?= _SHOW_REPO ?> - Android</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Java_Scripts/tree/master/BT_controller" target="_blank"><?= _SHOW_REPO ?> - Java</a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>
