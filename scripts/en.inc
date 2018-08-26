@@ -154,4 +154,8 @@ define("_PUZZLE38_DESC", "To continue with \"Processing\" in Java. I wanted to l
 define("_PUZZLE39_TITLE", "Android + Java - Bluetooth communication");
 define("_PUZZLE39_DESC", "For this second project, I wanted to learn a bit of Android. The idea was to be able to create a simple app which takes the values of sensors of the phone and send it to a script running in Java on my computer. At the beginning, I wanted to be able to create a small game contolled by sensors but there is too much noise. But at least I succeed to understand how an Android app is working and how to use the bluetooth (which was my main goal).");
 
+define("_PUZZLE40_TITLE", "ML - FBProphet - Exploration of Air Quality in Madrid");
+define("_PUZZLE40_DESC", "This week, I decided to reuse a new time the library FBProphet on another dataset with more data than the plane delay which was only on 1 year. This dataset is lighter but have 18years of records about the Airquality in Madrid (taken every hour in 24 points). This dataset is more suitable for Time Models like this model. In this we will discover the impact of human activity on pollution.");
+
+
 ?>

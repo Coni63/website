@@ -153,7 +153,10 @@ define("_PUZZLE37_DESC", "Ce petit projet est un comparateur de 4 algorithmes pe
 define("_PUZZLE38_TITLE", "Algorithme - Java - Fractal");
 define("_PUZZLE38_DESC", "Pour continuer avec la librairy \"Processing\" en Java. Je voulais apprendre à utiliser un peu l'utilisation de la souris. Pour ce faire, j'ai créer un moteur de rendu de fractals. Avec un clic gauche, vous pouvez modifier le nombre complexe utilisé dans la suite. Avec un clic droit, vous pouvez déplacer l'image et avec la molette de la souris, vous pouvez zoomer / dézoomer.");
 
-define("_PUZZLE39_TITLE", " Android + Java - Communication par Bluetooth");
+define("_PUZZLE39_TITLE", "Android + Java - Communication par Bluetooth");
 define("_PUZZLE39_DESC", "Pour ce second projet, je voulais apprendre un peu Android. L'idée était de pouvoir créer une application simple qui récupère les valeurs des capteurs du téléphone et l'envoyer à un script exécuté en Java sur mon ordinateur. Au début, je voulais pouvoir créer un petit jeu piloté par ses capteurs mais il y a trop de bruits. Cependant, j'ai réussi à comprendre comment fonctionne une application Android et comment utiliser le bluetooth (ce qui était l'objectif initial).");
+
+define("_PUZZLE40_TITLE", "ML - FBProphet - Exploration de la qualité de l'air à Madrid");
+define("_PUZZLE40_DESC", "Cette semaine, j'ai décidé de retester la librairie FBProphet sur un autre dataset avec plus de données que celui avec le retard des vols d'avions qui était seulement sur 1 an. Ce dataset est plus léger mais contient 18 années d’enregistrements sur la qualité de l’air à Madrid (prises toutes les heures sur 24 points). Cet ensemble de données est plus adapté aux modèles temporels comme celui-ci. Avec celui-ci, nous découvrirons l'impact de l'activité humaine sur la pollution.");
 
 ?>
