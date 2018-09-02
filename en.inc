@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.19");
+define("_VERSION","1.4.20");
+
+define("_NEWS39_TITLE","Add a script, a twitter account and a youtube channel (v1.4.20)");
+define("_NEWS39_DESC", "Add a Notebook regarding Q-Learning, the twitter account of DeepMind and the channel of Arxvi Insight");
+define("_NEWS39_DATE", "2018-09-02");
 
 define("_NEWS38_TITLE","Add a script (v1.4.19)");
 define("_NEWS38_DESC", "Add a Notebook regarding the exploration of Madrid's Air Quality");

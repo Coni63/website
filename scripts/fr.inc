@@ -159,4 +159,7 @@ define("_PUZZLE39_DESC", "Pour ce second projet, je voulais apprendre un peu And
 define("_PUZZLE40_TITLE", "ML - FBProphet - Exploration de la qualité de l'air à Madrid");
 define("_PUZZLE40_DESC", "Cette semaine, j'ai décidé de retester la librairie FBProphet sur un autre dataset avec plus de données que celui avec le retard des vols d'avions qui était seulement sur 1 an. Ce dataset est plus léger mais contient 18 années d’enregistrements sur la qualité de l’air à Madrid (prises toutes les heures sur 24 points). Cet ensemble de données est plus adapté aux modèles temporels comme celui-ci. Avec celui-ci, nous découvrirons l'impact de l'activité humaine sur la pollution.");
 
+define("_PUZZLE41_TITLE", "IA - Tensorflow / Gym - Presentation du Q-Learning");
+define("_PUZZLE41_DESC", "Dans ce Notebook, nous explorerons l'algorithme le plus simple pour apprendre une \"policy\". C'est ce qu'on appelle Q-Learning. Pour ce faire, nous commencerons par l'exemple le plus simple, qui est la recherche du plus court chemin dans un graphe. Ensuite, nous utiliserons \"gym\" pour tester ce modèle sur d'autres environnements présentant des difficultés différentes (sparse reward, large space-state, entrée/sortie continue). Cet exemple conduira à de futurs algorithmes par la suite.");
+
 ?>

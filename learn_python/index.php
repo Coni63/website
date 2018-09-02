@@ -396,6 +396,26 @@
                 </p>
             </div>
             
+            <div class="col-lg-6 col-lg-offset-3">
+                <p>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/0Ey02HT_1Ho"></iframe>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_us.png"/>&nbsp;<a href="https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg">Arxiv Insights</a></p>
+                <p>
+                    <more>
+                        <?= _YT8_DESC ?>
+                    </more>
+                    <br/>
+                    <br/>
+                    <sm>
+                        <i class="fa fa-tag"></i>AI
+                    </sm>
+                </p>
+            </div>
+            
 		</div>
 		<br>
 		<hr>

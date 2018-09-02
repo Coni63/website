@@ -148,6 +148,8 @@
                     <br>
                     <t><a href="https://twitter.com/OpenAI" target="_blank">@OpenAI</a></t>
                     <br>
+                    <t><a href="https://twitter.com/deepmindai" target="_blank">@DeepMindAI</a></t>
+                    <br>
                     <t><a href="https://twitter.com/sirajraval" target="_blank">@sirajraval</a></t>
                     <br>
                     <t><a href="https://twitter.com/TensorFlow" target="_blank">@TensorFlow</a></t>
