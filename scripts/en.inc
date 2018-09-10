@@ -160,4 +160,7 @@ define("_PUZZLE40_DESC", "This week, I decided to reuse a new time the library F
 define("_PUZZLE41_TITLE", "AI - Tensorflow / Gym - Presentation of the Q-Learning");
 define("_PUZZLE41_DESC", "In this Notebook, we will explore the most simple algorithm to learn a policy. It's called Q-Learning. To do so, we will start with the simplest example which is the search of the shortest path in a graph. Then, we will use gym to try it with few puzzle having different challenges (sparse reward, large space-state, continuous input/output). This example will lead to future algorithms in the future.");
 
+define("_PUZZLE42_TITLE", "ML - Keras/Sklearn/Gensim - Recipes classification");
+define("_PUZZLE42_DESC", "This Notebook is an extension of the work done to participate to Kaggle's competition \"What's Cooking\". The objective is to classificy the origin of a recipe based on ingredients. In this one, multiple pre-processing will be tried and few models with corrects results.");
+
 ?>
