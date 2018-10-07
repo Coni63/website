@@ -163,4 +163,7 @@ define("_PUZZLE41_DESC", "In this Notebook, we will explore the most simple algo
 define("_PUZZLE42_TITLE", "ML - Keras/Sklearn/Gensim - Recipes classification");
 define("_PUZZLE42_DESC", "This Notebook is an extension of the work done to participate to Kaggle's competition \"What's Cooking\". The objective is to classificy the origin of a recipe based on ingredients. In this one, multiple pre-processing will be tried and few models with corrects results.");
 
+define("_PUZZLE43_TITLE", "IA - Keras/Gym - Introduction to Deep-Q Network");
+define("_PUZZLE43_DESC", "In a previous script, we saw the restrictions that were reached with Q-Learning. Another approach proposed by DeepMind in 2013 was to give the task of evaluating the Q-value to a Neural Network. Deep-Q Network was born. In this notebook, we will see the principle and create our first DQN");
+
 ?>

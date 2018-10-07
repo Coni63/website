@@ -165,4 +165,7 @@ define("_PUZZLE41_DESC", "Dans ce Notebook, nous explorerons l'algorithme le plu
 define("_PUZZLE42_TITLE", "ML - Keras/Sklearn/Gensim - Classification de recettes");
 define("_PUZZLE42_DESC", "Ce Notebook est une partie du travail effectué pour participer à la compétition Kaggle \"What's Cooking\". L'objectif est de déterminer l'origine d'une recette en fonction de ses ingrédients. Dans ce notebook, nous aborderons plusieurs pré-traitements et modèles avec des résultats corrects.");
 
+define("_PUZZLE43_TITLE", "IA - Keras/gYM - Presentation du DeepQ Network");
+define("_PUZZLE43_DESC", "Lors d'un précédent script, nous avons vu les restrictions atteinte avec le Q-Learning. Une autre approche proposé par DeepMind en 2013 était de donner la tâche de l'evaluation de la Q-value à un Réseau de Neurones. Le DeepQ Network était né. Dans ce Notebook, nous aborderons le principe avec la mise en place d'un premier DQN");
+
 ?>

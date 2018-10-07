@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.21");
+define("_VERSION","1.4.22");
+
+define("_NEWS41_TITLE","Ajout d'un script (v1.4.22)");
+define("_NEWS41_DESC", "Ajout d'un Notebook avec la decouverte des Deep-Q Networks");
+define("_NEWS41_DATE", "07/10/2018");
 
 define("_NEWS40_TITLE","Ajout d'un script (v1.4.21)");
 define("_NEWS40_DESC", "Ajout d'un Notebook concernant la classification de recette en fonction des ingrédients.");

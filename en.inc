@@ -18,10 +18,14 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.21");
+define("_VERSION","1.4.22");
+
+define("_NEWS41_TITLE","Add a script (v1.4.22)");
+define("_NEWS41_DESC", "Add a script with the discovery of Deep-Q Networks");
+define("_NEWS41_DATE", "2018-10-07");
 
 define("_NEWS40_TITLE","Add a script (v1.4.21)");
-define("_NEWS40_DESC", "Ajout d'un script regarding classification of recipes based on ingredients");
+define("_NEWS40_DESC", "Add a script regarding classification of recipes based on ingredients");
 define("_NEWS40_DATE", "2018-09-10");
 
 define("_NEWS39_TITLE","Add a script, a twitter account and a youtube channel (v1.4.20)");
