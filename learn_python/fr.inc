@@ -63,6 +63,8 @@ define("_YT7_DESC", "Voici la chaine des developpeur de chez Google. Vous trouve
 
 define("_YT8_DESC", "Cette chaine est une pépite. Si vous souhaitez obtenir plus d’informations sur les dernières avancées en Deep Reinforcement Learning. Il explique les dernières évolutions de manière simple et les rend faciles à comprendre.");
 
+define("_YT9_DESC", "Une présentation des dernières avancées en Data Science et en 3 minutes, cette chaine propose un très bon aperçu des dernières publications. Environ 2 vidéos par semaine, c'est une bonne chaîne à suivre.");
+
 define("_SITE1_DESC", "Si vous connaissez déjà un peu la programmation et vous en avez marre de coder toujours la même chose, ce site est fait pour vous! Résolvez des puzzles en codant votre propre IA, affrontez d'autres codeurs sur des minis challenges de 5 minutes ou sur des tournois d'une semaine, le choix est large. <br/>NB : Ce site supporte 27 langages différents. A vos claviers !");
 
 define("_SITE2_DESC", "J'ai découvert ce site récemment et pas encore participé aux challenges. A l'instar de Codingame, il propose de datasets pour s'entrainer au Machine Learning. Vous construisez votre modèle, vous proposez les résultats du test set sur le site et vous avez votre précision et classement. Si vous voulez vous attaquer au Machine Learning c'est l'endroit !");

@@ -160,7 +160,11 @@
                     <br>
                     <t><a href="https://twitter.com/TEDTalks" target="_blank">@TEDTalks</a></t>    
                     <br>
-                    <t><a href="https://twitter.com/aureliengeron" target="_blank">@aureliengeron</a></t>    
+                    <t><a href="https://twitter.com/aureliengeron" target="_blank">@aureliengeron</a></t>
+                    <br>
+                    <t><a href="https://twitter.com/karoly_zsolnai" target="_blank">@karoly_zsolnai</a></t> 
+                    <br>
+                    <t><a href="https://twitter.com/xsteenbrugge" target="_blank">@xsteenbrugge</a></t>     
                 </p>
             </div>
 		</div>
@@ -179,6 +183,9 @@
                     <t><a href="https://github.com/alberduris/Reinforcement_Learning_AI_Video_Games" target="_blank">Exercices from Siraj's Raval Challenges</a></t><br>
                     <t><a href="https://github.com/lmcinnes/umap" target="_blank">Implementation of UMAP (Uniform Manifold Approximation and Projection)</a></t><br>
                     <t><a href="https://github.com/reinforceio/tensorforce" target="_blank">Tensorforce (Librairy for Reinforcement Learning)</a></t><br>
+                    <t><a href="https://github.com/annoviko/pyclustering" target="_blank">Pyclustering (Clustering Algos in C++)</a></t><br>
+                    <t><a href="https://github.com/EpistasisLab/tpot" target="_blank">TPOT (Data Science Assistant)</a></t><br>
+                    <t><a href="https://github.com/reinforceio/tensorforce" target="_blank">Black (Python code formatter)</a></t><br>
                 </p>
             </div>
         </div>

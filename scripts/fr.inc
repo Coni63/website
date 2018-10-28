@@ -168,4 +168,7 @@ define("_PUZZLE42_DESC", "Ce Notebook est une partie du travail effectué pour p
 define("_PUZZLE43_TITLE", "IA - Keras/gYM - Presentation du DeepQ Network");
 define("_PUZZLE43_DESC", "Lors d'un précédent script, nous avons vu les restrictions atteinte avec le Q-Learning. Une autre approche proposé par DeepMind en 2013 était de donner la tâche de l'evaluation de la Q-value à un Réseau de Neurones. Le DeepQ Network était né. Dans ce Notebook, nous aborderons le principe avec la mise en place d'un premier DQN");
 
+define("_PUZZLE44_TITLE", "Libs - Python - Presentation de 2 librairies");
+define("_PUZZLE44_DESC", "Étant bloqué dans un futur projet, je poste de moins en moins de projets. Cette semaine, je voulais partager 2 bibliothèques que j'ai trouvées et que je voulais essayer depuis pas mal de temps. Il y a TPOT qui utilise un algorithme génétique pour optimiser le pré-traitement de données et Black qui est un formateur de code pour les fichiers python.");
+
 ?>

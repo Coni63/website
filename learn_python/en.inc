@@ -65,6 +65,8 @@ define("_YT7_DESC", "This Channel is the channel of Google Devs. You will find o
 
 define("_YT8_DESC", "A golden nugget ! if you want to get more insight in latest breakthrough in Deep Reinforcement Learning. He explains all latest development in a simple way and makes it easy to understand.");
 
+define("_YT9_DESC", "A presentation of latest breakthroughs in Data Science in 3 minute, this channel provide a very good overview of latest best papers. Around 2 videos per week, it's a good channel to follow.");
+
 define("_SITE1_DESC", "You know a programming language and wants to challenge yourself on new problems ? This site is for you! Sove several problems by coding your own IA, fight other coders in multiplayer clashes or in a 7-day tournaments, choici is yours.<br/> This website supports 27 languages, let's code !");
 
 define("_SITE2_DESC", "I discovered this website not a long time ago and not tried it for now. Like Codingame but for ML, it offers differents datasets to train on ML. You build your own model, you evaluate your model on a specific dataset and you get your accuracy and ranking. If you want to improve your knowledge on ML, this is the place to be !");

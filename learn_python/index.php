@@ -411,7 +411,29 @@
                     <br/>
                     <br/>
                     <sm>
-                        <i class="fa fa-tag"></i>AI
+                        <i class="fa fa-tag"></i><?= _AI ?>
+                    </sm>
+                </p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
+                <p>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/Bv3yat484aQ"></iframe>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_us.png"/>&nbsp;<a href="https://www.youtube.com/user/keeroyz/featured">Two Minute Papers</a></p>
+                <p>
+                    <more>
+                        <?= _YT9_DESC ?>
+                    </more>
+                    <br/>
+                    <br/>
+                    <sm>
+                        <i class="fa fa-tag"></i><?= _AI ?>
+                        <i class="fa fa-tag"></i><?= _RL ?>
+                        <i class="fa fa-tag"></i><?= _VULGARISATION ?>
                     </sm>
                 </p>
             </div>

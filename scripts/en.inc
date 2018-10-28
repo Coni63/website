@@ -166,4 +166,7 @@ define("_PUZZLE42_DESC", "This Notebook is an extension of the work done to part
 define("_PUZZLE43_TITLE", "IA - Keras/Gym - Introduction to Deep-Q Network");
 define("_PUZZLE43_DESC", "In a previous script, we saw the restrictions that were reached with Q-Learning. Another approach proposed by DeepMind in 2013 was to give the task of evaluating the Q-value to a Neural Network. Deep-Q Network was born. In this notebook, we will see the principle and create our first DQN");
 
+define("_PUZZLE44_TITLE", "Libs - Python - Presentation of 2 libs");
+define("_PUZZLE44_DESC", "Being stuck in a futur project, I'm posting less and less projects. This week I wanted to share 2 libraries I found and wanted to try for a while. There is TPOT which uses Genetic Algorithms to optimise the pre-processing steps and Black which is a code formatter for python file.");
+
 ?>
