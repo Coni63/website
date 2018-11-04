@@ -169,4 +169,7 @@ define("_PUZZLE43_DESC", "In a previous script, we saw the restrictions that wer
 define("_PUZZLE44_TITLE", "Libs - Python - Presentation of 2 libs");
 define("_PUZZLE44_DESC", "Being stuck in a futur project, I'm posting less and less projects. This week I wanted to share 2 libraries I found and wanted to try for a while. There is TPOT which uses Genetic Algorithms to optimise the pre-processing steps and Black which is a code formatter for python file.");
 
+define("_PUZZLE45_TITLE", "Simulation - PyCUDA/Scipy - Comparison GPU vs CPU for Conway's Game of Life");
+define("_PUZZLE45_DESC", "Following a discussion I got on a forum, I wanted to have a look at performances of GPU for non-matrix computation. I decided to do the trial on the Game of Life proposed by Conway. In this notebook, we will compare performances of 3 different approaches.");
+
 ?>

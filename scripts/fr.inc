@@ -171,4 +171,7 @@ define("_PUZZLE43_DESC", "Lors d'un précédent script, nous avons vu les restri
 define("_PUZZLE44_TITLE", "Libs - Python - Presentation de 2 librairies");
 define("_PUZZLE44_DESC", "Étant bloqué dans un futur projet, je poste de moins en moins de projets. Cette semaine, je voulais partager 2 bibliothèques que j'ai trouvées et que je voulais essayer depuis pas mal de temps. Il y a TPOT qui utilise un algorithme génétique pour optimiser le pré-traitement de données et Black qui est un formateur de code pour les fichiers python.");
 
+define("_PUZZLE45_TITLE", "Simulation - PyCUDA/Scipy - Comparatif GPU vs CPU pour le jeu de la vie de Conway");
+define("_PUZZLE45_DESC", "BÀ la suite d’une discussion sur un forum, j’ai voulu tester les performances du GPU pour le calcul non matriciel. J'ai décidé de faire l'essai du jeu de la vie proposé par Conway. Dans ce notebook, nous comparerons les performances sur 3 differentes approches.");
+
 ?>
