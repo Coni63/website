@@ -560,6 +560,18 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE46_TITLE ?></t></p>
+                <p><more><?= _PUZZLE46_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/Policy+Search.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Policy%20Search.ipynb" download="Policy%20Search.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

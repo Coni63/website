@@ -172,4 +172,7 @@ define("_PUZZLE44_DESC", "Being stuck in a futur project, I'm posting less and l
 define("_PUZZLE45_TITLE", "Simulation - PyCUDA/Scipy - Comparison GPU vs CPU for Conway's Game of Life");
 define("_PUZZLE45_DESC", "Following a discussion I got on a forum, I wanted to have a look at performances of GPU for non-matrix computation. I decided to do the trial on the Game of Life proposed by Conway. In this notebook, we will compare performances of 3 different approaches.");
 
+define("_PUZZLE46_TITLE", "IA - Keras/Gym - Policy Gradient on Cartpole");
+define("_PUZZLE46_DESC", "Another approach compared to Deep-Q Network, which predicts the expected futur reward of taking an action at a given state, is to predict directly the action. This is what is proposed with Policy Gradient model and we will discover it in this notebook.");
+
 ?>

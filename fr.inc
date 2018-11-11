@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.24");
+define("_VERSION","1.4.25");
+
+define("_NEWS44_TITLE","Ajout d'un script (v1.4.25)");
+define("_NEWS44_DESC", "Ajout d'une présentation du \"Policy Gradient\" sur l'environnement cartpole ");
+define("_NEWS44_DATE", "11/11/2018");
 
 define("_NEWS43_TITLE","Ajout d'un script (v1.4.24)");
 define("_NEWS43_DESC", "Ajout d'un notebook comparant le CPU vs GPU pour le Jeu de la vie de Conway");
