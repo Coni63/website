@@ -177,4 +177,7 @@ define("_PUZZLE45_DESC", "BÀ la suite d’une discussion sur un forum, j’ai v
 define("_PUZZLE46_TITLE", "IA - Keras/Gym - Policy Gradient sur le Cartpole");
 define("_PUZZLE46_DESC", "Une autre approche comparé au Deep-Q Network, qui prédit la futur gain attendu d’une action dans un état donné, consiste à prédire directement l’action. C'est ce qui est proposé avec le modèle \"Policy Gradient\" et c'est ce que nous allons voir dans ce notebook.");
 
+define("_PUZZLE47_TITLE", "IA - Keras/Gym - Proximal Policy Optimization sur le Cartpole");
+define("_PUZZLE47_DESC", "Depuis quelques années, le Policy Gradient est devenu plus ou moins obsolète. Un autre algorithme un peu plus complexe (mais bien plus performant) a été publié par OpenAI en 2017 appelé \"Proximal Policy Optimization\" (PPO). De par sa simplicité, il a également remplacé assez souvent le DeepQ Network. Dans ce notebook, nous allons mettre en place ce modèle sur le Cartpole.");
+
 ?>

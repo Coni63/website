@@ -175,4 +175,7 @@ define("_PUZZLE45_DESC", "Following a discussion I got on a forum, I wanted to h
 define("_PUZZLE46_TITLE", "IA - Keras/Gym - Policy Gradient on Cartpole");
 define("_PUZZLE46_DESC", "Another approach compared to Deep-Q Network, which predicts the expected futur reward of taking an action at a given state, is to predict directly the action. This is what is proposed with Policy Gradient model and we will discover it in this notebook.");
 
+define("_PUZZLE47_TITLE", "IA - Keras/Gym - Proximal Policy Optimization on Cartpole");
+define("_PUZZLE47_DESC", "For few years now, Policy Gradient became more or less obsolete. Another algorithm a bit more complex (but more performant) was published by OpenAI in 2017 which is the Proximal Policy Optimization. Due to it's simplicity, it also replaced in several cases the DeepQ Network. In this notebook, we will set-up this model on Cartpole again.");
+
 ?>

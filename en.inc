@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.25");
+define("_VERSION","1.4.26");
+
+define("_NEWS45_TITLE","Add a notebook (v1.4.26)");
+define("_NEWS45_DESC", "Add a presentation of Proximal Policy optimization on Cartpole");
+define("_NEWS45_DATE", "2018-11-18");
 
 define("_NEWS44_TITLE","Add a notebook (v1.4.25)");
 define("_NEWS44_DESC", "Add a presentation of Policy Gradient model on Cartpole");
