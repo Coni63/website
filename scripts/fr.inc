@@ -180,4 +180,7 @@ define("_PUZZLE46_DESC", "Une autre approche comparé au Deep-Q Network, qui pr�
 define("_PUZZLE47_TITLE", "IA - Keras/Gym - Proximal Policy Optimization sur le Cartpole");
 define("_PUZZLE47_DESC", "Depuis quelques années, le Policy Gradient est devenu plus ou moins obsolète. Un autre algorithme un peu plus complexe (mais bien plus performant) a été publié par OpenAI en 2017 appelé \"Proximal Policy Optimization\" (PPO). De par sa simplicité, il a également remplacé assez souvent le DeepQ Network. Dans ce notebook, nous allons mettre en place ce modèle sur le Cartpole.");
 
+define("_PUZZLE48_TITLE", "Simulation Momentum Trading - Python - Preparation des données");
+define("_PUZZLE48_DESC", "Dans le secteur de la finance, une technique d'optimisation des performances d'un Portefeuille est le Momentum Trading. Cette méthode a été longtemps étudiée et montre des performances bien au-dessus des placements proposés par les banques. Dans une serie de Notebooks, l'objectif sera de faire un simulateur sur un historique de placements appelé ETF et vérifier si cela est toujours vrai en 2018.");
+
 ?>
