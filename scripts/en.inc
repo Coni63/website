@@ -181,4 +181,7 @@ define("_PUZZLE47_DESC", "For few years now, Policy Gradient became more or less
 define("_PUZZLE48_TITLE", "Simulation of Momentum Trading - Python - Data Preparation");
 define("_PUZZLE48_DESC", "In Finance, an optimization technique of a Portfolio is the Momentum Trading. This method has been studied for a long time and shows performances above classics investments proposed by banks. In a series of Notebooks, the goal will be to make a simulator on past performances of ETFs and check if this is still true in 2018.");
 
+define("_PUZZLE49_TITLE", "Simulation of Momentum Trading - Python - Simple Simulation");
+define("_PUZZLE49_DESC", "Previously, we pre-processed the history of ETFs. This notebook will do a first simple model taking into consideration the performance to estimate the possible benefit of this method. The idea is to have a proof of concept.");
+
 ?>
