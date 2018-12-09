@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
 
-define("_VERSION","1.4.28");
+define("_VERSION","1.4.29");
+
+define("_NEWS48_TITLE","Add a notebook (v1.4.29)");
+define("_NEWS48_DESC", "Add the notebook (3/4) about Momentum Trading");
+define("_NEWS48_DATE", "2018-12-09");
 
 define("_NEWS47_TITLE","Add a notebook (v1.4.28)");
 define("_NEWS47_DESC", "Add the notebook (2/4) about Momentum Trading");

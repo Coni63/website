@@ -187,4 +187,7 @@ define("_PUZZLE49_TITLE", "Simulation Momentum Trading - Python - Simulation (si
 define("_PUZZLE49_DESC", "
 Précédemment, nous avons pré-traité les données des ETFs. Ce notebook a pour objectif de faire un premier modèle simpliste prenant en compte la performance pour estimer les possible bénéfices avec cette méthode. L'idée est d'avoir une validation de concept.");
 
+define("_PUZZLE50_TITLE", "Simulation Momentum Trading - Python - Benchmark");
+define("_PUZZLE50_DESC", "Dans le notebook précédent, un modèle simple a été mis en place pour vérifier que cette méthode fonctionne plus ou moins. La prochaine étape consiste à faire des simulations avec plusieurs paramètres et voir à quel point cette méthode est sûre");
+
 ?>

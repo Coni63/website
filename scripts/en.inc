@@ -184,4 +184,7 @@ define("_PUZZLE48_DESC", "In Finance, an optimization technique of a Portfolio i
 define("_PUZZLE49_TITLE", "Simulation of Momentum Trading - Python - Simple Simulation");
 define("_PUZZLE49_DESC", "Previously, we pre-processed the history of ETFs. This notebook will do a first simple model taking into consideration the performance to estimate the possible benefit of this method. The idea is to have a proof of concept.");
 
+define("_PUZZLE50_TITLE", "Simulation of Momentum Trading - Python - Benchmark");
+define("_PUZZLE50_DESC", "In the previous notebook, a simple model was made to check that this method is more or less working. The next step is to run simulations with multiple parameters to see \"how safe\" this method is");
+
 ?>
