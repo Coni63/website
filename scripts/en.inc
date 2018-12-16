@@ -187,4 +187,7 @@ define("_PUZZLE49_DESC", "Previously, we pre-processed the history of ETFs. This
 define("_PUZZLE50_TITLE", "Simulation of Momentum Trading - Python - Benchmark");
 define("_PUZZLE50_DESC", "In the previous notebook, a simple model was made to check that this method is more or less working. The next step is to run simulations with multiple parameters to see \"how safe\" this method is");
 
+define("_PUZZLE51_TITLE", "Simulation of Momentum Trading - Python - LSTM");
+define("_PUZZLE51_DESC", "To try to improve/stabilize the decision about ETFs, we can try to train a Reccurent Neural Network with last N-weeks of data to predict the futur performance. This is what I tried to do on this last notebook.");
+
 ?>

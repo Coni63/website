@@ -190,4 +190,8 @@ Précédemment, nous avons pré-traité les données des ETFs. Ce notebook a pou
 define("_PUZZLE50_TITLE", "Simulation Momentum Trading - Python - Benchmark");
 define("_PUZZLE50_DESC", "Dans le notebook précédent, un modèle simple a été mis en place pour vérifier que cette méthode fonctionne plus ou moins. La prochaine étape consiste à faire des simulations avec plusieurs paramètres et voir à quel point cette méthode est sûre");
 
+define("_PUZZLE51_TITLE", "Simulation Momentum Trading - Python - LSTM");
+define("_PUZZLE51_DESC", "Pour essayer d’améliorer/stabiliser la décision concernant le choix des ETFs, nous pouvons essayer d'entrainer un réseau de neurones récurrents avec des données sur les dernières semaines et prédire la performance future. C'est ce que j'ai essayé de faire sur ce dernier notebook.");
+
+
 ?>
