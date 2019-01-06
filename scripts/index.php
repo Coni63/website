@@ -632,6 +632,21 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE52_TITLE ?></t></p>
+                <p><more><?= _PUZZLE52_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                   <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Birthday_Bot" target="_blank">Github Repo</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Birthday_Extraction.html" target="_blank"><?= _SHOW_SOLUTION ?> - Extraction</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Birthday_Extraction.ipynb" download="Birthday_Extraction.ipynb"><?= _DL_SOLUTION ?> - Extraction</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Birthday_Exploration.html" target="_blank"><?= _SHOW_SOLUTION ?> - Exploration</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Birthday_Exploration.ipynb" download="Birthday_Exploration.ipynb"><?= _DL_SOLUTION ?> - Exploration</a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

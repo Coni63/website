@@ -193,5 +193,7 @@ define("_PUZZLE50_DESC", "Dans le notebook précédent, un modèle simple a ét�
 define("_PUZZLE51_TITLE", "Simulation Momentum Trading - Python - LSTM");
 define("_PUZZLE51_DESC", "Pour essayer d’améliorer/stabiliser la décision concernant le choix des ETFs, nous pouvons essayer d'entrainer un réseau de neurones récurrents avec des données sur les dernières semaines et prédire la performance future. C'est ce que j'ai essayé de faire sur ce dernier notebook.");
 
+define("_PUZZLE52_TITLE", "Web-Scrapping - Python - Bot d'anniversaire");
+define("_PUZZLE52_DESC", "Suite à une video de Micode, j'ai voulu faire aussi un bot sur twitter. Pour ce projet, l'extraction de dates d'anniversaires de célébrités est fait sur un site et un bot sera aussi mis en place afin de souhaiter chaque jour un joyeux anniversaire aux celebrités sur Twitter.");
 
 ?>

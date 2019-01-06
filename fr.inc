@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
 
-define("_VERSION","1.4.30");
+define("_VERSION","1.4.31");
+
+define("_NEWS50_TITLE","Ajout d'un script (v1.4.31)");
+define("_NEWS50_DESC", "Ajout des scripts concernant le Birthday Bot");
+define("_NEWS50_DATE", "06/01/2019");
 
 define("_NEWS49_TITLE","Ajout d'un script (v1.4.30)");
 define("_NEWS49_DESC", "Ajout d'un notebook (4/4) sur le Momentum Trading ");

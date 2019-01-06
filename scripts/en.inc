@@ -190,4 +190,7 @@ define("_PUZZLE50_DESC", "In the previous notebook, a simple model was made to c
 define("_PUZZLE51_TITLE", "Simulation of Momentum Trading - Python - LSTM");
 define("_PUZZLE51_DESC", "To try to improve/stabilize the decision about ETFs, we can try to train a Reccurent Neural Network with last N-weeks of data to predict the futur performance. This is what I tried to do on this last notebook.");
 
+define("_PUZZLE52_TITLE", "Web-Scrapping - Python - Birthday Bot");
+define("_PUZZLE52_DESC", "Following a video of Micode, I wanted to do a bot on twitter. For this project, celebrities's birthday dates were extracted from a website and a bot will be set up to wish on daily basis an happy birthday to celebrities on Twitter");
+
 ?>
