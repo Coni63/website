@@ -196,4 +196,7 @@ define("_PUZZLE51_DESC", "Pour essayer d’améliorer/stabiliser la décision co
 define("_PUZZLE52_TITLE", "Web-Scrapping - Python - Bot d'anniversaire");
 define("_PUZZLE52_DESC", "Suite à une video de Micode, j'ai voulu faire aussi un bot sur twitter. Pour ce projet, l'extraction de dates d'anniversaires de célébrités est fait sur un site et un bot sera aussi mis en place afin de souhaiter chaque jour un joyeux anniversaire aux celebrités sur Twitter.");
 
+define("_PUZZLE53_TITLE", "ML - Python - Estimation de pose");
+define("_PUZZLE53_DESC", "Comparé aux scripts précédents, celui-ci ne contient pas de Notebook. Je n'ai créé qu'un \"pipeline\" pour traiter une vidéo via un modèle d'estimation de la pose appelé DensePose. Ce projet a été réalisé sur le clip vidéo \"Skibidi\" car celui-ci présente plusieurs défis pour le modèle (plus ou moins de personnages, costumes, mouvements rapides, ...)");
+
 ?>

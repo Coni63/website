@@ -32,7 +32,7 @@ define("_SUB2", "Mechanical Engineer");
 define("_SWITCH1", "Show Internships");
 define("_SWITCH2", "Show Projects");
 
-define("_SECTION_1_DESC", "I'm currently working as a Production Designer in a Company making molds for PET Application. Being interested by programming, I learn by myself few languages (Python, Javascript, VBA, PHP, SQL) within the last years and Machine-Learning for around a year. I'm currently doing an online Master on OpenClassrooms in order to validate my knowledge with a recognized diploma. Having finished the course last month, I began to learn the statistical language R, which is widely used in data analysis.");
+define("_SECTION_1_DESC", "Being interested by programming, I learned by myself some languages (Python, Javascript, VBA, PHP, SQL, R, Java). Since early 2017, I'm passionated with Machine-Learning. I validated in winter 2017/2018 a Master in Data Science on OpenclassRooms and started to learn R on DataCamp. I'm now working as Digitization Specialist where I'll have to use my different knowledge to automate several tasks (defect detection, quality predictions, ...)");
 
 define("_FORM1_TITLE", "Mechanical Engineer - IFMA");
 define("_FORM1_SUB", "Pole Machines, Mechanisms and Systems ");
@@ -66,8 +66,7 @@ define("_FORM5_INFO", "Training Ongoing");
 
 define("_EXP1_TITLE", "Industrial Designer");
 define("_EXP1_DESC", "Design of PET injection Molds (for plastic bottles preforms). Creation of simple tools to simplify some tasks in VBA, Support of project's coordination");
-define("_EXP1_DATE", "11/2014 - Today");
-define("_EXP1_INFO", "Current Job");
+define("_EXP1_DATE", "11/2014 - 12/2018");
 define("_EXP1_URL", "Official Website");
 
 define("_EXP2_TITLE", "Industrial project of end of studies - Designing a curved chain");
@@ -96,6 +95,12 @@ define("_EXP6_TITLE", "Thinkmotion Project – Design of a closing door system")
 define("_EXP6_DESC", "The objective was to design a 3D animated model for Thinkmotion European Project For this project I design a closing door system using cams");
 define("_EXP6_DATE", "September 2011");
 define("_EXP6_INFO", "2<sup>nd</sup> year Projects");
+
+define("_EXP7_TITLE", "Digitization Specialist");
+define("_EXP7_DESC", "As part of the Digitization team, the objective is to automate some stages of the mold production (test and inspection). To do so, the automation of some steps is necessary. This will allow to gather data and use them to create predictive models.");
+define("_EXP7_DATE", "01/2019 - Today");
+define("_EXP7_INFO", "Current Job");
+define("_EXP7_URL", "Official Website");
 
 define("_REF1_DESC", "I learnt as big part of Python on <a href=\"https://www.codingame.com/home\">Codingame</a>. This website propse different puzzle to solve by coding your own IA. There is sometimes some multiplayer tournaments. I participate actively on 4 of them :");
 define("_REF1_URL", "See my profile");
@@ -127,34 +132,29 @@ define("_MODAL_PYTHON", "I learnt Python by myself mostly on <a href=\"https://w
                   <div class=\"col-md-6\">
                       <t><b>Good knowledge</b></t><br/>
 				      <ul>
-				          <li>Std Libs (math, os, string, itertools, queue, datetime, pickle)</li>
+				          <li>Std Libs (math, os, string, itertools, queue, datetime, pickle, threading, heapq)</li>
 				          <li>Algorithmic 
                               <ul>
                                 <li>Algorithmic Complexity</li>
                                 <li>Graph theory</li>
                                 <li>Pathfinding (A*, BFS, DFS, Djikstra)</li>
+                                <li>Exploration (MiniMax, A/B pruning)</li>
                               </ul>
 				          </li>
                           <li>Scientific libs (Numpy, Scipy, Scikit_learn, mathplotlib)</li>
                           <li>Supervised Machine Learning (Linear/Log regression, SVM, random forest, DNN)</li>
+                          <li>Unsupervised Machine Learning (Manifolds/Clustering)</li>
+                          <li>Neural Networks (Tensorflow / Keras)</li>
+                          <li>Genetic Algorithms</li>
 				      </ul>
                   </div>
                   <div class=\"col-md-6\">
                       <t><b>Basic knowledge</b></t><br/>
                       <ul>
-                          <li>Std Libs (threading, heapq)</li>
                           <li>Django (MVC structure, auth module, BDD) and Flask</li>
-                          <li>PyQt4</li>
+                          <li>PyQt4 / PyQt5</li>
                           <li>Webscrapping with beautifulSoup</li>
-                          <li>Tensorflow
-                            <ul>
-                            <li>Convolutionnal Neural Network</li> 
-                            <li>Recurrent Neural Network</li> 
-                            <li>Reinforced Learning</li> 
-                            </ul>
-                          </li>
-                          <li>Unsupervised Machine Learning (Clustering)</li>
-                          <li>Genetic Algorithms</li>
+                          <li>Reinforced Learning (Q-learning / DQN & variations like DDDQN with PER / PPO / PG)</li> 
                       </ul>
                   </div>
                 </div>
@@ -198,6 +198,12 @@ define("_MODAL_OFFICE", "I have a pretty good level in Office Pack including Acc
     <li>Storing and access to documentation</li>
 </ul>
 More generally, my knowledge in Office package is :");
+
+define("_MODAL_Java", "I started to learn Java by doing few projects. I wanted to understand the logic completely Oriented Object and being able to do some things with it if required (mainly for performances purposes). I have now some basics about code structuration (maven, packages) and structures (HashSet, Vectors, ...). I mainly used it with Processing to have a simple 2D rendered (to replace pygame for example).");
+
+define("_MODAL_R", "In complement of Python, I started to learn R on <a href=\"https://www.datacamp.com/profile/nicolasmine\" target=\"_blank\">DataCamp</a>. I wanted to learn it to be at least able to make some specific visualisations unavailable in Python. So I learned the basics and the elements needed for data processing / visualization. I did not learn what is needed for modeling.");
+
+define("_MODAL_SQL", "For multiple projects, I had to manipulate SQL. I won't say that I'm fully efficient but I have anought knowledge to be able to query what I need from databases if I know the structure.");
 
 define("_CLOSE_MODAL", "Close");
 

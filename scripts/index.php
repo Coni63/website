@@ -647,6 +647,17 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE53_TITLE ?></t></p>
+                <p><more><?= _PUZZLE53_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Pose_video" target="_blank"><?= _SHOW_REPO ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

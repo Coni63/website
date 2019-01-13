@@ -6,7 +6,7 @@ define("_WELCOME","Bienvenue sur <a href=\"#\" class=\"white\">nicolasmine.com</
 
 define("_MENU1_TITLE","Scripts");
 define("_MENU2_TITLE","Qui suis-je ?");
-define("_MENU3_TITLE","Apprendre Python");
+define("_MENU3_TITLE","Apprendre La Data Science");
 define("_MENU4_TITLE","Tweets");
 define("_MENU5_TITLE","Divers");
 define("_MENU6_TITLE","Projets");
@@ -16,9 +16,13 @@ define("_MENU2_DESC","Envie d'en savoir plus sur moi, jetez un coup d'oeil à mo
 define("_MENU3_DESC","Dans cette section, je vous présenterai différents contenus que j'ai découvert en apprenant Python, la Data Science, l'I.A. ou la programmation en générale.");
 define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été remplacé par mon compte twitter sur le ML. Sur celui-ci, je partage différents tweet interessant que je trouve sur le domaine.");
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
-define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ? C'est ici ! (En construction, le contenu sera ajouté au fur et à mesure).");
+define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.4.31");
+define("_VERSION","1.5.0");
+
+define("_NEWS51_TITLE","Mise à jour globale + Ajout Notebook (v1.5.0)");
+define("_NEWS51_DESC", "Mise à jour du site (CV, titres, contenu) et ajout d'un script concernant l'estimation de positions");
+define("_NEWS51_DATE", "13/01/2019");
 
 define("_NEWS50_TITLE","Ajout d'un script (v1.4.31)");
 define("_NEWS50_DESC", "Ajout des scripts concernant le Birthday Bot");

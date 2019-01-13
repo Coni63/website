@@ -186,7 +186,21 @@
 					<h7><input type="checkbox" id="show_stage"/>&nbsp;<?= _SWITCH1 ?></h7><br/>
 					<h7><input type="checkbox" id="show_projet"/>&nbsp;<?= _SWITCH2 ?></h7>
 				</div>
-                <div class="col-lg-6 pro"> 
+               
+               <div class="col-lg-6 pro"> 
+                    <p><t><?= _EXP7_TITLE ?></t><br/>
+                        HUSKY - <a href="http://www.husky.co/EN-US/Beverage-Packaging-Overview.aspx"><?= _EXP1_URL ?></a><br/>
+                    </p>
+                    <p><more>
+                        <?= _EXP7_DESC ?>
+                    </more></p>
+                </div>
+                <div class="col-lg-3 pro">
+                    <p><sm><?= _EXP7_DATE ?></sm></p>
+                    <imp><sm><?= _EXP7_INFO ?></sm></imp>
+                </div>
+               
+                <div class="col-lg-6  col-lg-offset-3 pro"> 
                     <p><t><?= _EXP1_TITLE ?></t><br/>
                         HUSKY - <a href="http://www.husky.co/EN-US/Beverage-Packaging-Overview.aspx"><?= _EXP1_URL ?></a><br/>
                     </p>
@@ -196,7 +210,6 @@
                 </div>
                 <div class="col-lg-3 pro">
                     <p><sm><?= _EXP1_DATE ?></sm></p>
-                    <imp><sm><?= _EXP1_INFO ?></sm></imp>
                 </div>
 
                 <div class="col-lg-6 col-lg-offset-3 stage">
@@ -263,7 +276,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Python 3.X <img class="title_img" src="../static/img/python.png"/></h4>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/python.png"/></h4>
                 </div>
                 <div class="modal-body">
                     <?= _MODAL_PYTHON ?>
@@ -281,7 +294,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Javascript <img class="title_img" src="../static/img/JavaScript.png"/>&nbsp;<img class="title_img" src="../static/img/jQuery.gif"/></h4>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/JavaScript.png"/>&nbsp;<img class="title_img" src="../static/img/jQuery.gif"/></h4>
                 </div>
                 <div class="modal-body">
                     <?= _MODAL_JS ?>
@@ -299,7 +312,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">PHP <img class="title_img" src="../static/img/PHP.png"/></h4>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/PHP.png"/></h4>
                 </div>
                 <div class="modal-body">
                     <?= _MODAL_PHP ?>
@@ -335,7 +348,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">VBA <img class="title_img" src="../static/img/vba.png"/></h4>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/vba.png"/></h4>
                 </div>
                 <div class="modal-body">
                     <?= _MODAL_VBA ?>
@@ -346,14 +359,14 @@
             </div>
         </div>
     </div>
-
+    
     <!-- Modal -->
     <div class="modal fade" id="myModalOffice" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Pack office <img class="title_img" src="../static/img/msoffice.png"/></h4>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/msoffice.png"/></h4>
                 </div>
                 <div class="modal-body">
                     <?= _MODAL_OFFICE ?>
@@ -405,6 +418,60 @@
         </div>
     </div>
 	
+    <!-- Modal -->
+    <div class="modal fade" id="myModalJava" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/JAVA.png"/></h4>
+                </div>
+                <div class="modal-body">
+                    <?= _MODAL_Java ?>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><?= _CLOSE_MODAL ?></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="myModalR" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/R.png"/></h4>
+                </div>
+                <div class="modal-body">
+                    <?= _MODAL_R ?>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><?= _CLOSE_MODAL ?></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="myModalSQL" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel"><img class="title_img" src="../static/img/sql.png"/></h4>
+                </div>
+                <div class="modal-body">
+                    <?= _MODAL_SQL ?>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><?= _CLOSE_MODAL ?></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 	<div id="skillswrap">
 		<div class="container animated wow fadeInDown">
 			<div class="row">
@@ -414,8 +481,8 @@
                 <div class="col-lg-3 centered">
                     <canvas id="python" height="130" width="130"></canvas>
                     <p>
-                        Python 3.X
-                        <a href="#myModalPY" data-toggle="modal" data-target="#myModalPY">
+                       Python 3.X
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalPY">
                             <span class="fa fa-info-circle fa-lg" ></span>
                         </a>
                     </p>
@@ -424,7 +491,7 @@
                 <div class="col-lg-3 centered">
                     <canvas id="javascript" height="130" width="130"></canvas>
                     <p>Javascript
-                        <a href="#myModalJS" data-toggle="modal" data-target="#myModalJS">
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalJS">
                             <span class="fa fa-info-circle fa-lg"></span>
                         </a>
                     </p>
@@ -433,7 +500,7 @@
                 <div class="col-lg-3 centered">
                     <canvas id="php" height="130" width="130"></canvas>
                     <p>PHP
-                        <a href="#myModalPHP" data-toggle="modal" data-target="#myModalPHP">
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalPHP">
                             <span class="fa fa-info-circle fa-lg" ></span>
                         </a>
                     </p>
@@ -443,7 +510,7 @@
                 <div class="col-lg-3 col-lg-offset-3 centered">
                     <canvas id="html" height="130" width="130"></canvas>
                     <p>HTML/CSS
-                        <a href="#myModalPHP" data-toggle="modal" data-target="#myModalHTML">
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalHTML">
                             <span class="fa fa-info-circle fa-lg" ></span>
                         </a>
                     </p>
@@ -467,6 +534,35 @@
                     </p>
                     <br>
                 </div>
+                
+                <div class="col-lg-3 col-lg-offset-3 centered">
+                    <canvas id="Java" height="130" width="130"></canvas>
+                    <p>Java
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalJava">
+                            <span class="fa fa-info-circle fa-lg" ></span>
+                        </a>
+                    </p>
+                    <br>
+                </div>
+                <div class="col-lg-3 centered">
+                    <canvas id="R" height="130" width="130"></canvas>
+                    <p>R
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalR">
+                            <span class="fa fa-info-circle fa-lg" ></span>
+                        </a>
+                    </p>
+                    <br>
+                </div>
+                <div class="col-lg-3 centered">
+                    <canvas id="SQL" height="130" width="130"></canvas>
+                    <p>SQL
+                        <a href="#myModal" data-toggle="modal" data-target="#myModalSQL">
+                            <span class="fa fa-info-circle fa-lg" ></span>
+                        </a>
+                    </p>
+                    <br>
+                </div>
+                
 			</div>
 			<br>
 		</div>

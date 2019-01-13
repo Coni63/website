@@ -6,7 +6,7 @@ define("_WELCOME","Welcome on <a href=\"#\" class=\"white\">nicolasmine.com</a>"
 
 define("_MENU1_TITLE","Scripts");
 define("_MENU2_TITLE","Who am I ?");
-define("_MENU3_TITLE","Learn Python");
+define("_MENU3_TITLE","Learn Data Science");
 define("_MENU4_TITLE","Tweets");
 define("_MENU5_TITLE","Misc");
 define("_MENU6_TITLE","Projects");
@@ -16,9 +16,13 @@ define("_MENU2_DESC","Wants to know more about myself, take a look to my Resume"
 define("_MENU3_DESC","In this section, I will make you discover some contents (websites, youtube channel, books) I found usefull to learn Python, Data Sciences, A.I. or Programming in general.");
 define("_MENU4_DESC","Due to time restriction, the \"news\" section has been replaced by my twitter account for ML. On this, I share interesting tweets I found.");
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
-define("_MENU6_DESC","Wants to see some content of training's project ? It's here ! (Under Construction, project will be added regularly).");
+define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.4.31");
+define("_VERSION","1.5.0");
+
+define("_NEWS51_TITLE","General update + Add a Notebook (v1.5.0)");
+define("_NEWS51_DESC", "Update of the website (resume, titles, content) and add a Notebook regaridng Poses Estimation");
+define("_NEWS51_DATE", "2019-01-13");
 
 define("_NEWS50_TITLE","Add a notebook (v1.4.31)");
 define("_NEWS50_DESC", "Add Script done for Birthday Bot");

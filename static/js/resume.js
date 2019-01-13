@@ -20,7 +20,10 @@ $(function(){
         "#html": 50,
         "#php": 55,
         "#vba": 70,
-        "#office": 85
+        "#office": 85,
+        "#Java" : 50,
+        "#R" : 55,
+        "#SQL" : 60,
     };
     
     $.each(values_list, function( key, value ) {

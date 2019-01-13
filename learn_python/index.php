@@ -239,6 +239,25 @@
                 </p>
             </div>
             
+            <div class="col-lg-6 col-lg-offset-3">
+                <p><img class="img-responsive" src="../static/img/formule_du_savoir.jpg" alt="" width="420"></p>
+            </div>
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_fr.png"/>&nbsp;<t>La Formule du Savoir&nbsp;<a href="https://www.amazon.fr/formule-savoir-philosophie-unifi%C3%A9e-th%C3%A9or%C3%A8me/dp/2759822605" target="_blank"><i class="fa fa-amazon" aria-hidden="true"></i></a><br/></t><br/>
+						<i>Lê Nguyên Hoang</i><br/>
+				</p>
+                <p>
+                    <more>
+                        <?= _BOOK8_DESC ?>
+                        <br/>
+                        <sm>
+                            <i class="fa fa-tag"></i><?= _VULGARISATION ?>
+                            <i class="fa fa-tag"></i><?= _PROB ?>
+                        </sm>
+                    </more>
+                </p>
+            </div>
+            
 		</div>
 		<br>
 		<hr>
@@ -433,6 +452,49 @@
                     <sm>
                         <i class="fa fa-tag"></i><?= _AI ?>
                         <i class="fa fa-tag"></i><?= _RL ?>
+                        <i class="fa fa-tag"></i><?= _VULGARISATION ?>
+                    </sm>
+                </p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
+                <p>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/spUNpyF58BY"></iframe>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_us.png"/>&nbsp;<a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured">3Blue1Brown</a></p>
+                <p>
+                    <more>
+                        <?= _YT10_DESC ?>
+                    </more>
+                    <br/>
+                    <br/>
+                    <sm>
+                        <i class="fa fa-tag"></i><?= _MULTI_SUB ?>
+                        <i class="fa fa-tag"></i><?= _VULGARISATION ?>
+                    </sm>
+                </p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
+                <p>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/mwTaISbA87A"></iframe>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><img src="../static/img/flags_us.png"/>&nbsp;<a href="https://www.youtube.com/user/Computerphile/featured">Computerphile</a></p>
+                <p>
+                    <more>
+                        <?= _YT11_DESC ?>
+                    </more>
+                    <br/>
+                    <br/>
+                    <sm>
+                        <i class="fa fa-tag"></i><?= _LINALG ?>
+                        <i class="fa fa-tag"></i><?= _NUM_AN ?>
                         <i class="fa fa-tag"></i><?= _VULGARISATION ?>
                     </sm>
                 </p>

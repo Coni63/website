@@ -32,7 +32,7 @@ define("_SUB2", "Ingénieur Mécanique");
 define("_SWITCH1", "Voir les Stages");
 define("_SWITCH2", "Voir les projets");
 
-define("_SECTION_1_DESC", "Je suis actuellement designer industriel dans une société produisant des moules d'injection plastique. Etant très intéressé par la programmation, j'apprends de façon autodidacte plusieurs langages (du Python au VBA en passant par le PHP, Javascript, SQL) depuis quelques années et plus récemment (env. 1an) j'ai decouvert le Machine-Learning. Afin de valider mes acquis avec un vrai diplôme, je suis actuellement un Master en ligne sur la plateforme OpenClassrooms. Ayant fini le cours, le mois dernier, j'ai entrepris d'apprendre aussi le language statistique R très utilisé dans l'analyse de données.");
+define("_SECTION_1_DESC", "Étant intéressé par la programmation, j'ai appris par moi-même quelques langages (Python, Javascript, VBA, PHP, SQL, R, Java). Depuis début 2017, je suis passionné par le Machine-Learning. En hiver 2017/2018, j'ai validé un Master en Data-Science sur OpenclassRooms et commencé à apprendre R sur DataCamp. Je travaille désormais en tant que spécialiste en digitalisation où je mettre à profit mes différentes connaissances pour automatiser diverses tâches (détection des défauts, prévisions de la qualité, ...)");
 
 define("_FORM5_TITLE", "Apprentissage du language R");
 define("_FORM5_LOC", "Cours en Ligne (DataCamp)");
@@ -66,8 +66,7 @@ define("_FORM3_DATE", "2008");
 
 define("_EXP1_TITLE", "Designer Industriel");
 define("_EXP1_DESC", "Conception de moules d'injection plastique (pour des préformes de bouteilles). Mise en place de petits outils en VBA et aide à la coordination de projets");
-define("_EXP1_DATE", "11/2014 - Aujourd'hui");
-define("_EXP1_INFO", "Poste Actuel");
+define("_EXP1_DATE", "11/2014 - 12/2018");
 define("_EXP1_URL", "Site Officiel");
 
 define("_EXP2_TITLE", "Stage de fin d'études - Conception d'une scie à chaine courbe");
@@ -96,6 +95,12 @@ define("_EXP6_TITLE", "Projets Thinkmotion – Réalisation d’un système de f
 define("_EXP6_DESC", "L'objectif du projet Européen Thinkmotion est de faire une librairie de modèles 3D animées de brevets existants. Pour ce projet, j'ai choisi un système de fermeture de porte avec une came");
 define("_EXP6_DATE", "Septembre 2011");
 define("_EXP6_INFO", "Projet de de 2<sup>ème</sup> année");
+
+define("_EXP7_TITLE", "Designer Industriel");
+define("_EXP7_DESC", "En tant que membre de l'équipe de digitalisation, l'objectif est d'automatiser certaines étapes de la production des moules (test et inspection). Pour ce faire, l'automatisation de certaines étapes est nécessaire. Cela permettra de collecter des données et les utiliser pour créer des modèles prédictifs.");
+define("_EXP7_DATE", "01/2019 - Aujourd'hui");
+define("_EXP7_INFO", "Poste Actuel");
+define("_EXP7_URL", "Site Officiel");
 
 define("_REF1_DESC", "J'ai appris en majorité le langage Python sur <a href=\"https://www.codingame.com/home\">Codingame</a>. Ce site propose différents puzzles a résoudre en programmant un algorithme. Ce site propose parfois aussi des tournois d’IA sur une semaine où l'on affronte d'autres codeurs. 
                         Parmi les tournois proposés, j'ai particulièrement pris part à 4 d'entre eux :");
@@ -128,34 +133,29 @@ define("_MODAL_PYTHON", "J'ai appris le python de manière autodidacte en majori
                   <div class=\"col-md-6\">
                       <t><b>Bonne connaissances</b></t><br/>
 				      <ul>
-				          <li>Librairies standards (math, os, string, itertools, queue, datetime, pickle)</li>
+				          <li>Librairies standards (math, os, string, itertools, queue, datetime, pickle, threading, heapq)</li>
 				          <li>Algorithmiques 
                               <ul>
                                 <li>Complexité algorithmique</li>
                                 <li>Algorithme de graphes</li>
                                 <li>Pathfinding (A*, BFS, DFS, Djikstra)</li>
+                                <li>Exploration (MiniMax, A/B pruning)</li>
                               </ul>
 				          </li>
                           <li>Librairies Scientifique (Numpy, Scipy, Scikit_learn, mathplotlib)</li>
-                          <li>Machine-Learning supervisé (Linear/logistic regression, SVM, Random Forest, DNN)</li>
+                          <li>Apprentissage supervisé (Linear/logistic regression, SVM, Random Forest, DNN)</li>
+                          <li>Apprentissage non supervisé (Manifolds / Clustering)</li>
+                          <li>Réseaux de Neurones (Tensorflow / Keras)</li>
+                          <li>Algorithmes génétiques</li>
 				      </ul>
                   </div>
                   <div class=\"col-md-6\">
                       <t><b>Connaissances de bases</b></t><br/>
                       <ul>
-                          <li>Librairies standards (threading, heapq)</li>
                           <li>Django (modèle MVC, auth module, BDD) et Flask</li>
-                          <li>PyQt4</li>
+                          <li>PyQt4 / PyQt5</li>
                           <li>Webscrapping with beautifulSoup</li>
-                          <li>Tensorflow
-                            <ul>
-                            <li>Convolutionnal Neural Network</li> 
-                            <li>Recurrent Neural Network</li> 
-                            <li>Reinforced Learning</li> 
-                            </ul>
-                          </li>
-                          <li>Machine-Learning non supervisé (Clustering)</li>
-                          <li>Algorithmes génétiques</li>
+                          <li>Apprentissage par Renforcement (Q-learning / DQN & variations like DDDQN with PER / PPO / PG)</li>
                       </ul>
                   </div>
                 </div> <!-- End of rows -->
@@ -202,6 +202,12 @@ define("_MODAL_OFFICE", "J'ai de bonne connaissance sur le pack Office incluant 
     <li>la gestion de la documentation</li>
 </ul>
 Plus globalement mon niveau sur Office est :");
+
+define("_MODAL_Java", "J'ai commencé à apprendre le Java en faisant quelques projets. Je voulais comprendre la logique complètement orientée objet et être capable de faire certaines choses si nécessaire (principalement à des fins de performances). J'ai maintenant quelques bases sur la structuration de code (maven, packages) et les structures (HashSet, Vectors, ...). Je l'ai principalement utilisé avec Processing pour obtenir un rendu 2D simple (pour remplacer pygame par exemple).");
+
+define("_MODAL_R", "En complément de Python, J'ai commencé à apprendre R sur <a href=\"https://www.datacamp.com/profile/nicolasmine\" target=\"_blank\">DataCamp</a>. Je voulais l'apprendre pour être au moins en mesure de faire quelques visulisations spécifiques indisponible en Python. J'ai donc appris les bases ainsi les éléments nécessaires au traitement / à la visualisation des données. Je n'ai pas appris ce qui est nécessaire à la modélisation.");
+
+define("_MODAL_SQL", "Pour plusieurs projets, j'ai dû manipuler SQL. Je ne dirai pas que je suis pleinement efficace, mais j'ai des connaissances suffisament approfondies pour pouvoir faire les requête dont j'ai besoin dans des bases de données si je connais la structure.");
 
 define("_CLOSE_MODAL", "Fermer");
 

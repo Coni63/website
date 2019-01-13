@@ -28,6 +28,7 @@ define("_MULTI_SUB", "Multi Sujets");
 define("_TALK", "Conférences");
 define("_AI", "Intelligence Artificielle");
 define("_RL", "Apprentissage par Renforcement");
+define("_PROB", "Probabilités");
 
 define("_SECTION_BOOK", "Livres");
 define("_SECTION_YOUTUBE", "Chaines Youtube");
@@ -47,6 +48,8 @@ define("_BOOK6_DESC", "Comparé au livre présenté ci-dessus, celui-ci se conce
 
 define("_BOOK7_DESC", "Plus je fais de projets, plus je me rends compte que j'ai besoin d'une compréhension plus profonde du pourquoi et comment un réseau de neurones fonctionne. Ceci pour être en mesure de mettre en place une structure plus complexe qu'un simple NN, RNN ou CNN. Ce livre ne prend en compte que la partie Neural Network et est très complet. Mis à part qu'il n'est pas 100% à jour (ecrit en 2016), c'est une très bonne source de connaissances sur les NN. Il n'y a pas non plus de codes mais seulement du pseudo-code pour comprendre certaines fonctions.");
 
+define("_BOOK8_DESC", "Ce livre aborde la différence entre Statisticiens Fréquentistes et Statisticiens Bayésiens. Il tente de convaincre, avec succès, les lecteurs de changer leur façon de penser pour une approche plus Bayésienne. Cette explication est basée sur de multiples exemples très parlants et parfois déroutants. Le livre est surtout philosophique et n'a que peu de Mathématiques.");
+
 define("_YT1_DESC", "Envie de coder dans la bonne humeur ? Sur cette chaine, vous vous attaquerez à des problèmes et à leur résolution en Javascript avec P5.js ou en Java avec Processing. Chaque problème est résolu avec une explication claire et un algorithme incluant une visualisation de l'algorithme afin de faciliter la compréhension.");
 
 define("_YT2_DESC", "Envie de coder un site sous Python, d'en savoir plus sur le ML et la finance, envie de faire un jeu sur pygame? Cette chaine est faite pour vous! Vous trouverez différentes playlists sur chaque sujets avec un projet mené de A-Z. Seul bémol, parfois les librairies ont évolué entre temps et la syntaxe n'est pas toujours a jour.");
@@ -64,6 +67,10 @@ define("_YT7_DESC", "Voici la chaine des developpeur de chez Google. Vous trouve
 define("_YT8_DESC", "Cette chaine est une pépite. Si vous souhaitez obtenir plus d’informations sur les dernières avancées en Deep Reinforcement Learning. Il explique les dernières évolutions de manière simple et les rend faciles à comprendre.");
 
 define("_YT9_DESC", "Une présentation des dernières avancées en Data Science et en 3 minutes, cette chaine propose un très bon aperçu des dernières publications. Environ 2 vidéos par semaine, c'est une bonne chaîne à suivre.");
+
+define("_YT10_DESC", "Une chaine Youtube présentant plusieurs concepts mathématiques de manière simple. Ce n'est pas toujours pertinent pour la Data Sciences, mais c'est une très bonne source de connaissances générales.");
+
+define("_YT11_DESC", "Un chaine générique qui parle d’ordinateurs et d’algorithmes. Semblable à Numberphile, c’est un une chaine générique intéressante à suivre");
 
 define("_SITE1_DESC", "Si vous connaissez déjà un peu la programmation et vous en avez marre de coder toujours la même chose, ce site est fait pour vous! Résolvez des puzzles en codant votre propre IA, affrontez d'autres codeurs sur des minis challenges de 5 minutes ou sur des tournois d'une semaine, le choix est large. <br/>NB : Ce site supporte 27 langages différents. A vos claviers !");
 

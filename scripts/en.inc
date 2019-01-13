@@ -142,8 +142,8 @@ define("_PUZZLE34_DESC", "After a discussion regarding programming languages, I 
 define("_PUZZLE35_TITLE", "IA - Java - Genetic algorithm and PID");
 define("_PUZZLE35_DESC", "This week I made a project where I wanted to create in Java (using processing) as small genetic algorithme able to \"drive\" a solid between doors like with flappy bird. To have a fast learning, I provide a trajectory to follow and the genome is the parameters of the PID and the speed along x-axis. ");
 
-define("_PUZZLE36_TITLE", "ML - Keras - Classification de pulsations cardiaques");
-define("_PUZZLE36_DESC", "Dans ce Notebook, l'objectif était de refaire le modèle publié dans le papier <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. Nous verrons également que même si le résultat est très bon, ils y a un très fort sur-apprentissage et le modèle ne peut pas être réutilisé sur d'autres ECGs.");
+define("_PUZZLE36_TITLE", "ML - Keras - Heartbeat Classification");
+define("_PUZZLE36_DESC", "In this Notebook, the goal was to redo the model published in the paper <a href=\"https://arxiv.org/abs/1805.00794\">ArXviv 1805.00794</a>. We will also see that even if the result is very good, there is a very strong overfitting making the model impossible to reuse on others ECGs.");
 
 define("_PUZZLE37_TITLE", "GA - Java - Code tester");
 define("_PUZZLE37_DESC", "This small project is a comparator of 4 algorithms to find a code based only on the number of correct digits. The first one is trying digits one by one for each position to find the correct one. The second one is a genetic algorithm with the fitness based on number of correct digits. The third one is a greedy algorithm and the last one is a random generator.");
@@ -192,5 +192,8 @@ define("_PUZZLE51_DESC", "To try to improve/stabilize the decision about ETFs, w
 
 define("_PUZZLE52_TITLE", "Web-Scrapping - Python - Birthday Bot");
 define("_PUZZLE52_DESC", "Following a video of Micode, I wanted to do a bot on twitter. For this project, celebrities's birthday dates were extracted from a website and a bot will be set up to wish on daily basis an happy birthday to celebrities on Twitter");
+
+define("_PUZZLE53_TITLE", "ML - Python - Pose Estimation");
+define("_PUZZLE53_DESC", "Compared to previous scripts, this one doesn't have any Notebooks as I only created a pipeline to process a video trhough a Pose Estimation Model called DensePose. This project has been done on the video clip called \"Skibidi\" as there is challenges for the model (more or less persones, costumes, fast moves, ...)");
 
 ?>

@@ -29,6 +29,7 @@ define("_MULTI_SUB", "Multi Subjects");
 define("_TALK", "Live Talk");
 define("_AI", "Artificial Intelligence");
 define("_RL", "Reinforcement Learning");
+define("_PROB", "Probabilities");
 
 define("_SECTION_BOOK", "Books");
 define("_SECTION_YOUTUBE", "Youtube Channels");
@@ -49,6 +50,8 @@ define("_BOOK6_DESC", "Compare to the book above, this one focus only on Reinfor
 
 define("_BOOK7_DESC", "The more I do projects, the more I realize that I need a deeper understanding of How and Why Neural Network works to be able to set more complicated structure than simple NN, RNN or CNN. This book only take into consideration the Neural Network Science. Except the fact that it is not 100% up-to-date (written in 2016), it's a really good source of knowledge about NN. There is also no codes but only pseudo-code to understand some functions.");
 
+define("_BOOK8_DESC", "This book addresses the difference between Frequentists Statisticians and Bayesians Statisticians. He tries to convince the readers, with success, to change their mind for a more Bayesian approach. This explanation is based on many good but confusing examples. The book is mostly philosophical and has little mathematics.");
+
 define("_YT1_DESC", "Want to code in a good spirit ? On this channel, you gonna see some coding challenges and how to solve it with either Javascript with the library P5.js or Java usign Processing. Every problems are solved with clear explainations and an algorithm including a graphical representation to ease the understanding.");
 
 define("_YT2_DESC", "You want to code a website in Python, knows more about ML and finances, write a game on pygame? This channel is definitely made for you ! You gonna find several playlists for every subject with a project made on them. One drawback, some videos are \"old\" and may be not 100% up-to-date (e.g. Django)");
@@ -66,6 +69,10 @@ define("_YT7_DESC", "This Channel is the channel of Google Devs. You will find o
 define("_YT8_DESC", "A golden nugget ! if you want to get more insight in latest breakthrough in Deep Reinforcement Learning. He explains all latest development in a simple way and makes it easy to understand.");
 
 define("_YT9_DESC", "A presentation of latest breakthroughs in Data Science in 3 minute, this channel provide a very good overview of latest best papers. Around 2 videos per week, it's a good channel to follow.");
+
+define("_YT10_DESC", "A Youtube channel presenting multiple mathematical concepts in an easy way. It's not everytime relevant for Data Sciences but it's a very good source of general knowledge.");
+
+define("_YT11_DESC", "A global channel talking about computer and algorithms. Similar to Numberphile, it's an interesting generic channel to follow");
 
 define("_SITE1_DESC", "You know a programming language and wants to challenge yourself on new problems ? This site is for you! Sove several problems by coding your own IA, fight other coders in multiplayer clashes or in a 7-day tournaments, choici is yours.<br/> This website supports 27 languages, let's code !");
 
