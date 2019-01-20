@@ -43,6 +43,16 @@
             </div>
             
             <div class="col-lg-6">
+                <p><t><?= _NEWS52_TITLE ?></t><br/>
+                    <?= _NEWS52_DESC ?>
+                </p>
+            </div>
+            
+            <div class="col-lg-3">
+                <p><sm><?= _NEWS52_DATE ?></sm></p>
+            </div>
+            
+            <div class="col-lg-6 col-lg-offset-3">
                 <p><t><?= _NEWS51_TITLE ?></t><br/>
                     <?= _NEWS51_DESC ?>
                 </p>

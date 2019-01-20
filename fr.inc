@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.0");
+define("_VERSION","1.5.1");
+
+define("_NEWS52_TITLE","Ajout d'un script (v1.5.1)");
+define("_NEWS52_DESC", "Ajout d'un notebook sur les réseaux Bayesiens et les chaines de Markov");
+define("_NEWS52_DATE", "20/01/2019");
 
 define("_NEWS51_TITLE","Mise à jour globale + Ajout Notebook (v1.5.0)");
 define("_NEWS51_DESC", "Mise à jour du site (CV, titres, contenu) et ajout d'un script concernant l'estimation de positions");

@@ -199,4 +199,7 @@ define("_PUZZLE52_DESC", "Suite à une video de Micode, j'ai voulu faire aussi u
 define("_PUZZLE53_TITLE", "ML - Python - Estimation de pose");
 define("_PUZZLE53_DESC", "Comparé aux scripts précédents, celui-ci ne contient pas de Notebook. Je n'ai créé qu'un \"pipeline\" pour traiter une vidéo via un modèle d'estimation de la pose appelé DensePose. Ce projet a été réalisé sur le clip vidéo \"Skibidi\" car celui-ci présente plusieurs défis pour le modèle (plus ou moins de personnages, costumes, mouvements rapides, ...)");
 
+define("_PUZZLE54_TITLE", "ML - Python - Réseaux Bayésiens");
+define("_PUZZLE54_DESC", "Lors d'un précédent projet, j'ai découvert ce quesont les réseaux bayésiens. Pour comprendre un peu plus, j'ai décidé de faire quelques exercices à ce sujet. Dans ce Notebook, j'ai exploré un peu dans la librairie \"pgmpy\" avec un exemple et un exercice. Après cela, j'en ai profité pour tester un générateur de mots à l'aide des chaines de Markov.");
+
 ?>

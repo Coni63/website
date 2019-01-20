@@ -196,4 +196,7 @@ define("_PUZZLE52_DESC", "Following a video of Micode, I wanted to do a bot on t
 define("_PUZZLE53_TITLE", "ML - Python - Pose Estimation");
 define("_PUZZLE53_DESC", "Compared to previous scripts, this one doesn't have any Notebooks as I only created a pipeline to process a video trhough a Pose Estimation Model called DensePose. This project has been done on the video clip called \"Skibidi\" as there is challenges for the model (more or less persones, costumes, fast moves, ...)");
 
+define("_PUZZLE54_TITLE", "ML - Python - Bayesian Networks");
+define("_PUZZLE54_DESC", "On a previous project, I discovered what are Bayesian Networks. To understand a bit more, I decided to do few exercices about that. In this Notebook, I dig a bit into \"pgmpy\" library with an example and an exercice. After that, I took the opportunity to do a word generator using Markov Model.");
+
 ?>

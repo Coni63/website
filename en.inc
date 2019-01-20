@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.5.0");
+define("_VERSION","1.5.1");
+
+define("_NEWS52_TITLE","Add a notebook (v1.5.1)");
+define("_NEWS52_DESC", "Add the notebook about Bayesian Networks and Markov chains");
+define("_NEWS52_DATE", "2019-01-20");
 
 define("_NEWS51_TITLE","General update + Add a Notebook (v1.5.0)");
 define("_NEWS51_DESC", "Update of the website (resume, titles, content) and add a Notebook regaridng Poses Estimation");
