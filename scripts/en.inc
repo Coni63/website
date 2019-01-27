@@ -199,4 +199,7 @@ define("_PUZZLE53_DESC", "Compared to previous scripts, this one doesn't have an
 define("_PUZZLE54_TITLE", "ML - Python - Bayesian Networks");
 define("_PUZZLE54_DESC", "On a previous project, I discovered what are Bayesian Networks. To understand a bit more, I decided to do few exercices about that. In this Notebook, I dig a bit into \"pgmpy\" library with an example and an exercice. After that, I took the opportunity to do a word generator using Markov Model.");
 
+define("_PUZZLE55_TITLE", "Simulation - Python - Multiple knapsack problem ");
+define("_PUZZLE55_DESC", "Let's assume we want to assemble a stack of parts. How can we minimize the variation of a specific criteria along all the produced part ? This is what I wanted to look at in this Notebook isung Genetic Algorithms.");
+
 ?>

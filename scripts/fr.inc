@@ -202,4 +202,7 @@ define("_PUZZLE53_DESC", "Comparé aux scripts précédents, celui-ci ne contien
 define("_PUZZLE54_TITLE", "ML - Python - Réseaux Bayésiens");
 define("_PUZZLE54_DESC", "Lors d'un précédent projet, j'ai découvert ce quesont les réseaux bayésiens. Pour comprendre un peu plus, j'ai décidé de faire quelques exercices à ce sujet. Dans ce Notebook, j'ai exploré un peu dans la librairie \"pgmpy\" avec un exemple et un exercice. Après cela, j'en ai profité pour tester un générateur de mots à l'aide des chaines de Markov.");
 
+define("_PUZZLE55_TITLE", "Simulation - Python - Problème du sac à dos multiple ");
+define("_PUZZLE55_DESC", "Supposons que nous voulions assembler un ensemble de pièces. Comment pouvons-nous les arranger afin de minimiser la variation d'un critère sur la pièce produite? C’est ce que je voulais simuler avec ce Notebook en utilisant les algorithmes génétiques.");
+
 ?>
