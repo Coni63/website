@@ -682,6 +682,21 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE56_TITLE ?></t></p>
+                <p><more><?= _PUZZLE56_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                   <li class="link_tips"><imp><a class="white" href="https://github.com/Coni63/Personal_envs_gym" target="_blank">Github Repo</a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Supervised_Model.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Supervised_Model.ipynb" download="Supervised_Model.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Supervised_full.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/Supervised_full.ipynb" download="Supervised_full.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

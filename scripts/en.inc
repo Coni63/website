@@ -202,4 +202,7 @@ define("_PUZZLE54_DESC", "On a previous project, I discovered what are Bayesian 
 define("_PUZZLE55_TITLE", "Simulation - Python - Multiple knapsack problem ");
 define("_PUZZLE55_DESC", "Let's assume we want to assemble a stack of parts. How can we minimize the variation of a specific criteria along all the produced part ? This is what I wanted to look at in this Notebook isung Genetic Algorithms.");
 
+define("_PUZZLE56_TITLE", "Reinforcement Learning - Python/Tensorflow - Minesweeper Bot");
+define("_PUZZLE56_DESC", "After learning DQN and a bit of PPO, I wanted to apply it on a medium scale project. The minesweeper appeared good. Howerver I realized that it's not the case because the environment is partially observable and stochastic. As a result, I just trained 2 models : <br> -The first one should predict the probability of a bomb given the neighborhood (5x5 grid) <br>-The scond one in the full grid. <br>Unfortunately the result of the full grid is not very good and the other one is not very convenient...");
+
 ?>

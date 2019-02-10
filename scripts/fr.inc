@@ -205,4 +205,7 @@ define("_PUZZLE54_DESC", "Lors d'un précédent projet, j'ai découvert ce queso
 define("_PUZZLE55_TITLE", "Simulation - Python - Problème du sac à dos multiple ");
 define("_PUZZLE55_DESC", "Supposons que nous voulions assembler un ensemble de pièces. Comment pouvons-nous les arranger afin de minimiser la variation d'un critère sur la pièce produite? C’est ce que je voulais simuler avec ce Notebook en utilisant les algorithmes génétiques.");
 
+define("_PUZZLE56_TITLE", "Apprentissage par Renforcement - Python/Tensorflow - IA pour le Démineur");
+define("_PUZZLE56_DESC", "Après avoir appris le DQN et un peu de PPO, je voulais appliquer mes connaissances sur un projet de taille moyenne. Le jeu du démineur semblait bien. Cependant en le faisant, j'ai réalisé que ce n'était pas le cas car l'environnement est partiellement observable et stochastique. J'ai donc testé deux modèles: <br> -Le premier devrait prédire la probabilité qu'il y ait une bombe étant donné son voisinage (grille 5x5) <br>- Le second était le même mais sur l’ensemble de la grille. <br>Malheureusement, le résultat de la grille complète n'est pas très bon et l'autre n'est pas très pratique ...");
+
 ?>
