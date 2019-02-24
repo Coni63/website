@@ -205,4 +205,7 @@ define("_PUZZLE55_DESC", "Let's assume we want to assemble a stack of parts. How
 define("_PUZZLE56_TITLE", "Reinforcement Learning - Python/Tensorflow - Minesweeper Bot");
 define("_PUZZLE56_DESC", "After learning DQN and a bit of PPO, I wanted to apply it on a medium scale project. The minesweeper appeared good. Howerver I realized that it's not the case because the environment is partially observable and stochastic. As a result, I just trained 2 models : <br> -The first one should predict the probability of a bomb given the neighborhood (5x5 grid) <br>-The scond one in the full grid. <br>Unfortunately the result of the full grid is not very good and the other one is not very convenient...");
 
+define("_PUZZLE57_TITLE", "Optimization - Python - Filters decomposition ");
+define("_PUZZLE57_DESC", "In image processing, a common step is the application of convolutionnal filters. Based on the size of the filter, the time required to process an image can takes time. In this Notebook, we will see how this can be improved a lot by using filter decomposition");
+
 ?>

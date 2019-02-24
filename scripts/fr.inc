@@ -208,4 +208,7 @@ define("_PUZZLE55_DESC", "Supposons que nous voulions assembler un ensemble de p
 define("_PUZZLE56_TITLE", "Apprentissage par Renforcement - Python/Tensorflow - IA pour le Démineur");
 define("_PUZZLE56_DESC", "Après avoir appris le DQN et un peu de PPO, je voulais appliquer mes connaissances sur un projet de taille moyenne. Le jeu du démineur semblait bien. Cependant en le faisant, j'ai réalisé que ce n'était pas le cas car l'environnement est partiellement observable et stochastique. J'ai donc testé deux modèles: <br> -Le premier devrait prédire la probabilité qu'il y ait une bombe étant donné son voisinage (grille 5x5) <br>- Le second était le même mais sur l’ensemble de la grille. <br>Malheureusement, le résultat de la grille complète n'est pas très bon et l'autre n'est pas très pratique ...");
 
+define("_PUZZLE57_TITLE", "Optimisation - Python - Décomposition de filtres ");
+define("_PUZZLE57_DESC", "En traitement d’image, une étape assez commune est l’application de filtres de convolution. En fonction de la taille du filtre, le temps requis pour traiter une image peut prendre du temps. Dans ce notebook, nous verrons comment ce temps peut être très réduit en utilisant la décomposition de filtres");
+
 ?>
