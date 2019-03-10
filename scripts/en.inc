@@ -208,4 +208,8 @@ define("_PUZZLE56_DESC", "After learning DQN and a bit of PPO, I wanted to apply
 define("_PUZZLE57_TITLE", "Optimization - Python - Filters decomposition ");
 define("_PUZZLE57_DESC", "In image processing, a common step is the application of convolutionnal filters. Based on the size of the filter, the time required to process an image can takes time. In this Notebook, we will see how this can be improved a lot by using filter decomposition");
 
+define("_PUZZLE58_TITLE", "Optimization - Python - The Centrifuge Problem ");
+define("_PUZZLE58_DESC", "In this last weeks, I made some Codingame puzzles and I found on youtube a nice problem I decided to solve. The solution is only a py file as there is not a lot to explain. The solution is presented on the attached video.");
+
+
 ?>

@@ -211,4 +211,7 @@ define("_PUZZLE56_DESC", "Après avoir appris le DQN et un peu de PPO, je voulai
 define("_PUZZLE57_TITLE", "Optimisation - Python - Décomposition de filtres ");
 define("_PUZZLE57_DESC", "En traitement d’image, une étape assez commune est l’application de filtres de convolution. En fonction de la taille du filtre, le temps requis pour traiter une image peut prendre du temps. Dans ce notebook, nous verrons comment ce temps peut être très réduit en utilisant la décomposition de filtres");
 
+define("_PUZZLE58_TITLE", "Optimisation - Python - Le probleme de la centifugeuse ");
+define("_PUZZLE58_DESC", "Ces derniers temps, j'ai fait quelques puzzles sur Codingame et j'ai trouvé sur youtube un problème intéressant que j'ai décidé de résoudre. La solution est un fichier py uniquement car il n’y a pas grand chose à expliquer. La solution est présentée sur la vidéo ci-jointe.");
+
 ?>
