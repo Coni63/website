@@ -18,10 +18,14 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.5");
+define("_VERSION","1.5.6");
+
+define("_NEWS57_TITLE","Ajout d'un script (v1.5.6)");
+define("_NEWS57_DESC", "Ajout d'un script sur la resolution de Sudoku");
+define("_NEWS57_DATE", "24/03/2019");
 
 define("_NEWS56_TITLE","Ajout d'un script (v1.5.5)");
-define("_NEWS56_DESC", "Ajout d'un sur sur le problème de la centrifuge");
+define("_NEWS56_DESC", "Ajout d'un script sur le problème de la centrifuge");
 define("_NEWS56_DATE", "10/03/2019");
 
 define("_NEWS55_TITLE","Ajout d'un script (v1.5.4)");

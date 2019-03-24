@@ -214,4 +214,7 @@ define("_PUZZLE57_DESC", "En traitement d’image, une étape assez commune est 
 define("_PUZZLE58_TITLE", "Optimisation - Python - Le probleme de la centifugeuse ");
 define("_PUZZLE58_DESC", "Ces derniers temps, j'ai fait quelques puzzles sur Codingame et j'ai trouvé sur youtube un problème intéressant que j'ai décidé de résoudre. La solution est un fichier py uniquement car il n’y a pas grand chose à expliquer. La solution est présentée sur la vidéo ci-jointe.");
 
+define("_PUZZLE59_TITLE", "Optimisation - Python - Solveur de Sudoku ");
+define("_PUZZLE59_DESC", "J'ai trouvé sur Kaggle un dataset avec 1 million de sudoku. J'ai décidé de le télécharger pour vérifier si j'arrivais à les résoudre mais aussi essayer de comprendre ce qui les rend complexe à résoudre (pour un algorithme). 3 algorithmes seront comparés. Pour finir, les 4 sudoku les plus complexes seront testés sur ces algos.");
+
 ?>

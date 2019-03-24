@@ -211,5 +211,7 @@ define("_PUZZLE57_DESC", "In image processing, a common step is the application 
 define("_PUZZLE58_TITLE", "Optimization - Python - The Centrifuge Problem ");
 define("_PUZZLE58_DESC", "In this last weeks, I made some Codingame puzzles and I found on youtube a nice problem I decided to solve. The solution is only a py file as there is not a lot to explain. The solution is presented on the attached video.");
 
+define("_PUZZLE59_TITLE", "Optimization - Python - Sudoku Solver ");
+define("_PUZZLE59_DESC", "I found on Kaggle a Dataset of 1 million Sudoku. I decided to download it to check if I could solve them but also check what makes them difficult to solve (for an algorithm). 3 algorithms will be compared. To finish, the top-4 most complex sudoku will be tested on these algos");
 
 ?>
