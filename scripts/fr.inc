@@ -217,4 +217,7 @@ define("_PUZZLE58_DESC", "Ces derniers temps, j'ai fait quelques puzzles sur Cod
 define("_PUZZLE59_TITLE", "Optimisation - Python - Solveur de Sudoku ");
 define("_PUZZLE59_DESC", "J'ai trouvé sur Kaggle un dataset avec 1 million de sudoku. J'ai décidé de le télécharger pour vérifier si j'arrivais à les résoudre mais aussi essayer de comprendre ce qui les rend complexe à résoudre (pour un algorithme). 3 algorithmes seront comparés. Pour finir, les 4 sudoku les plus complexes seront testés sur ces algos.");
 
+define("_PUZZLE60_TITLE", "NetworkX - Python - Facebook Network ");
+define("_PUZZLE60_DESC", "Précédemment, j'ai découvert <a href=\"https://www.youtube.com/watch?v=MySkCFFgiRQ\">cette vidéo</a> de Michael Launay expliquant un fait assez marrant. Dans la majorité des cas, vous auruez l'impression d'avoir moins d'amis que vos mais sur Facebook. J'ai donc décidé de mettre en application une partie de ce que j'avais vu sur NetworkX pour le vérifier.");
+
 ?>
