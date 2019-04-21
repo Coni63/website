@@ -214,7 +214,7 @@ define("_PUZZLE58_DESC", "In this last weeks, I made some Codingame puzzles and 
 define("_PUZZLE59_TITLE", "Optimization - Python - Sudoku Solver ");
 define("_PUZZLE59_DESC", "I found on Kaggle a Dataset of 1 million Sudoku. I decided to download it to check if I could solve them but also check what makes them difficult to solve (for an algorithm). 3 algorithms will be compared. To finish, the top-4 most complex sudoku will be tested on these algos");
 
-define("_PUZZLE60_TITLE", "NetworkX - Python - Facebook Network ");
-define("_PUZZLE60_DESC", "Previously, I discovered <a href=\"https://www.youtube.com/watch?v=MySkCFFgiRQ\"> this video </a> by Michael Launay explaining a funny fact. In most of cases, you will have the impression of having less friends than them on Facebook. So I decided to use my previous learning on NetworkX to check this out.");
+define("_PUZZLE61_TITLE", "Cryptography - Python - Quantum Toss Coin ");
+define("_PUZZLE61_DESC", "On youtube, Physics Girl presented a way to play at distance the game of the Toss Coin. This is using light and quantum physics. This gave me the idea to start learning a bit cryptography and this is the first notebook of this subject.");
 
 ?>

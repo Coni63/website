@@ -744,6 +744,19 @@
                     <li class="link_tips"><imp><a class="white" href="solution/GrapheFB.ipynb" download="GrapheFB.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
                 </ul>
             </div>
+
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE61_TITLE ?></t></p>
+                <p><more><?= _PUZZLE61_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/cryptography/TossCoin.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/cryptography/TossCoin.ipynb" download="TossCoin.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
             
 		</div>
         </div>

@@ -220,4 +220,7 @@ define("_PUZZLE59_DESC", "J'ai trouvé sur Kaggle un dataset avec 1 million de s
 define("_PUZZLE60_TITLE", "NetworkX - Python - Facebook Network ");
 define("_PUZZLE60_DESC", "Précédemment, j'ai découvert <a href=\"https://www.youtube.com/watch?v=MySkCFFgiRQ\">cette vidéo</a> de Michael Launay expliquant un fait assez marrant. Dans la majorité des cas, vous auruez l'impression d'avoir moins d'amis que vos mais sur Facebook. J'ai donc décidé de mettre en application une partie de ce que j'avais vu sur NetworkX pour le vérifier.");
 
+define("_PUZZLE61_TITLE", "Cryptographie - Python - Pile ou Face Quantique ");
+define("_PUZZLE61_DESC", "Sur youtube, Physics Girl a présenté un moyen de jouer à distance au jeu du Pile ou Face. Ceci utilise la lumière et la physique quantique. Cela m'a donné l'idée de commencer à apprendre un peu la cryptographie et c'est le premier notebook sur ce sujet.");
+
 ?>
