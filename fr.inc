@@ -18,10 +18,14 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.8");
+define("_VERSION","1.5.9");
+
+define("_NEWS60_TITLE","Ajout d'un script et correction d'un bug (v1.5.9)");
+define("_NEWS60_DESC", "Ajout d'un script sur le RSA et correction d'une erreur avec une description manquante.");
+define("_NEWS60_DATE", "05/05/2019");
 
 define("_NEWS59_TITLE","Ajout d'un script (v1.5.8)");
-define("_NEWS59_DESC", "Ajout d'un script sur jeu du pile ou face quantique");
+define("_NEWS59_DESC", "Ajout d'un script sur le jeu du pile ou face quantique");
 define("_NEWS59_DATE", "21/04/2019");
 
 define("_NEWS58_TITLE","Ajout d'un script (v1.5.7)");

@@ -223,4 +223,7 @@ define("_PUZZLE60_DESC", "Précédemment, j'ai découvert <a href=\"https://www.
 define("_PUZZLE61_TITLE", "Cryptographie - Python - Pile ou Face Quantique ");
 define("_PUZZLE61_DESC", "Sur youtube, Physics Girl a présenté un moyen de jouer à distance au jeu du Pile ou Face. Ceci utilise la lumière et la physique quantique. Cela m'a donné l'idée de commencer à apprendre un peu la cryptographie et c'est le premier notebook sur ce sujet.");
 
+define("_PUZZLE62_TITLE", "Cryptographie - Python - RSA ");
+define("_PUZZLE62_DESC", "Dans le domaine de la cryptographie, l'un des cryptages à clé asymétriques les plus courants est le RSA. Dans ce notebook, nous allons explorer cet algorithme (avec son fonctionnement et un exemple simple)");
+
 ?>
