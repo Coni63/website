@@ -226,4 +226,7 @@ define("_PUZZLE61_DESC", "Sur youtube, Physics Girl a présenté un moyen de jou
 define("_PUZZLE62_TITLE", "Cryptographie - Python - RSA ");
 define("_PUZZLE62_DESC", "Dans le domaine de la cryptographie, l'un des cryptages à clé asymétriques les plus courants est le RSA. Dans ce notebook, nous allons explorer cet algorithme (avec son fonctionnement et un exemple simple)");
 
+define("_PUZZLE63_TITLE", "Cryptographie - Python - Cryptographie sur Courbes Elliptiques");
+define("_PUZZLE63_DESC", "Lorsque j'ai commencé à apprendre la cryptographie, j'ai découvert la cryptographie sur courbes elliptiques. Cela m'a vraiment étonné avec la possibilité d'utiliser principe de l’exponentiation rapide sur des géométries. Dans ce Noteboook, nous allons donc voir le principe de l'échange de clés Diffie-Hellman, mais également la mise en œuvre d'ECC pour générer des clés");
+
 ?>

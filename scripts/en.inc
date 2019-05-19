@@ -223,4 +223,7 @@ define("_PUZZLE61_DESC", "On youtube, Physics Girl presented a way to play at di
 define("_PUZZLE62_TITLE", "Cryptography - Python - RSA ");
 define("_PUZZLE62_DESC", "On the domain of Cryptography, one of the most common Asymmetrical Key Encryption is the RSA. In this Notebook, we will dig into this algorithm (how it works and a simple example)");
 
+define("_PUZZLE63_TITLE", "Cryptography - Python - Elliptical Curve Cryptographie");
+define("_PUZZLE63_DESC", "While starting tolearn Cryptography, I discovered the principle of Elliptical Curve Cryptography. This amazed me with the principle of being able to use the Fast exponentiation principle on geometries. In this Notebook, we will go thru the principle of Diffie-Hellman Key Exchange but also the implementation of ECC to generate keys.");
+
 ?>

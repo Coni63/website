@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.5.9");
+define("_VERSION","1.5.10");
+
+define("_NEWS61_TITLE","Add a script (v1.5.10)");
+define("_NEWS61_DESC", "Add a script about Elliptical Curve Cryptography");
+define("_NEWS61_DATE", "2019-05-19");
 
 define("_NEWS60_TITLE","Add a script and bug correction (v1.5.9)");
 define("_NEWS60_DESC", "Add a script about RSA algorithm and fix a mistake with a missing description");
