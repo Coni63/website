@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.10");
+define("_VERSION","1.5.11");
+
+define("_NEWS62_TITLE","Ajout d'un script  (v1.5.11)");
+define("_NEWS62_DESC", "Ajout d'un script sur le chiffrement par bloc et le Triple DES");
+define("_NEWS62_DATE", "09/06/2019");
 
 define("_NEWS61_TITLE","Ajout d'un script (v1.5.10)");
 define("_NEWS61_DESC", "Ajout d'un script sur la cryptographie sur les Courbes Elliptiques");

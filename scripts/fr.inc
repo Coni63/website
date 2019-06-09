@@ -229,4 +229,7 @@ define("_PUZZLE62_DESC", "Dans le domaine de la cryptographie, l'un des cryptage
 define("_PUZZLE63_TITLE", "Cryptographie - Python - Cryptographie sur Courbes Elliptiques");
 define("_PUZZLE63_DESC", "Lorsque j'ai commencé à apprendre la cryptographie, j'ai découvert la cryptographie sur courbes elliptiques. Cela m'a vraiment étonné avec la possibilité d'utiliser principe de l’exponentiation rapide sur des géométries. Dans ce Noteboook, nous allons donc voir le principe de l'échange de clés Diffie-Hellman, mais également la mise en œuvre d'ECC pour générer des clés");
 
+define("_PUZZLE64_TITLE", "Cryptographie - Python - Chiffrement par bloc");
+define("_PUZZLE64_DESC", "Précedemment, nous avons découvert comment créer des clés symétriques et asymétriques. Cela a été utilisé avec des méthodes de cryptage très basiques par la suite. Dans ce notebook, nous verrons comment chiffrer tout types de données. Il existe de nombreuses solutions cependant nous ne testerons que les 2 modes les plus sûrs (CBC et CTR) avec les 2 algorithmes de cryptage symmetriques les plus sûrs (AES et Triple DES).");
+
 ?>

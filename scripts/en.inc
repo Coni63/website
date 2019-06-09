@@ -226,4 +226,7 @@ define("_PUZZLE62_DESC", "On the domain of Cryptography, one of the most common 
 define("_PUZZLE63_TITLE", "Cryptography - Python - Elliptical Curve Cryptographie");
 define("_PUZZLE63_DESC", "While starting tolearn Cryptography, I discovered the principle of Elliptical Curve Cryptography. This amazed me with the principle of being able to use the Fast exponentiation principle on geometries. In this Notebook, we will go thru the principle of Diffie-Hellman Key Exchange but also the implementation of ECC to generate keys.");
 
+define("_PUZZLE64_TITLE", "Cryptography - Python - Block Cypher encryption");
+define("_PUZZLE64_DESC", "Previously, we discovered how to create symmetrical and asymmetrical keys. This was used with very basic encryption methods afterward. In this notebook, we will explore how to make encryption on any kind of data. There is multiple solutions existing but we will only test the 2 safest modes (CBC and CTR) with the 2 safest symmetrical encryption algorithms (AES and Triple DES).");
+
 ?>
