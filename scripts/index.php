@@ -793,6 +793,30 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE65_TITLE ?></t></p>
+                <p><more><?= _PUZZLE65_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/cryptography/DiscreteLog.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/cryptography/DiscreteLog.ipynb" download="DiscreteLog.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE66_TITLE ?></t></p>
+                <p><more><?= _PUZZLE66_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/SeamCarving/Seam%20Carving.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/SeamCarving/Seam%20Carving.ipynb" download="SeamCarving.ipynb"><?= _DL_SOLUTION ?></a></imp></li>
+                </ul>
+            </div>
+            
 		</div>
         </div>
     <section id="down" name="down"></section>

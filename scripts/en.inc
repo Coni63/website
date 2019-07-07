@@ -229,4 +229,10 @@ define("_PUZZLE63_DESC", "While starting tolearn Cryptography, I discovered the 
 define("_PUZZLE64_TITLE", "Cryptography - Python - Block Cypher encryption");
 define("_PUZZLE64_DESC", "Previously, we discovered how to create symmetrical and asymmetrical keys. This was used with very basic encryption methods afterward. In this notebook, we will explore how to make encryption on any kind of data. There is multiple solutions existing but we will only test the 2 safest modes (CBC and CTR) with the 2 safest symmetrical encryption algorithms (AES and Triple DES).");
 
+define("_PUZZLE65_TITLE", "Cryptography - Python - Discrete Log Attack");
+define("_PUZZLE65_DESC", "In the first Notebooks about Cryptography, we speak about the Key creation and says that they need to be very long. In this Notebook, we will see how to attack a Public Key to find the Private Key and being able to decrypt messages.");
+
+define("_PUZZLE66_TITLE", "Image Preprocessing - Python - Seam Carving");
+define("_PUZZLE66_DESC", "During a Codingame puzzle, I discovered the Seam Carving algorithm that could be a very good solution for pre-processing images in a machine learning project. It would help to resize images without stretching them as is the case in most cases");
+
 ?>

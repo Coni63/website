@@ -18,7 +18,15 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.5.11");
+define("_VERSION","1.5.13");
+
+define("_NEWS64_TITLE","Add a script (v1.5.13)");
+define("_NEWS64_DESC", "Add a script about Seam Carving");
+define("_NEWS64_DATE", "2019-07-07");
+
+define("_NEWS63_TITLE","Add a script (v1.5.12)");
+define("_NEWS63_DESC", "Add a script about Discret Log Attack");
+define("_NEWS63_DATE", "2019-06-23");
 
 define("_NEWS62_TITLE","Add a script (v1.5.11)");
 define("_NEWS62_DESC", "Add a script about Block Cypher methods and Triple DES");
