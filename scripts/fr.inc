@@ -238,4 +238,7 @@ define("_PUZZLE65_DESC", "Dans les premiers Notebooks sur la cryptographie, nous
 define("_PUZZLE66_TITLE", "Image Preprocessing - Python - Seam Carving");
 define("_PUZZLE66_DESC", "Lors d'un puzzle Codingame, j'ai découvert l'algorithme du Seam Carving qui pourrait être une très bonne solution pour le pre-processing des images dans un projet de Machine Learning. Il permettrait de redimenssionner les images sans les deformer comme c'est le cas dans la grande majorité des cas");
 
+define("_PUZZLE67_TITLE", "Classification d'images - Keras - Class Activation Map");
+define("_PUZZLE67_DESC", "Lors d'une précédente compétition Kaggle, j'ai découvert le principe de la carte d'activation de classe (CAM) pour visualiser les zones importantes pour la prédiction du modèle. Après la découverte liée à l’impact de la texture sur la classification, je voulais utiliser cette methode sur cette image (et d'autres) dans un seul Notebook");
+
 ?>

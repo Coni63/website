@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.13");
+define("_VERSION","1.5.14");
+
+define("_NEWS65_TITLE","Ajout d'un script  (v1.5.14)");
+define("_NEWS65_DESC", "Ajout d'un script sur la Class Activation Map");
+define("_NEWS65_DATE", "21/07/2019");
 
 define("_NEWS64_TITLE","Ajout d'un script  (v1.5.13)");
 define("_NEWS64_DESC", "Ajout d'un script sur le Seam Carving");
