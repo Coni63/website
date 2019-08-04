@@ -241,4 +241,8 @@ define("_PUZZLE66_DESC", "Lors d'un puzzle Codingame, j'ai découvert l'algorith
 define("_PUZZLE67_TITLE", "Classification d'images - Keras - Class Activation Map");
 define("_PUZZLE67_DESC", "Lors d'une précédente compétition Kaggle, j'ai découvert le principe de la carte d'activation de classe (CAM) pour visualiser les zones importantes pour la prédiction du modèle. Après la découverte liée à l’impact de la texture sur la classification, je voulais utiliser cette methode sur cette image (et d'autres) dans un seul Notebook");
 
+define("_PUZZLE68_TITLE", "Classification d'images - Keras - Preparation avec Seam Carving");
+define("_PUZZLE68_DESC", "Précédemment, nous avons vu une technique utilisée pour redimensionner une image sans perdre la zone d'intérêt et également visualiser quelle partie d'une image est utilisée pour effectuer la classification. Dasn ce Notebook, nous allons tester l’utilisation de Seam Carving sur de grandes images au lieu du redimensionnement classique et voir l’impact sur la classification.");
+
+
 ?>

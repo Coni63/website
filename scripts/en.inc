@@ -238,4 +238,7 @@ define("_PUZZLE66_DESC", "During a Codingame puzzle, I discovered the Seam Carvi
 define("_PUZZLE67_TITLE", "Image Classification - Keras - Class Activation Map");
 define("_PUZZLE67_DESC", "During a previous competition Kaggle, I discovered the principle of Class Activation Map (CAM) to visualize which areas the model uses to make the prediction. After the discovery related to impact of texture on classification, I wanted to use this method on this image (and others) in one Notebook.");
 
+define("_PUZZLE68_TITLE", "Image Classification - Keras - Seam Carving Preprocessing");
+define("_PUZZLE68_DESC", "Previously we saw a technic used to resize image without losing area of interest and also visualize which part of an image is used to make the classification. In this Notebook, we will test to use Seam Carving on large images instead of classic resizing and see the impact on the classification.");
+
 ?>
