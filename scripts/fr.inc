@@ -244,5 +244,7 @@ define("_PUZZLE67_DESC", "Lors d'une précédente compétition Kaggle, j'ai déc
 define("_PUZZLE68_TITLE", "Classification d'images - Keras - Preparation avec Seam Carving");
 define("_PUZZLE68_DESC", "Précédemment, nous avons vu une technique utilisée pour redimensionner une image sans perdre la zone d'intérêt et également visualiser quelle partie d'une image est utilisée pour effectuer la classification. Dasn ce Notebook, nous allons tester l’utilisation de Seam Carving sur de grandes images au lieu du redimensionnement classique et voir l’impact sur la classification.");
 
+define("_PUZZLE69_TITLE", "Classification d'images - Keras - Stanford dogs dataset avec Seam Carving");
+define("_PUZZLE69_DESC", "Dans le prédécent Notebook, nous avons vu l'intérêt du Seam Carving sur la classification d'images avec des ratios Largeur/Hauteur important. De ce fait, j'ai voulu tester le bénéfice de cette méthode sur un dataset complet. J'ai donc pris le dataset sur la classification des races de chiens qui possède des images assez grandes.");
 
 ?>

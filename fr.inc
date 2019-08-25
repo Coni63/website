@@ -18,9 +18,13 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.15");
+define("_VERSION","1.5.16");
 
-define("_NEWS66_TITLE","Ajout d'un script  (v1.5.15)");
+define("_NEWS67_TITLE","Ajout d'un script (v1.5.16)");
+define("_NEWS67_DESC", "Ajout d'un second script sur la Classification avec Seam Carving");
+define("_NEWS67_DATE", "25/08/2019");
+
+define("_NEWS66_TITLE","Ajout d'un script (v1.5.15)");
 define("_NEWS66_DESC", "Ajout d'un script sur la Classification avec Seam Carving");
 define("_NEWS66_DATE", "04/08/2019");
 
