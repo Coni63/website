@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.16");
+define("_VERSION","1.5.17");
+
+define("_NEWS68_TITLE","Ajout d'un script (v1.5.17)");
+define("_NEWS68_DESC", "Ajout d'une visualisation en p5.js sur le Ray Marching");
+define("_NEWS68_DATE", "01/09/2019");
 
 define("_NEWS67_TITLE","Ajout d'un script (v1.5.16)");
 define("_NEWS67_DESC", "Ajout d'un second script sur la Classification avec Seam Carving");

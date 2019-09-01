@@ -244,4 +244,7 @@ define("_PUZZLE68_DESC", "Previously we saw a technic used to resize image witho
 define("_PUZZLE69_TITLE", "Image Classification - Keras - Seam Carving on Stanford dogs dataset");
 define("_PUZZLE69_DESC", "In the previous Notebook, we saw the benefit of the Seam Carving on the classification of an image with high Width/Height ratios. Because of this, I wanted to test the benefit of this method on a complete dataset. I took the Stanford dog breeds dataset to do this trial.");
 
+define("_PUZZLE70_TITLE", "Simulation - p5.js - Ray tracing using Ray Marching");
+define("_PUZZLE70_DESC", "Few times ago, I wanted to learn a bit about Ray tracing. I discovered the technic called Ray Marching to find the intersection of a ray on a surface. The principle being interesting, I wanted to make my own implementation with p5.js. I also proposed this as a problem in Codingame.");
+
 ?>
