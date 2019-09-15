@@ -247,4 +247,6 @@ define("_PUZZLE69_DESC", "In the previous Notebook, we saw the benefit of the Se
 define("_PUZZLE70_TITLE", "Simulation - p5.js - Ray tracing using Ray Marching");
 define("_PUZZLE70_DESC", "Few times ago, I wanted to learn a bit about Ray tracing. I discovered the technic called Ray Marching to find the intersection of a ray on a surface. The principle being interesting, I wanted to make my own implementation with p5.js. I also proposed this as a problem in Codingame.");
 
+define("_PUZZLE71_TITLE", "Visualisation - leaflet.js - Visualization of car accident in France");
+define("_PUZZLE71_DESC", "On the government website, we have access to all records reported by the Police about car accidents. After a simple processing in Python, I took the opportunity of having this data to learn a bit about leaflet.js by doing a visualization of accidents by year and localization.");
 ?>

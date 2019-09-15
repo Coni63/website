@@ -250,4 +250,7 @@ define("_PUZZLE69_DESC", "Dans le prédécent Notebook, nous avons vu l'intérê
 define("_PUZZLE70_TITLE", "Simulation - p5.js - Ray tracing avec le Ray Marching");
 define("_PUZZLE70_DESC", "Il y a quelques temps, je me suis intéressé au Ray Tracing. J'ai découvert la technique appelée Ray Marching pour trouver l'intersection d'un rayon sur une surface. Le principe étant intéressant, j'ai fais un implémentation avec p5.js. J'ai aussi proposé cela comme un problème dans Codingame.");
 
+define("_PUZZLE71_TITLE", "Visualisation - leaflet.js - Visualisation des accidents de la route en France");
+define("_PUZZLE71_DESC", "Sur le site Web du gouvernement, nous avons accès à tous les accidents de la route signalés par la police. Après un traitement simple en Python, j’ai saisi l’opportunité d'avoir ces données afin d'apprendre utilisation de leaflet.js en faisant une visualisation des accidents par année et par localisation.");
+
 ?>

@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.17");
+define("_VERSION","1.5.18");
+
+define("_NEWS69_TITLE","Ajout d'un projet (v1.5.18)");
+define("_NEWS69_DESC", "Ajout d'un projet sur la visualisation d'accidents en France");
+define("_NEWS69_DATE", "15/09/2019");
 
 define("_NEWS68_TITLE","Ajout d'un script (v1.5.17)");
 define("_NEWS68_DESC", "Ajout d'une visualisation en p5.js sur le Ray Marching");
