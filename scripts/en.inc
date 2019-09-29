@@ -26,6 +26,7 @@ define("_DL_SOLUTION", "Download Notebook");
 define("_SHOW_REPO", "See Repository");
 define("_SHOW_VID", "Watch video");
 define("_DL_JAR", "Downlaod jar file");
+define("_DL_SCRIPT", "Download the script");
 
 define("_SECTION_EASY", "Easy Puzzles");
 define("_SECTION_MEDIUM", "Medium Puzzles");
@@ -249,4 +250,8 @@ define("_PUZZLE70_DESC", "Few times ago, I wanted to learn a bit about Ray traci
 
 define("_PUZZLE71_TITLE", "Visualisation - leaflet.js - Visualization of car accident in France");
 define("_PUZZLE71_DESC", "On the government website, we have access to all records reported by the Police about car accidents. After a simple processing in Python, I took the opportunity of having this data to learn a bit about leaflet.js by doing a visualization of accidents by year and localization.");
+
+define("_PUZZLE72_TITLE", "Recursion - Turtle - Fractals");
+define("_PUZZLE72_DESC", "I wanted to improve my skill in recursion which is for me something difficult to code. To do so, I took the opportunity to practice this and learning at the same time Turtle module by drawing fractals.");
+
 ?>

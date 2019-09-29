@@ -18,7 +18,11 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.5.18");
+define("_VERSION","1.5.19");
+
+define("_NEWS70_TITLE","Add a project (v1.5.19)");
+define("_NEWS70_DESC", "Add a project about the recursion to draw fractals");
+define("_NEWS70_DATE", "2019-09-29");
 
 define("_NEWS69_TITLE","Add a project (v1.5.18)");
 define("_NEWS69_DESC", "Add a project about the visualization of accidents in France");

@@ -26,6 +26,7 @@ define("_DL_SOLUTION", "Télécharger le Notebook");
 define("_SHOW_REPO", "Voir le Repository");
 define("_SHOW_VID", "Regarder la vidéo");
 define("_DL_JAR", "Télécharger le .jar");
+define("_DL_SCRIPT", "Télécharger le script");
 
 define("_TOP_SENTENCE", "Les scripts présents sur cette page sont aussi disponible sur mon <a href=\"https://github.com/Coni63\" target=\"_blank\">Github</a> mais non présentés ou sur notebook");
 
@@ -252,5 +253,8 @@ define("_PUZZLE70_DESC", "Il y a quelques temps, je me suis intéressé au Ray T
 
 define("_PUZZLE71_TITLE", "Visualisation - leaflet.js - Visualisation des accidents de la route en France");
 define("_PUZZLE71_DESC", "Sur le site Web du gouvernement, nous avons accès à tous les accidents de la route signalés par la police. Après un traitement simple en Python, j’ai saisi l’opportunité d'avoir ces données afin d'apprendre utilisation de leaflet.js en faisant une visualisation des accidents par année et par localisation.");
+
+define("_PUZZLE72_TITLE", "Récursion - Turtle - Fractales");
+define("_PUZZLE72_DESC", "Je voulais améliorer mes compétences en récursion, ce qui est pour moi quelque chose de difficile à coder. Pour ce faire, j'ai saisi l'occasion de le pratiquer tout en apprennant le module Tortue pour dessiner des fractales.");
 
 ?>
