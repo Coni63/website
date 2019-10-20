@@ -254,4 +254,7 @@ define("_PUZZLE71_DESC", "On the government website, we have access to all recor
 define("_PUZZLE72_TITLE", "Recursion - Turtle - Fractals");
 define("_PUZZLE72_DESC", "I wanted to improve my skill in recursion which is for me something difficult to code. To do so, I took the opportunity to practice this and learning at the same time Turtle module by drawing fractals.");
 
+define("_PUZZLE73_TITLE", "Simulation - Python & JS - Windmill Process");
+define("_PUZZLE73_DESC", "On a video of 3blue1brown, I discovered an exercise proposed during the Olympics of Mathematics in 2011. It offers a very interesting exercise using geometry and memoization. I decided to do a small simulator in JS and propose a puzzle on Codingame. You will find a solution aside (Another approach is also available on my Github in the CG repository)");
+
 ?>

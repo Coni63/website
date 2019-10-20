@@ -257,4 +257,7 @@ define("_PUZZLE71_DESC", "Sur le site Web du gouvernement, nous avons accès à 
 define("_PUZZLE72_TITLE", "Récursion - Turtle - Fractales");
 define("_PUZZLE72_DESC", "Je voulais améliorer mes compétences en récursion, ce qui est pour moi quelque chose de difficile à coder. Pour ce faire, j'ai saisi l'occasion de le pratiquer tout en apprennant le module Tortue pour dessiner des fractales.");
 
+define("_PUZZLE73_TITLE", "Simulation - Python & JS - Windmill Process");
+define("_PUZZLE73_DESC", "Sur une vidéo de 3blue1brown, j'ai découvert un exercice posé lors des Olympiades de Mathématiques en 2011. Celui-ci offre un exercice très interessant faisant appel à de la géométrie et de la memoization. De ce fait, j'ai fais un petit simulateur en JS ainsi que proposé le puzzle sur Codingame. Vous trouverez une solution ci-contre (Une autre approche est aussi disponible sur mon Github dans la partie CG).");
+
 ?>

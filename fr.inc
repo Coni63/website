@@ -18,7 +18,11 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.19");
+define("_VERSION","1.5.20");
+
+define("_NEWS71_TITLE","Ajout d'un script (v1.5.20)");
+define("_NEWS71_DESC", "Ajout d'un script sur le windmill problème");
+define("_NEWS71_DATE", "20/10/2019");
 
 define("_NEWS70_TITLE","Ajout d'un projet (v1.5.19)");
 define("_NEWS70_DESC", "Ajout d'un projet sur la récusion pour dessiner des fractales");

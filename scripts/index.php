@@ -888,6 +888,17 @@
                 </ul>
             </div>
             
+            <div class="col-lg-8 col-lg-offset-2"> 
+                <p><t><?= _PUZZLE73_TITLE ?></t></p>
+                <p><more><?= _PUZZLE73_DESC ?></more></p>
+            </div>
+
+            <div class="col-lg-2 pro">
+                <ul>
+                    <li class="link_tips"><imp><a class="white" href="solution/3blue1grey/home.html" target="_blank"><?= _SHOW_SOLUTION ?></a></imp></li>
+                    <li class="link_tips"><imp><a class="white" href="solution/3blue1grey/windmill_problem.py" download="windmill_problem.py"><?= _DL_SCRIPT ?></a></imp></li>
+                </ul>
+            </div>
 		</div>
         </div>
     <section id="down" name="down"></section>
