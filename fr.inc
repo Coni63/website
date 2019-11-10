@@ -18,7 +18,13 @@ define("_MENU4_DESC","Pour des raisons de temps, la section \"news\" a été rem
 define("_MENU5_DESC","Dans cette section, je partagerai des informations diverses (sites web, compte twitter, etc...). Soyez curieux !");
 define("_MENU6_DESC","Envie de voir un résumé des différents projets du Master ou des projets un peu plus importants ? C'est ici !");
 
-define("_VERSION","1.5.20");
+define("_BREAK", "En raison de changements personnels, la fréquence d'apparition des scripts sera réduit. Durant la première année, j'ai maintenu un rythme de 1 projet par semaine. Pour la deuxième année, j'ai maintenu 2 projets par mois. Cela m'a donne l’opportunité de continuer à apprendre en Data Science, découvrir l’apprentissage par renforcement, découvrir la cryptographie et commencer à apprendre Java. <br><br> J'ai atteint un stade où je n'ai pas d'idées de nouveaux projets à faire. En conséquence, je vais me concentrer davantage sur Codingame pour continuer à apprendre, mais je ne créerai pas de Notebook pour chaque puzzle intéressant. Cependant, vous pouvez les trouver sur Github. <br><br>De plus, je déménage maintenant et cela me prendra un peu de temps. En conséquence, un nouveau projet ne sera publié que lorsqu'il sera prêt.");
+
+define("_VERSION","1.5.21");
+
+define("_NEWS72_TITLE","Ajout d'un script (v1.5.21)");
+define("_NEWS72_DESC", "Ajout d'un script à propos de EB-Synth");
+define("_NEWS72_DATE", "27/10/2019");
 
 define("_NEWS71_TITLE","Ajout d'un script (v1.5.20)");
 define("_NEWS71_DESC", "Ajout d'un script sur le windmill problème");

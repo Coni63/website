@@ -262,6 +262,14 @@ sm {
 	font-size: 12px;
 }
 
+#red-ribbon {
+    background: #f85c37;
+    color : #34495e;
+    font-weight:400;
+    padding-top : 15px;
+    padding-bottom : 15px;
+}
+
 /*---------------------------------------------------
 	FOOTER
 ---------------------------------------------------*/

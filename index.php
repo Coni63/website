@@ -145,7 +145,15 @@
                 </div>
             </div>
         </div>
-
+        
+        
+        <div id="red-ribbon">
+            <div class="container animated wow fadeInDown">
+                <?= _BREAK ?>
+            </div>
+        </div>
+        
+        
         <section id="news" name="news"></section>
         <iframe id="iframe1" src="" frameborder="0" width="100%" height="500px"   scrolling="yes">  
             <p>Your browser does not support iframes.</p>

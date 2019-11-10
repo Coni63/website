@@ -18,7 +18,13 @@ define("_MENU4_DESC","Due to time restriction, the \"news\" section has been rep
 define("_MENU5_DESC","This section will be a repository of miscelleanous information (websites, twitter account). Be curious !");
 define("_MENU6_DESC","Wants to see some content of training's project or a bit bigger projects ? It's here ! ");
 
-define("_VERSION","1.5.20");
+define("_BREAK","Due to personal changes, there will be less often a new script added. During the first year, I've maintained a rythm of 1 project a week. For the second year, I maintained 2 projects a month. This gaves me the opportunity to keep learning in Data Science, discover the Reinforced Learning, discover cryptography and also start learning Java. <br><br>I'm now reaching a stage where I don't have clear new projects to do. As a result, I'm more focusing on Codingame to keep learning but I will not create a Notebook for each fun puzzles. However, you can find them on Github. <br><br>In addition, I'm now moving and this will take me some times. As a result, there will be new project posted only when ready.");
+
+define("_VERSION","1.5.21");
+
+define("_NEWS72_TITLE","Add a script (v1.5.21)");
+define("_NEWS72_DESC", "Add a script about EB-Synth");
+define("_NEWS72_DATE", "2019-10-27");
 
 define("_NEWS71_TITLE","Add a script (v1.5.20)");
 define("_NEWS71_DESC", "Add a script about windmill problem");

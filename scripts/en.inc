@@ -257,4 +257,9 @@ define("_PUZZLE72_DESC", "I wanted to improve my skill in recursion which is for
 define("_PUZZLE73_TITLE", "Simulation - Python & JS - Windmill Process");
 define("_PUZZLE73_DESC", "On a video of 3blue1brown, I discovered an exercise proposed during the Olympics of Mathematics in 2011. It offers a very interesting exercise using geometry and memoization. I decided to do a small simulator in JS and propose a puzzle on Codingame. You will find a solution aside (Another approach is also available on my Github in the CG repository)");
 
+define("_PUZZLE74_TITLE", "Style Transfer - Python - EB-Synth");
+define("_PUZZLE74_DESC", "
+In 2018, the technique of Style Transfer on an image became famous. Many researchers have tried to adapt the model to videos but there were a lot of problems with transitions between images creating flickering. EB-Synth is the latest generation capable of Style Transfer on a video unsing a single frame. The result is impressive. In this project, a test was done on a video from youtube.");
+
+
 ?>
