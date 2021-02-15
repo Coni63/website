@@ -1,0 +1,22 @@
+<main role="main">
+
+    <div class="container-fluid section-dark neumorphism-dark item" [ngsReveal]="{ reset: includeReveal, viewFactor: viewFactor, duration: duration}">
+        <h1>Experiences</h1>
+    
+        <div *ngFor="let experience of experiences" class="row">
+            <div class="col-sm-3" [class.text-right]="!viewport_too_small">
+                <div class="date" [innerHTML]="experience.date"></div>
+                <div class="badge badge-pill badge-primary" [innerHTML]="experience.name"></div>
+            </div>
+            <div class="col-sm-9">
+                <div class="title" [innerHTML]="experience.title"></div>
+                <div>
+                    <span class="company" [innerHTML]="experience.company"></span>&nbsp;
+                    <a class="link" href="{{ experience.urls[0].url }}" target="blank" [innerHTML]="experience.urls[0].text"></a>
+                    <p [innerHTML]="experience.description"></p>
+                </div>
+            </div>
+        </div>
+    </div>  
+    
+</main>

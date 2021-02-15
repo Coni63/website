@@ -1,0 +1,49 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-rows: 1em, 3em;
+    margin-bottom: 1em;
+
+    main {
+        grid-area: 2 / 1 / 3 / 3;
+        color: #b7c7da;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.0rem;
+    }
+
+    header {
+        grid-area: 1 / 1 / 2 / 3;
+        font-family: 'Nunito',sans-serif;
+        font-size: 1.1rem;
+        font-weight: 500;
+        color: #e3e9f1;
+    }
+
+    .hasURL {
+        grid-area: 2 / 1 / 3 / 2 !important;
+    }
+
+    .link {
+        align-self: top;
+        justify-self: right;
+        grid-area: 2 / 2 / 3 / 3;
+        padding-left: 10px;
+    }
+
+    .ellipsis {
+        max-height: 4.5em; /*1.5em per row*/
+    }
+
+    #content {
+        text-align: justify;
+    }
+
+    .overflow{
+        display:inline-block;
+        // white-space: nowrap;
+        max-height: 4.5em;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+}

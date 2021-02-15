@@ -1,3 +1,2 @@
-cd app
-ng serve --proxy-config proxy.conf.json
+ng serve --host 0.0.0.0
 PAUSE

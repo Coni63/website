@@ -1,0 +1,59 @@
+.socials {
+	position:fixed;
+	top:0;
+	right:0;
+	z-index: 70;
+	width: 60px;
+	height: 60px;
+	padding: 0;
+	margin:0;
+
+	.fa {
+		display:block;
+		padding: 10px;
+		font-size: 30px;
+		width: 100% !important;
+		text-align: center;
+		text-decoration: none;
+		margin: 5px 5px 5px -5px;
+		opacity: 0.5;
+		-webkit-border-radius: 10px;
+		border-radius: 10px;
+	}
+	
+	.fa:hover {
+		opacity: 0.8;
+	}
+	
+	.fa-twitter {
+		background: #55ACEE;
+		color: white;
+	}
+	
+	.fa-linkedin {
+		background: #007bb5;
+		color: white;
+	}
+
+	.fa-github {
+		background: #24292e;
+		color: white;
+	}
+
+}
+
+@media (max-width: 768px) {
+	.socials {
+		top:45px;
+		width: 45px;
+		height: 45px;
+	
+		.fa {
+			padding-top:5px;
+			padding-bottom: 5px;
+			font-size: 1.5em;
+			-webkit-border-radius: 5px;
+			border-radius: 5px;
+		}
+	}
+}

@@ -1,0 +1,51 @@
+<main role="main">
+    <div class="container-fluid section-dark neumorphism-dark item" [ngsReveal]="{ reset: includeReveal, viewFactor: viewFactor, duration: duration}">
+        <h1>Skill&nbsp;<small>FullStack</small></h1>
+        <div class="row vertical-align">
+            <div class="col-md-12">
+                <p [innerHTML]="description"></p>
+            </div>
+        </div>
+
+        <div class="hr">Skills</div>
+
+        <div class="row">
+            <div *ngFor="let gauge of gaugeData" class="col-xl-3 col-sm-6 text-center">
+                <div class="container-gauge">
+                    <ngx-gauge 
+                        [value]="gauge.value" 
+                        [label]="gauge.label"  
+                        [append]="gauge.append"
+                        [prepend]="gauge.prepend"
+                        [type]="gaugeType" 
+                        [cap]="gaugeCap"
+                        [thick] = "gaugeThick"
+                        [max] = "gauge.max"
+                        [foregroundColor] = "gaugeforegroundColor"
+                        [backgroundColor] = "gaugebackgroundColor"
+                    >
+                    </ngx-gauge>
+                    <div class="content" [innerHTML]="gauge.text"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="hr">Tags</div>
+
+        <span *ngFor="let tag of tags" class="badge badge-pill badge-primary" [innerHTML]="tag"></span>
+                
+        <div class="hr">Projects</div>
+        
+        
+        <div class="row">
+            <div *ngFor="let project of projects; let i = index" class="col-md-4">
+                <app-project-list 
+                [title]="project.title" 
+                [content]="project.content"  
+                [url]="project.url"
+                [url_text]="project.url_text">
+                </app-project-list>
+            </div>
+        </div>
+    </div>  
+</main>

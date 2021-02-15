@@ -1,0 +1,26 @@
+<main role="main">   
+    <div class="container-fluid section-dark neumorphism-dark item" [ngsReveal]="{ reset: includeReveal, viewFactor: viewFactor, duration: duration}">
+        <h1>Formation</h1>
+    
+        <div *ngFor="let formation of formations" class="row">
+            <div class="col-sm-3" [class.text-right]="!viewport_too_small">
+                <div class="date" [innerHTML]="formation.date"></div>
+                <div class="badge badge-pill badge-primary" [innerHTML]="formation.name"></div>
+            </div>
+            <div class="col-sm-9">
+                <div class="title" [innerHTML]="formation.title"></div>
+                <div class="company" [innerHTML]="formation.location"></div>
+                <div>
+                    <span *ngFor="let link of formation.urls">
+                        <a class="link" href="{{ link.url }}" target="blank" [innerHTML]="link.text"></a><br>
+                    </span>
+                </div>
+                <div>
+                    <p [innerHTML]="formation.description"></p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+</main>

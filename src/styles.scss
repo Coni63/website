@@ -1,1 +1,116 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~compass-mixins/lib/compass/css3';
+
+@import 'components.scss';
+
+h1 {
+  font-family: 'Nunito',sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  z-index: 2;
+  color: #FFF;
+  background: -webkit-linear-gradient(white, #1b2735);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+}
+
+p {
+  // font-family: 'lato',sans-serif;
+  // font-family: 'Nunito',sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  // font-family: 'Montserrat', sans-serif;
+  // font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 1.0rem;
+  z-index: 2;
+  color: #b7c7da;
+  text-align: justify;
+}
+
+.date {
+  font-family: 'Nunito',sans-serif;
+  font-size: 1.0rem;
+  font-weight: 500;
+  color: #e3e9f1;
+}
+
+@media (max-width: 768px) {
+  .date {
+    text-align: left;
+  }
+  .badge {
+    align-self: left;
+  }
+}
+
+.title {
+  font-family: 'Nunito',sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #e3e9f1;
+}
+
+.company {
+  font-family: 'Nunito',sans-serif;
+  font-size: 1.0rem;
+  font-weight: 500;
+  color: #e3e9f1;
+}
+
+section {
+  padding: 5em;
+}
+
+@media (max-width: 1180px) {
+  section {
+    padding: 1em;
+  }
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+  
+}
+
+.markup {
+  font-weight: 400;
+  // text-decoration: underline dotted;
+  // font-style: italic;
+  font-size: 1.0rem;
+  // font-family: 'lato',sans-serif;
+  color: #FFF !important;
+}
+
+.badge {
+  margin: 0.1em;
+  font-size: 0.9rem !important;
+  font-weight: 400 !important;
+  font-family: 'lato',sans-serif;
+}
+
+.hr {
+  margin-top: 2em !important;
+	margin-bottom: 2em !important;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 1rem !important;
+}
+
+.hr::before, .hr::after {
+  content: '';
+  flex: 1;
+  height: 0.6em;
+  border-bottom: 1px solid #000;
+  border-radius: .5em;
+  box-shadow: 
+	inset -.3em -.3em .3em 0 lighten(#121922, 15%),
+	inset .3em .3em .3em 0 darken(#121922, 15%)!important;
+}
+.hr::before {
+  margin-right: 1em;
+  
+}
+.hr::after {
+  margin-left: 1em;
+}

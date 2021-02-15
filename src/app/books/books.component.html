@@ -1,0 +1,25 @@
+<main role="main">
+    <div class="container-fluid section-dark neumorphism-dark item" [ngsReveal]="{ reset: includeReveal, viewFactor: viewFactor, duration: duration}">
+        <h1>Books</h1>
+        <div class="row vertical-align">
+            <div class="col-md-12">
+                <p [innerHTML]="description"></p>
+            </div>
+        </div>
+
+        <div class="hr">Books</div>
+
+        <div class="row">
+            <div class="col-md-3" *ngFor="let book of books">
+                <div class="img-container">
+                    <img [src]="book.src" [alt]="book.alt" class="img-fluid  mx-auto d-block">
+                </div>
+                <div class="col text-container align-items-end text-center">
+                    <a [href]="book.url" target="_blank" [innerHTML]="book.url_text"></a>
+                </div>
+            </div>
+        </div>
+
+    </div>  
+    
+</main>

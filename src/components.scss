@@ -1,0 +1,224 @@
+/* You can add global styles to this file, and also import other style files */
+
+$blue: #007bff;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$red: #dc3545;
+$orange: #fd7e14;
+$yellow: #ffc107;
+$green: #28a745;
+$teal: #20c997;
+$cyan: #17a2b8;
+$white: #fff;
+$gray: #6c757d;
+$gray-dark: #343a40;
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+// $dark: #343a40;
+// $dark: #090A0F;
+$dark: #121922;
+
+$blue_t: #007bff;
+$indigo_t: #6610f2;
+$purple_t: #6f42c1;
+$pink_t: #e83e8c;
+$red_t: #dc3545;
+$orange_t: #fd7e14;
+$yellow_t: #ffc107;
+$green_t: #28a745;
+$teal_t: #20c997;
+$cyan_t: #17a2b8;
+$white_t: #fff;
+$gray_t: #6c757d;
+$gray-dark_t: #343a40;
+$primary_t: #007bff;
+$secondary_t: #6c757d;
+$success_t: #28a745;
+$info_t: #17a2b8;
+$warning_t: #ffc107;
+$danger_t: #dc3545;
+$light_t: #f8f9fa;
+// $dark_t: RGBA(9,10,15,0.3);
+// $dark_t: RGBA(27,39,53,0.3);
+$dark_t: RGBA(18,25,34,0.3);
+
+/*
+set color for each panel 
+*/
+.section-primary {
+    background: $primary;
+    color: $light;
+}
+
+.section-secondary {
+    background: $secondary;
+    color: $light;
+}
+
+.section-success {
+    background: $success;
+    color: $light;
+}
+
+.section-info {
+    background: $info;
+    color: $light;
+}
+
+.section-warning {
+    background: $warning;
+    color: $dark;
+}
+
+.section-danger {
+    background: $danger;
+    color: $light;
+}
+
+.section-light {
+    background: $light;
+    color: $dark;
+}
+
+.section-dark {
+    // background: $dark;
+	color: $light;
+	background: $dark_t;
+}
+
+/*
+Class to change boostrap jumbotron based on Bootstrap color used
+*/
+@mixin jumbotron-func($background, $font) {
+	position: relative;
+	width: 100%;
+	top: 0px;
+    background-color: $background !important;
+    color: $font;
+}
+
+.jumbotron-primary {
+	@include jumbotron-func($primary, $light);
+}
+
+.jumbotron-secondary {
+	@include jumbotron-func($secondary, $light);
+}
+
+.jumbotron-success {
+	@include jumbotron-func($success, $light);
+}
+
+.jumbotron-info {
+	@include jumbotron-func($info, $light);
+}
+
+.jumbotron-warning {
+	@include jumbotron-func($warning, $dark);
+}
+
+.jumbotron-danger {
+	@include jumbotron-func($danger, $light);
+}
+
+.jumbotron-light {
+	@include jumbotron-func($light, $dark);
+}
+
+.jumbotron-dark {
+	@include jumbotron-func($dark, $light);
+}
+
+/*
+Class to have neumorphise effect based on Bootstrap color used
+*/
+@mixin box-shadow($color) {
+	// background: $color;
+	padding: 1em;
+	border-radius: .5em;
+	box-shadow: 
+	-.3em -.3em .3em 0 lighten($color, 10%),
+	.3em .3em .3em 0 darken($color, 10%);
+	margin: 1em 1em 0em 0em;
+}
+  
+@mixin box-shadow-negative($color) {
+	background: $color;
+	opacity: 0.5;
+	padding: 1em;
+	border-radius: .5em;
+	box-shadow: 
+	inset -.3em -.3em .3em 0 lighten($color, 15%),
+	inset .3em .3em .3em 0 darken($color, 15%);
+	margin: 1em 1em 0em 0em;
+}
+
+.neumorphism-primary {
+	@include box-shadow($primary);
+}
+
+.neumorphism-secondary {
+	@include box-shadow($secondary);
+}
+
+.neumorphism-success {
+	@include box-shadow($success);
+}
+
+.neumorphism-info {
+	@include box-shadow($info);
+}
+
+.neumorphism-warning {
+	@include box-shadow($warning);
+}
+
+.neumorphism-danger {
+	@include box-shadow($danger);
+}
+
+.neumorphism-light {
+	@include box-shadow($light);
+}
+
+.neumorphism-dark {
+	@include box-shadow($dark);
+}
+
+.neumorphism-negative-primary {
+	@include box-shadow-negative($primary);
+}
+
+.neumorphism-negative-secondary {
+	@include box-shadow-negative($secondary);
+}
+
+.neumorphism-negative-success {
+	@include box-shadow-negative($success);
+}
+
+.neumorphism-negative-info {
+	@include box-shadow-negative($info);
+}
+
+.neumorphism-negative-warning {
+	@include box-shadow-negative($warning);
+}
+
+.neumorphism-negative-danger {
+	@include box-shadow-negative($danger);
+}
+
+.neumorphism-negative-light {
+	@include box-shadow-negative($light);
+}
+
+.neumorphism-negative-dark {
+	@include box-shadow-negative($dark);
+}
